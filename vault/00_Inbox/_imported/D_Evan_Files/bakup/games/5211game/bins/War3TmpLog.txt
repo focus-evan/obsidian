@@ -1,0 +1,12 @@
+[AssocketHelper] Get Shared Memory Success
+[AssocketHelper] GamePatchPath: D:\Evan\Files\bakup\games\5211game\W3L\core\..\Patch\war3\g126_lo7\
+[AssocketHelper] War3ExePath: C:\Users\bzsj_\AppData\Roaming\Games\202508112253426604\YY
+[AssocketHelper] War3ShellPatchPath: D:\Evan\Files\bakup\games\5211game\W3L\core\..\Patch\war3\gp_1118\
+[AssocketHelper] Get Recd Memory Success
+[AssocketHelper] mpq file: D:\Evan\Files\bakup\games\5211game\W3L\core\..\Patch\MPQ\dota6.83skinex-98
+[AssocketHelper] Load D:\Evan\Files\bakup\games\5211game\W3L\core\..\Patch\war3\gp_1118\\Assocket.dll ...
+[AssocketHelper] Load success
+[AssocketHelper] set log path: D:\Evan\Files\bakup\games\5211game\W3L\core\..\Patch\war3\gp_1118\\..\..\..\..\bins\log\YWGPlayer\
+[AssocketHelper] convert to absolute: D:\Evan\Files\bakup\games\5211game\bins\log\YWGPlayer\
+[AssocketHelper] get war3shell.dll ...
+[AssocketHelper] load success

@@ -1,0 +1,146 @@
+[
+  {
+    "shot": "01",
+    "duration": 3.306,
+    "voice": "让我给你看一个更扎心的真相。",
+    "keyword": "更扎心的真相",
+    "caption": "让我给你看一个更扎心的真相",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+    "asset_start": 14.0
+  },
+  {
+    "shot": "02",
+    "duration": 1.889,
+    "voice": "在长鑫崛起之前，",
+    "keyword": "长鑫崛起前",
+    "caption": "在长鑫崛起之前",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-厂区产线-企业宣传-01.mp4",
+    "asset_start": 6.0
+  },
+  {
+    "shot": "03",
+    "duration": 2.125,
+    "voice": "全球存储芯片市场，",
+    "keyword": "存储芯片市场",
+    "caption": "全球存储芯片市场",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\芯片-洁净室-半导体产线-需授权确认-01.mp4",
+    "asset_start": 1.2
+  },
+  {
+    "shot": "04",
+    "duration": 4.398,
+    "voice": "完全是一个被三星、海力士、美光这三家巨头垄断的黑暗森林。",
+    "keyword": "三巨头垄断",
+    "caption": "三星、海力士、美光垄断 DRAM 市场",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+    "asset_start": 7.5
+  },
+  {
+    "shot": "05",
+    "duration": 4.398,
+    "voice": "它们三家，吃掉了全球超过百分之九十的市场份额。",
+    "keyword": "90%+",
+    "caption": "三家吃掉全球超过 90% 的市场份额",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+    "asset_start": 31.5
+  },
+  {
+    "shot": "06",
+    "duration": 1.814,
+    "voice": "这意味着什么？",
+    "keyword": "这意味着什么",
+    "caption": "这意味着什么？",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\04_ai_datacenter_servers\\AI-数据中心-服务器机房-算力基建-01.webm",
+    "asset_start": 7.0
+  },
+  {
+    "shot": "07",
+    "duration": 3.779,
+    "voice": "意味着我们的手机、电脑、服务器，",
+    "keyword": "每台设备",
+    "caption": "手机、电脑、服务器",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\04_ai_datacenter_servers\\AI-GPU-DGX工作站-算力设备-02.webm",
+    "asset_start": 11.0
+  },
+  {
+    "shot": "08",
+    "duration": 2.834,
+    "voice": "每一台设备里的记忆中枢，",
+    "keyword": "记忆中枢",
+    "caption": "每一台设备里的“记忆中枢”",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+    "asset_start": 45.0
+  },
+  {
+    "shot": "09",
+    "duration": 3.07,
+    "voice": "都在给这三家巨头交过路费。",
+    "keyword": "交过路费",
+    "caption": "都在给三家巨头交“过路费”",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\06_city_factory_supplychain\\城市-夜景-产业区-转场氛围-01.webm",
+    "asset_start": 0.0
+  },
+  {
+    "shot": "10",
+    "duration": 2.125,
+    "voice": "别人心情好就涨价，",
+    "keyword": "涨价",
+    "caption": "别人心情好，就涨价",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\财经-股市图表-数据动画-需授权确认-01.mp4",
+    "asset_start": 1.0
+  },
+  {
+    "shot": "11",
+    "duration": 1.889,
+    "voice": "心情不好就断供，",
+    "keyword": "断供",
+    "caption": "心情不好，就断供",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\AI-服务器-数据中心-需授权确认-01.mp4",
+    "asset_start": 0.2
+  },
+  {
+    "shot": "12",
+    "duration": 2.834,
+    "voice": "我们连还价的底气都没有。",
+    "keyword": "没有底气",
+    "caption": "我们连还价的底气都没有",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\04_ai_datacenter_servers\\AI-数据中心-服务器机房-算力基建-01.webm",
+    "asset_start": 28.0
+  },
+  {
+    "shot": "13",
+    "duration": 2.362,
+    "voice": "但朱一明偏偏不信邪。",
+    "keyword": "偏不信邪",
+    "caption": "但朱一明偏偏不信邪",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-技术研发-产品应用-04.mp4",
+    "asset_start": 1.0
+  },
+  {
+    "shot": "14",
+    "duration": 4.398,
+    "voice": "像朱一明这样的人，或者说像长鑫这样的企业，",
+    "keyword": "长鑫这样的企业",
+    "caption": "像朱一明这样的人，像长鑫这样的企业",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+    "asset_start": 38.0
+  },
+  {
+    "shot": "15",
+    "duration": 3.779,
+    "voice": "他们成功的背后，根本不是靠运气，",
+    "keyword": "不是靠运气",
+    "caption": "成功的背后，根本不是靠运气",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\芯片-实验室-纳米材料-官方频道-02.mp4",
+    "asset_start": 1.0
+  },
+  {
+    "shot": "16",
+    "duration": 4.398,
+    "voice": "而是死死踩中了一条最底层的逻辑：产业替代的红利。",
+    "keyword": "产业替代红利",
+    "caption": "最底层的逻辑：产业替代的红利",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-存储产品-芯片展示-03.mp4",
+    "asset_start": 0.3
+  }
+]

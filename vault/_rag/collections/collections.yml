@@ -1,0 +1,52 @@
+version: 0.1
+created: 2026-05-30
+collections:
+  - name: s_teacher_style
+    category: "10_S老师IP资产"
+    purpose: "S老师表达风格、口吻、价值观、直播和短视频语料"
+    include_types: ["document", "subtitle", "audio", "video"]
+    default_top_k: 8
+    graph_expand: true
+  - name: course_corpus
+    category: "10_S老师IP资产"
+    purpose: "课程语料、黄埔语料、学员答疑"
+    include_types: ["document", "spreadsheet", "subtitle"]
+    default_top_k: 8
+    graph_expand: true
+  - name: stock_framework
+    category: "20_投研方法论"
+    purpose: "五层六维选股、题材雷达、宏观大盘、策略复盘"
+    include_types: ["document", "spreadsheet", "data"]
+    default_top_k: 10
+    graph_expand: true
+  - name: industry_research
+    category: "30_产业研究库"
+    purpose: "AI、具身智能、商业航天、芯片、机器人等产业研究"
+    include_types: ["document", "presentation", "spreadsheet"]
+    default_top_k: 10
+    graph_expand: true
+  - name: s5000ai_product
+    category: "40_S5000AI产品库"
+    purpose: "S5000AI产品战略、Agent设计、用户路径"
+    include_types: ["document", "presentation", "spreadsheet"]
+    default_top_k: 8
+    graph_expand: true
+  - name: operations_growth
+    category: "50_业务运营增长"
+    purpose: "用户问题、作业、私域、课程、转化话术"
+    include_types: ["document", "spreadsheet"]
+    default_top_k: 8
+    graph_expand: false
+  - name: ai_engineering
+    category: "60_AI工具与工程"
+    purpose: "Prompt、RAG、Agent、工具评测、自动化流程"
+    include_types: ["document", "data"]
+    default_top_k: 8
+    graph_expand: true
+  - name: data_system
+    category: "70_数据与系统"
+    purpose: "SQL、数据字典、用户反馈、训练问答、日志"
+    include_types: ["data", "document", "spreadsheet"]
+    default_top_k: 6
+    graph_expand: false
+    requires_privacy_review: true

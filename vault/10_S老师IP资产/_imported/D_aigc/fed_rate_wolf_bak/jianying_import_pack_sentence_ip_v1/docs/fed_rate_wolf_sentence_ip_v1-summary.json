@@ -1,0 +1,19 @@
+{
+  "draft": "C:\\Users\\bzsj_\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\fed_rate_wolf_sentence_ip_v1",
+  "import_pack": "D:\\aigc\\fed_rate_wolf\\jianying_import_pack_sentence_ip_v1",
+  "reference": "D:\\aigc\\fed_rate_wolf\\99_output\\sentence_ip_v1\\fed_rate_wolf_sentence_ip_v1-reference.mp4",
+  "video_only": "D:\\aigc\\fed_rate_wolf\\99_output\\sentence_ip_v1\\fed_rate_wolf_sentence_ip_v1-video-only.mp4",
+  "manifest": "D:\\aigc\\fed_rate_wolf\\jianying_import_pack_sentence_ip_v1\\docs\\fed_rate_wolf_sentence_ip_v1-manifest.json",
+  "srt": "D:\\aigc\\fed_rate_wolf\\jianying_import_pack_sentence_ip_v1\\docs\\fed_rate_wolf_sentence_ip_v1-subtitles.srt",
+  "presenter_video": null,
+  "voice_audio": "D:\\aigc\\fed_rate_wolf\\99_output\\voice_edge_tts_fallback.mp3",
+  "validation": {
+    "available": false,
+    "info": {
+      "error": "[WinError 2] 系统找不到指定的文件。"
+    },
+    "lint": {
+      "error": "[WinError 2] 系统找不到指定的文件。"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+02-07 23:39:37 [Info]	UserScore pid: 5, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: m7444444 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 11, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: XO小熊 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 8, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: 城西小痞子 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 9, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: 剁椒小兔头 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 1, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: 小兵还是你啊 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 7, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: Aa001540 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 3, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: amazoner123 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 2, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: Panda潘 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 10, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: 浦城五弄 key: 11archive value: [-] -> 1
+02-07 23:39:37 [Info]	UserScore pid: 4, fsVal: -1, gtime: 0, unique: 0
+02-07 23:39:37 [Info]	Initialize
+02-07 23:39:37 [Info]	[SET] table: 戈萨的 key: 11archive value: [-] -> 1
+02-07 23:39:46 [Info]	[GET] table: config key: 圣诞主题 value: [-] -> [-]

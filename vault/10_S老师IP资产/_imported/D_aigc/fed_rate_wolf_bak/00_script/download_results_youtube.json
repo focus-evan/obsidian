@@ -1,0 +1,182 @@
+[
+  {
+    "shot": "01",
+    "query": "Federal Reserve building exterior footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "config\n[youtube:search] query \"Federal Reserve building exterior footage\" page 1: Downloading API JSON\n[youtube:search] Playlist Federal Reserve building exterior footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=iqD8a7ngz54\n[youtube] iqD8a7ngz54: Downloading webpage\n[youtube] iqD8a7ngz54: Downloading android vr player API JSON\n[info] iqD8a7ngz54: Downloading 1 format(s): 137+140\n[info] iqD8a7ngz54: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: Federal Reserve building exterior footage\n"
+  },
+  {
+    "shot": "02",
+    "query": "2022 Federal Reserve rate hikes news footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "outube:search] query \"2022 Federal Reserve rate hikes news footage\" page 1: Downloading API JSON\n[youtube:search] Playlist 2022 Federal Reserve rate hikes news footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=8-wqXMrNGkA\n[youtube] 8-wqXMrNGkA: Downloading webpage\n[youtube] 8-wqXMrNGkA: Downloading android vr player API JSON\n[info] 8-wqXMrNGkA: Downloading 1 format(s): 136+140\n[info] 8-wqXMrNGkA: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: 2022 Federal Reserve rate hikes news footage\n"
+  },
+  {
+    "shot": "03",
+    "query": "macroeconomic analysis financial data screen",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "outube:search] query \"macroeconomic analysis financial data screen\" page 1: Downloading API JSON\n[youtube:search] Playlist macroeconomic analysis financial data screen: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=B8rgaPjTozA\n[youtube] B8rgaPjTozA: Downloading webpage\n[youtube] B8rgaPjTozA: Downloading android vr player API JSON\n[info] B8rgaPjTozA: Downloading 1 format(s): 299+140\n[info] B8rgaPjTozA: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: macroeconomic analysis financial data screen\n"
+  },
+  {
+    "shot": "04",
+    "query": "US Treasury bond yield curve 30 year footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "outube:search] query \"US Treasury bond yield curve 30 year footage\" page 1: Downloading API JSON\n[youtube:search] Playlist US Treasury bond yield curve 30 year footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=2gbSDWgZLQQ\n[youtube] 2gbSDWgZLQQ: Downloading webpage\n[youtube] 2gbSDWgZLQQ: Downloading android vr player API JSON\n[info] 2gbSDWgZLQQ: Downloading 1 format(s): 399+140\n[info] 2gbSDWgZLQQ: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: US Treasury bond yield curve 30 year footage\n"
+  },
+  {
+    "shot": "05",
+    "query": "30 year treasury yield 5 percent chart",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "b client config\n[youtube:search] query \"30 year treasury yield 5 percent chart\" page 1: Downloading API JSON\n[youtube:search] Playlist 30 year treasury yield 5 percent chart: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=8WD2OqFNJfU\n[youtube] 8WD2OqFNJfU: Downloading webpage\n[youtube] 8WD2OqFNJfU: Downloading android vr player API JSON\n[info] 8WD2OqFNJfU: Downloading 1 format(s): 399+140\n[info] 8WD2OqFNJfU: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: 30 year treasury yield 5 percent chart\n"
+  },
+  {
+    "shot": "06",
+    "query": "AI data center server racks footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "oading web client config\n[youtube:search] query \"AI data center server racks footage\" page 1: Downloading API JSON\n[youtube:search] Playlist AI data center server racks footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=3Yh9OddmgS0\n[youtube] 3Yh9OddmgS0: Downloading webpage\n[youtube] 3Yh9OddmgS0: Downloading android vr player API JSON\n[info] 3Yh9OddmgS0: Downloading 1 format(s): 137+140\n[info] 3Yh9OddmgS0: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: AI data center server racks footage\n"
+  },
+  {
+    "shot": "07",
+    "query": "US CPI inflation chart 2026",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "ation chart 2026\": Downloading web client config\n[youtube:search] query \"US CPI inflation chart 2026\" page 1: Downloading API JSON\n[youtube:search] Playlist US CPI inflation chart 2026: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=am7G0yu9qUE\n[youtube] am7G0yu9qUE: Downloading webpage\n[youtube] am7G0yu9qUE: Downloading android vr player API JSON\n[info] am7G0yu9qUE: Downloading 1 format(s): 399+140\n[info] am7G0yu9qUE: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: US CPI inflation chart 2026\n"
+  },
+  {
+    "shot": "08",
+    "query": "US national debt clock footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "footage\": Downloading web client config\n[youtube:search] query \"US national debt clock footage\" page 1: Downloading API JSON\n[youtube:search] Playlist US national debt clock footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=9pgD7rv-HpM\n[youtube] 9pgD7rv-HpM: Downloading webpage\n[youtube] 9pgD7rv-HpM: Downloading android vr player API JSON\n[info] 9pgD7rv-HpM: Downloading 1 format(s): 399+140\n[info] 9pgD7rv-HpM: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: US national debt clock footage\n"
+  },
+  {
+    "shot": "09",
+    "query": "US Treasury auction footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": " auction footage\": Downloading web client config\n[youtube:search] query \"US Treasury auction footage\" page 1: Downloading API JSON\n[youtube:search] Playlist US Treasury auction footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=uNzY1REaI-M\n[youtube] uNzY1REaI-M: Downloading webpage\n[youtube] uNzY1REaI-M: Downloading android vr player API JSON\n[info] uNzY1REaI-M: Downloading 1 format(s): 135+140\n[info] uNzY1REaI-M: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: US Treasury auction footage\n"
+  },
+  {
+    "shot": "10",
+    "query": "Kevin Warsh Federal Reserve interview footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "ube:search] query \"Kevin Warsh Federal Reserve interview footage\" page 1: Downloading API JSON\n[youtube:search] Playlist Kevin Warsh Federal Reserve interview footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=fCU2SCUhtT0\n[youtube] fCU2SCUhtT0: Downloading webpage\n[youtube] fCU2SCUhtT0: Downloading android vr player API JSON\n[info] fCU2SCUhtT0: Downloading 1 format(s): 398+140\n[info] fCU2SCUhtT0: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: Kevin Warsh Federal Reserve interview footage\n"
+  },
+  {
+    "shot": "11",
+    "query": "Federal Reserve balance sheet runoff animation",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": ":search] query \"Federal Reserve balance sheet runoff animation\" page 1: Downloading API JSON\n[youtube:search] Playlist Federal Reserve balance sheet runoff animation: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=YJ_jW6T1yGQ\n[youtube] YJ_jW6T1yGQ: Downloading webpage\n[youtube] YJ_jW6T1yGQ: Downloading android vr player API JSON\n[info] YJ_jW6T1yGQ: Downloading 1 format(s): 399+140\n[info] YJ_jW6T1yGQ: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: Federal Reserve balance sheet runoff animation\n"
+  },
+  {
+    "shot": "12",
+    "query": "tightrope walking metaphor finance",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "wnloading web client config\n[youtube:search] query \"tightrope walking metaphor finance\" page 1: Downloading API JSON\n[youtube:search] Playlist tightrope walking metaphor finance: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=RlC9b3QWObQ\n[youtube] RlC9b3QWObQ: Downloading webpage\n[youtube] RlC9b3QWObQ: Downloading android vr player API JSON\n[info] RlC9b3QWObQ: Downloading 1 format(s): 299+140\n[info] RlC9b3QWObQ: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: tightrope walking metaphor finance\n"
+  },
+  {
+    "shot": "13",
+    "query": "US Hong Kong China stock market comparison screen",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "rch] query \"US Hong Kong China stock market comparison screen\" page 1: Downloading API JSON\n[youtube:search] Playlist US Hong Kong China stock market comparison screen: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=PnfBur89ZBo\n[youtube] PnfBur89ZBo: Downloading webpage\n[youtube] PnfBur89ZBo: Downloading android vr player API JSON\n[info] PnfBur89ZBo: Downloading 1 format(s): 18\n[info] PnfBur89ZBo: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: US Hong Kong China stock market comparison screen\n"
+  },
+  {
+    "shot": "14",
+    "query": "Nasdaq tech stocks volatility footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": " web client config\n[youtube:search] query \"Nasdaq tech stocks volatility footage\" page 1: Downloading API JSON\n[youtube:search] Playlist Nasdaq tech stocks volatility footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=MTDBWYZYFeo\n[youtube] MTDBWYZYFeo: Downloading webpage\n[youtube] MTDBWYZYFeo: Downloading android vr player API JSON\n[info] MTDBWYZYFeo: Downloading 1 format(s): 137+140\n[info] MTDBWYZYFeo: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: Nasdaq tech stocks volatility footage\n"
+  },
+  {
+    "shot": "15",
+    "query": "Hong Kong Stock Exchange footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "e\": Downloading web client config\n[youtube:search] query \"Hong Kong Stock Exchange footage\" page 1: Downloading API JSON\n[youtube:search] Playlist Hong Kong Stock Exchange footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=NLv5PswGBUM\n[youtube] NLv5PswGBUM: Downloading webpage\n[youtube] NLv5PswGBUM: Downloading android vr player API JSON\n[info] NLv5PswGBUM: Downloading 1 format(s): 135+140\n[info] NLv5PswGBUM: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: Hong Kong Stock Exchange footage\n"
+  },
+  {
+    "shot": "16",
+    "query": "China A share stock market trading screen",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "config\n[youtube:search] query \"China A share stock market trading screen\" page 1: Downloading API JSON\n[youtube:search] Playlist China A share stock market trading screen: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=Qhq8nEdVRog\n[youtube] Qhq8nEdVRog: Downloading webpage\n[youtube] Qhq8nEdVRog: Downloading android vr player API JSON\n[info] Qhq8nEdVRog: Downloading 1 format(s): 399+140\n[info] Qhq8nEdVRog: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: China A share stock market trading screen\n"
+  },
+  {
+    "shot": "17",
+    "query": "China central bank policy support stock market footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "ntral bank policy support stock market footage\" page 1: Downloading API JSON\n[youtube:search] Playlist China central bank policy support stock market footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=MQbmCaiUjuk\n[youtube] MQbmCaiUjuk: Downloading webpage\n[youtube] MQbmCaiUjuk: Downloading android vr player API JSON\n[info] MQbmCaiUjuk: Downloading 1 format(s): 137+140\n[info] MQbmCaiUjuk: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: China central bank policy support stock market footage\n"
+  },
+  {
+    "shot": "18",
+    "query": "semiconductor wafer fab China footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": " web client config\n[youtube:search] query \"semiconductor wafer fab China footage\" page 1: Downloading API JSON\n[youtube:search] Playlist semiconductor wafer fab China footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=XsdueN7KuFc\n[youtube] XsdueN7KuFc: Downloading webpage\n[youtube] XsdueN7KuFc: Downloading android vr player API JSON\n[info] XsdueN7KuFc: Downloading 1 format(s): 399+140\n[info] XsdueN7KuFc: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: semiconductor wafer fab China footage\n"
+  },
+  {
+    "shot": "19",
+    "query": "long term investing growth chart footage",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "nt config\n[youtube:search] query \"long term investing growth chart footage\" page 1: Downloading API JSON\n[youtube:search] Playlist long term investing growth chart footage: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=f0Shc2YFBIk\n[youtube] f0Shc2YFBIk: Downloading webpage\n[youtube] f0Shc2YFBIk: Downloading android vr player API JSON\n[info] f0Shc2YFBIk: Downloading 1 format(s): 399+140\n[info] f0Shc2YFBIk: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: long term investing growth chart footage\n"
+  },
+  {
+    "shot": "20",
+    "query": "macro industry valuation financial education",
+    "ok": false,
+    "file": null,
+    "returncode": 1,
+    "stderr_tail": "ERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n",
+    "stdout_tail": "outube:search] query \"macro industry valuation financial education\" page 1: Downloading API JSON\n[youtube:search] Playlist macro industry valuation financial education: Downloading 1 items of 1\n[download] Downloading item 1 of 1\n[youtube] Extracting URL: https://www.youtube.com/watch?v=EJHPltmAULA\n[youtube] EJHPltmAULA: Downloading webpage\n[youtube] EJHPltmAULA: Downloading android vr player API JSON\n[info] EJHPltmAULA: Downloading 1 format(s): 399+140\n[info] EJHPltmAULA: Downloading 1 time ranges: 0.0-20.0\n[download] Finished downloading playlist: macro industry valuation financial education\n"
+  }
+]

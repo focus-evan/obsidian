@@ -1,0 +1,17 @@
+{
+  "download": {
+    "sid": "18",
+    "url": "https://www.youtube.com/watch?v=-KTKg0Y1snQ",
+    "file": "D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\英特尔-晶圆厂-半导体-产线--KTKg0Y1snQ.mp4",
+    "ok": true,
+    "rc": 0,
+    "stdout": "[youtube] Extracting URL: https://www.youtube.com/watch?v=-KTKg0Y1snQ\n[youtube] -KTKg0Y1snQ: Downloading webpage\n[youtube] -KTKg0Y1snQ: Downloading android vr player API JSON\n[youtube] -KTKg0Y1snQ: Downloading player c2f7551f-main\n[youtube] [jsc:node] Solving JS challenges using node\n[youtube] -KTKg0Y1snQ: Downloading m3u8 information\n[info] -KTKg0Y1snQ: Downloading 1 format(s): 136+251\n[info] -KTKg0Y1snQ: Downloading 1 time ranges: 0.0-20.0\n[download] Destination: D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\tmp_fix_18.mp4\n\r[download] 100% of    4.45MiB in 00:00:14 at 316.13KiB/s\n",
+    "stderr": "[libx264 @ 000002b77f3f32c0] consecutive B-frames: 13.3% 35.8% 10.0% 40.8%\r\n[libx264 @ 000002b77f3f32c0] mb I  I16..4: 23.0% 34.7% 42.4%\r\n[libx264 @ 000002b77f3f32c0] mb P  I16..4:  5.5% 12.0%  3.7%  P16..4: 33.8%  9.1%  2.7%  0.0%  0.0%    skip:33.1%\r\n[libx264 @ 000002b77f3f32c0] mb B  I16..4:  0.5%  0.8%  0.3%  B16..8: 29.3%  2.3%  0.3%  direct: 0.8%  skip:65.8%  L0:39.5% L1:56.4% BI: 4.1%\r\n[libx264 @ 000002b77f3f32c0] 8x8 transform intra:53.3% inter:63.0%\r\n[libx264 @ 000002b77f3f32c0] coded y,uvDC,uvAC intra: 45.9% 59.5% 26.9% inter: 7.2% 7.8% 0.7%\r\n[libx264 @ 000002b77f3f32c0] i16 v,h,dc,p: 20% 46%  9% 25%\r\n[libx264 @ 000002b77f3f32c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 29% 21%  4%  4%  4%  5%  4%  5%\r\n[libx264 @ 000002b77f3f32c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 32% 12%  4%  5%  5%  6%  5%  4%\r\n[libx264 @ 000002b77f3f32c0] i8c dc,h,v,p: 43% 31% 17%  8%\r\n[libx264 @ 000002b77f3f32c0] Weighted P-Frames: Y:0.5% UV:0.0%\r\n[libx264 @ 000002b77f3f32c0] ref P L0: 70.5% 17.8%  8.6%  3.0%  0.0%\r\n[libx264 @ 000002b77f3f32c0] ref B L0: 87.2% 11.4%  1.4%\r\n[libx264 @ 000002b77f3f32c0] ref B L1: 98.1%  1.9%\r\n[libx264 @ 000002b77f3f32c0] kb/s:1724.62\r\n[aac @ 000002b77f786b00] Qavg: 528.563\r\n",
+    "produced": "D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\tmp_fix_18.mp4"
+  },
+  "replacements": [
+    "01 opening card",
+    "18 industry card",
+    "20 clean closing card"
+  ]
+}

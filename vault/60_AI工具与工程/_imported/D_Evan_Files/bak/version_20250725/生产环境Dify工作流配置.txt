@@ -1,0 +1,1 @@
+{ 	"database": { 		"host": "rm-bp15uii9a022msond5o.mysql.rds.aliyuncs.com", 		"port": 3306, 		"user": "wealth_ai_wxapp",		"password": "3zSmLu4xB41e9rsQ", "database_name": "baozhangshijie" 	} }

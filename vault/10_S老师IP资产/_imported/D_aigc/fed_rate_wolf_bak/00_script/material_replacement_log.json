@@ -1,0 +1,211 @@
+{
+  "generated_public": [
+    "D:\\aigc\\fed_rate_wolf\\03_fear_to_framework\\public\\恐慌-流动性-资产缩水-资金选择-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\04_opportunity_cost_bonds_vs_ai\\public\\美债-收益率-科技估值-机会成本-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\05_thirty_year_yield_513\\public\\长债-五点一三-马基诺防线-多米诺-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\08_us_debt_black_hole\\public\\美债-债务黑洞-黄金-去美元化-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\11_qt_plus_rate_cut_patient_metaphor\\public\\缩表-降息-政策天平-组合拳-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\12_walk_tightrope_inflation_ai\\public\\通胀-AI-政策两难-走钢丝-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\14_us_stock_ai_volatility\\public\\纳指-AI科技股-估值波动-公开自制.mp4",
+    "D:\\aigc\\fed_rate_wolf\\17_policy_support_liquidity_backstop\\public\\政策-流动性-国家队-托底-公开自制.mp4"
+  ],
+  "downloads": [
+    {
+      "shot": "07",
+      "ok": false,
+      "file": null,
+      "attempts": [
+        {
+          "url": "https://www.youtube.com/watch?v=OIfWxBVshao",
+          "file": "D:\\aigc\\fed_rate_wolf\\07_inflation_energy_hormuz\\restricted_need_authorization\\油轮-霍尔木兹-能源价格-通胀--OIfWxBVshao.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=OIfWxBVshao\n[youtube] OIfWxBVshao: Downloading webpage\n[youtube] OIfWxBVshao: Downloading android vr player API JSON\n[info] OIfWxBVshao: Downloading 1 format(s): 299+251\n[info] OIfWxBVshao: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=YlGpSOqimzk",
+          "file": "D:\\aigc\\fed_rate_wolf\\07_inflation_energy_hormuz\\restricted_need_authorization\\油轮-海运-原油-能源--YlGpSOqimzk.mp4",
+          "section": "*00:00:00-00:00:06",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=YlGpSOqimzk\n[youtube] YlGpSOqimzk: Downloading webpage\n[youtube] YlGpSOqimzk: Downloading android vr player API JSON\n[info] YlGpSOqimzk: Downloading 1 format(s): 299+251\n[info] YlGpSOqimzk: Downloading 1 time ranges: 0.0-6.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        }
+      ]
+    },
+    {
+      "shot": "01",
+      "ok": false,
+      "file": null,
+      "attempts": [
+        {
+          "url": "https://www.youtube.com/watch?v=MXSO88zV9UM",
+          "file": "D:\\aigc\\fed_rate_wolf\\01_cold_open_fed_chair_alarm\\restricted_need_authorization\\沃什-美联储-上任-主席--MXSO88zV9UM.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=MXSO88zV9UM\n[youtube] MXSO88zV9UM: Downloading webpage\n[youtube] MXSO88zV9UM: Downloading android vr player API JSON\n[info] MXSO88zV9UM: Downloading 1 format(s): 399+251\n[info] MXSO88zV9UM: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DlMzyxC6M_U",
+          "file": "D:\\aigc\\fed_rate_wolf\\01_cold_open_fed_chair_alarm\\restricted_need_authorization\\美联储-建筑外景-政策警报-华盛顿--DlMzyxC6M_U.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=DlMzyxC6M_U\n[youtube] DlMzyxC6M_U: Downloading webpage\n[youtube] DlMzyxC6M_U: Downloading android vr player API JSON\n[info] DlMzyxC6M_U: Downloading 1 format(s): 135+251\n[info] DlMzyxC6M_U: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        }
+      ]
+    },
+    {
+      "shot": "02",
+      "ok": false,
+      "file": null,
+      "attempts": [
+        {
+          "url": "https://www.youtube.com/watch?v=k5y_3F40DkM",
+          "file": "D:\\aigc\\fed_rate_wolf\\02_fed_2022_rate_hike_memory\\restricted_need_authorization\\鲍威尔-美联储-发布会-加息--k5y_3F40DkM.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=k5y_3F40DkM\n[youtube] k5y_3F40DkM: Downloading webpage\n[youtube] k5y_3F40DkM: Downloading android vr player API JSON\n[info] k5y_3F40DkM: Downloading 1 format(s): 136+251\n[info] k5y_3F40DkM: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NjWIIjrx7R4",
+          "file": "D:\\aigc\\fed_rate_wolf\\02_fed_2022_rate_hike_memory\\restricted_need_authorization\\鲍威尔-三月议息-美联储-2022--NjWIIjrx7R4.mp4",
+          "section": "*00:03:00-00:03:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=NjWIIjrx7R4\n[youtube] NjWIIjrx7R4: Downloading webpage\n[youtube] NjWIIjrx7R4: Downloading android vr player API JSON\n[info] NjWIIjrx7R4: Downloading 1 format(s): 136+251\n[info] NjWIIjrx7R4: Downloading 1 time ranges: 180.0-200.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        }
+      ]
+    },
+    {
+      "shot": "10",
+      "ok": false,
+      "file": null,
+      "attempts": [
+        {
+          "url": "https://www.youtube.com/watch?v=Zj3ZCRXY1J0",
+          "file": "D:\\aigc\\fed_rate_wolf\\10_warsh_profile_qe_skeptic\\restricted_need_authorization\\沃什-听证会-开场陈述-美联储--Zj3ZCRXY1J0.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=Zj3ZCRXY1J0\n[youtube] Zj3ZCRXY1J0: Downloading webpage\n[youtube] Zj3ZCRXY1J0: Downloading android vr player API JSON\n[info] Zj3ZCRXY1J0: Downloading 1 format(s): 399+251\n[info] Zj3ZCRXY1J0: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=qVFEcg-RIAk",
+          "file": "D:\\aigc\\fed_rate_wolf\\10_warsh_profile_qe_skeptic\\restricted_need_authorization\\沃什-胡佛研究所-通胀-美联储--qVFEcg-RIAk.mp4",
+          "section": "*00:00:45-00:01:05",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=qVFEcg-RIAk\n[youtube] qVFEcg-RIAk: Downloading webpage\n[youtube] qVFEcg-RIAk: Downloading android vr player API JSON\n[info] qVFEcg-RIAk: Downloading 1 format(s): 399+251\n[info] qVFEcg-RIAk: Downloading 1 time ranges: 45.0-65.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        }
+      ]
+    },
+    {
+      "shot": "15",
+      "ok": false,
+      "file": null,
+      "attempts": [
+        {
+          "url": "https://www.youtube.com/watch?v=Fhij906XtcU",
+          "file": "D:\\aigc\\fed_rate_wolf\\15_hongkong_bridge_southbound_flow\\restricted_need_authorization\\港交所-交易大厅-港股-金融--Fhij906XtcU.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=Fhij906XtcU\n[youtube] Fhij906XtcU: Downloading webpage\n[youtube] Fhij906XtcU: Downloading android vr player API JSON\n[info] Fhij906XtcU: Downloading 1 format(s): 137+251\n[info] Fhij906XtcU: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=j-H2booAnD4",
+          "file": "D:\\aigc\\fed_rate_wolf\\15_hongkong_bridge_southbound_flow\\restricted_need_authorization\\港交所-HKEX-港股-金融枢纽--j-H2booAnD4.mp4",
+          "section": "*00:00:00-00:00:20",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=j-H2booAnD4\n[youtube] j-H2booAnD4: Downloading webpage\n[youtube] j-H2booAnD4: Downloading android vr player API JSON\n[info] j-H2booAnD4: Downloading 1 format(s): 137+251\n[info] j-H2booAnD4: Downloading 1 time ranges: 0.0-20.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        }
+      ]
+    },
+    {
+      "shot": "18",
+      "ok": false,
+      "file": null,
+      "attempts": [
+        {
+          "url": "https://www.youtube.com/watch?v=7y7bVekJElc",
+          "file": "D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\芯片-工厂-微电子-产线--7y7bVekJElc.mp4",
+          "section": "*00:00:00-00:00:12",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=7y7bVekJElc\n[youtube] 7y7bVekJElc: Downloading webpage\n[youtube] 7y7bVekJElc: Downloading android vr player API JSON\n[info] 7y7bVekJElc: Downloading 1 format(s): 137+251\n[info] 7y7bVekJElc: Downloading 1 time ranges: 0.0-12.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=5a8xjH2tOkM",
+          "file": "D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\晶圆厂-洁净室-半导体-产线--5a8xjH2tOkM.mp4",
+          "section": "*00:00:20-00:00:40",
+          "ok": false,
+          "returncode": 1,
+          "stdout_tail": "[youtube] Extracting URL: https://www.youtube.com/watch?v=5a8xjH2tOkM\n[youtube] 5a8xjH2tOkM: Downloading webpage\n[youtube] 5a8xjH2tOkM: Downloading android vr player API JSON\n[info] 5a8xjH2tOkM: Downloading 1 format(s): 248+251\n[info] 5a8xjH2tOkM: Downloading 1 time ranges: 20.0-40.0\n",
+          "stderr_tail": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nERROR: You have requested downloading the video partially, but ffmpeg is not installed. Aborting\n"
+        }
+      ]
+    }
+  ],
+  "moved_old": [
+    {
+      "shot": "03",
+      "from": "D:\\aigc\\fed_rate_wolf\\03_fear_to_framework\\restricted_need_authorization\\宏观-恐慌-投资者-分析--B8rgaPjTozA.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\03\\宏观-恐慌-投资者-分析--B8rgaPjTozA.mp4"
+    },
+    {
+      "shot": "04",
+      "from": "D:\\aigc\\fed_rate_wolf\\04_opportunity_cost_bonds_vs_ai\\restricted_need_authorization\\美债-收益率-科技估值-资金--2gbSDWgZLQQ.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\04\\美债-收益率-科技估值-资金--2gbSDWgZLQQ.mp4"
+    },
+    {
+      "shot": "05",
+      "from": "D:\\aigc\\fed_rate_wolf\\05_thirty_year_yield_513\\restricted_need_authorization\\长债-五点一三-防线-多米诺--2gbSDWgZLQQ.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\05\\长债-五点一三-防线-多米诺--2gbSDWgZLQQ.mp4"
+    },
+    {
+      "shot": "08",
+      "from": "D:\\aigc\\fed_rate_wolf\\08_us_debt_black_hole\\restricted_need_authorization\\美债-债务钟-黄金-财政--9pgD7rv-HpM.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\08\\美债-债务钟-黄金-财政--9pgD7rv-HpM.mp4"
+    },
+    {
+      "shot": "11",
+      "from": "D:\\aigc\\fed_rate_wolf\\11_qt_plus_rate_cut_patient_metaphor\\restricted_need_authorization\\缩表-降息-货币政策-天平--YJ_jW6T1yGQ.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\11\\缩表-降息-货币政策-天平--YJ_jW6T1yGQ.mp4"
+    },
+    {
+      "shot": "12",
+      "from": "D:\\aigc\\fed_rate_wolf\\12_walk_tightrope_inflation_ai\\restricted_need_authorization\\通胀-AI-政策两难-走钢丝--RlC9b3QWObQ.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\12\\通胀-AI-政策两难-走钢丝--RlC9b3QWObQ.mp4"
+    },
+    {
+      "shot": "14",
+      "from": "D:\\aigc\\fed_rate_wolf\\14_us_stock_ai_volatility\\restricted_need_authorization\\纳指-科技股-波动-AI--m-HyIn0V0n4.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\14\\纳指-科技股-波动-AI--m-HyIn0V0n4.mp4"
+    },
+    {
+      "shot": "17",
+      "from": "D:\\aigc\\fed_rate_wolf\\17_policy_support_liquidity_backstop\\restricted_need_authorization\\政策-流动性-国家队-托底--EoAuUR1gIW0.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\17\\政策-流动性-国家队-托底--EoAuUR1gIW0.mp4"
+    },
+    {
+      "shot": "20",
+      "from": "D:\\aigc\\fed_rate_wolf\\20_closing_true_investor_ability\\restricted_need_authorization\\宏观-产业-估值-结尾--EJHPltmAULA.mp4",
+      "to": "D:\\aigc\\fed_rate_wolf\\99_output\\rejected_materials\\20\\宏观-产业-估值-结尾--EJHPltmAULA.mp4"
+    }
+  ]
+}

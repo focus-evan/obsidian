@@ -1,0 +1,11 @@
+02-16 13:43:51 [Info]	[War3Launcher] launch war3...
+02-16 13:43:51 [Info]	[War3Launcher] launch cmd: "C:\Users\bzsj_\AppData\Roaming\Games\202508112253426604\YY\war3.exe" 
+02-16 13:43:51 [Info]	[War3Launcher] war3 exe path: C:\Users\bzsj_\AppData\Roaming\Games\202508112253426604\YY
+02-16 13:43:51 [Info]	[War3Launcher] war3shell path: D:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\gp_1183
+02-16 13:43:51 [Info]	[War3Launcher] game patch path: D:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\g126_lo7\
+02-16 13:43:51 [Info]	[War3Launcher] lua dll path: D:\Evan\Files\bakup\games\5211game\W3L\core\..\..\bins\
+02-16 13:43:51 [Error]	[LaunchConfig] json err: 
+02-16 13:43:52 [Info]	launch success
+02-16 13:44:02 [Info]	found war3 wnd, launch success
+02-16 14:11:29 [Info]	[DelayCheckWar3Wnd] thread exited.
+02-16 14:11:29 [Info]	[RecoverWar3] thread exited.

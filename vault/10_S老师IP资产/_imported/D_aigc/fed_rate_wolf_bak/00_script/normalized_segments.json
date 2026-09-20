@@ -1,0 +1,162 @@
+[
+  {
+    "index": 1,
+    "source": "D:\\aigc\\fed_rate_wolf\\01_cold_open_fed_chair_alarm\\restricted_need_authorization\\###-##-####-###-JV5VtyBDLDg.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\01_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":45.5% L1:43.0% BI:11.5%\n[libx264 @ 0000024e9cde8000] 8x8 transform intra:30.9% inter:41.4%\n[libx264 @ 0000024e9cde8000] coded y,uvDC,uvAC intra: 23.4% 16.6% 3.3% inter: 3.3% 3.0% 0.1%\n[libx264 @ 0000024e9cde8000] i16 v,h,dc,p: 62% 24%  9%  5%\n[libx264 @ 0000024e9cde8000] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 23% 23%  4%  4%  5%  5%  5%  4%\n[libx264 @ 0000024e9cde8000] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 22% 14%  5%  6%  7%  7%  6%  5%\n[libx264 @ 0000024e9cde8000] i8c dc,h,v,p: 71% 14% 13%  2%\n[libx264 @ 0000024e9cde8000] Weighted P-Frames: Y:9.3% UV:0.0%\n[libx264 @ 0000024e9cde8000] kb/s:2121.74\n"
+  },
+  {
+    "index": 2,
+    "source": "D:\\aigc\\fed_rate_wolf\\02_fed_2022_rate_hike_memory\\restricted_need_authorization\\##-2022-####-##-8-wqXMrNGkA.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\02_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "40.0% L1:46.9% BI:13.1%\n[libx264 @ 000001a3830ad7c0] 8x8 transform intra:50.4% inter:45.5%\n[libx264 @ 000001a3830ad7c0] coded y,uvDC,uvAC intra: 43.7% 63.0% 23.1% inter: 4.5% 9.7% 0.4%\n[libx264 @ 000001a3830ad7c0] i16 v,h,dc,p: 42% 42%  8%  8%\n[libx264 @ 000001a3830ad7c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 38% 14%  2%  3%  4%  4%  3%  3%\n[libx264 @ 000001a3830ad7c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 32%  9%  4%  5%  5%  5%  4%  4%\n[libx264 @ 000001a3830ad7c0] i8c dc,h,v,p: 39% 32% 21%  8%\n[libx264 @ 000001a3830ad7c0] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000001a3830ad7c0] kb/s:3043.19\n"
+  },
+  {
+    "index": 3,
+    "source": "D:\\aigc\\fed_rate_wolf\\03_fear_to_framework\\restricted_need_authorization\\##-##-###-##-B8rgaPjTozA.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\03_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "  L0: 1.3% L1:98.7% BI: 0.0%\n[libx264 @ 000001cc0ebed680] 8x8 transform intra:0.2% inter:8.4%\n[libx264 @ 000001cc0ebed680] coded y,uvDC,uvAC intra: 9.4% 10.7% 9.8% inter: 0.0% 0.0% 0.0%\n[libx264 @ 000001cc0ebed680] i16 v,h,dc,p: 42% 58%  0%  0%\n[libx264 @ 000001cc0ebed680] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 32% 32%  2%  1%  1%  0%  0%  7%\n[libx264 @ 000001cc0ebed680] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 32% 12%  3%  5%  4%  6%  5%  8%\n[libx264 @ 000001cc0ebed680] i8c dc,h,v,p: 90%  8%  2%  0%\n[libx264 @ 000001cc0ebed680] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000001cc0ebed680] kb/s:191.35\n"
+  },
+  {
+    "index": 4,
+    "source": "D:\\aigc\\fed_rate_wolf\\04_opportunity_cost_bonds_vs_ai\\restricted_need_authorization\\##-###-####-##-2gbSDWgZLQQ.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\04_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "44.5% L1:45.2% BI:10.3%\n[libx264 @ 0000013e7679d040] 8x8 transform intra:57.5% inter:32.5%\n[libx264 @ 0000013e7679d040] coded y,uvDC,uvAC intra: 43.9% 59.6% 14.8% inter: 1.5% 4.9% 0.0%\n[libx264 @ 0000013e7679d040] i16 v,h,dc,p: 46% 23% 15% 16%\n[libx264 @ 0000013e7679d040] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 18% 17%  3%  9% 10%  7%  5%  4%\n[libx264 @ 0000013e7679d040] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 25% 11%  4%  9%  8%  7%  5%  5%\n[libx264 @ 0000013e7679d040] i8c dc,h,v,p: 42% 21% 26% 10%\n[libx264 @ 0000013e7679d040] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 0000013e7679d040] kb/s:1622.63\n"
+  },
+  {
+    "index": 5,
+    "source": "D:\\aigc\\fed_rate_wolf\\05_thirty_year_yield_513\\restricted_need_authorization\\##-####-##-###-2gbSDWgZLQQ.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\05_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "44.5% L1:45.2% BI:10.3%\n[libx264 @ 000001fe0904d040] 8x8 transform intra:57.5% inter:32.5%\n[libx264 @ 000001fe0904d040] coded y,uvDC,uvAC intra: 43.9% 59.6% 14.8% inter: 1.5% 4.9% 0.0%\n[libx264 @ 000001fe0904d040] i16 v,h,dc,p: 46% 23% 15% 16%\n[libx264 @ 000001fe0904d040] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 18% 17%  3%  9% 10%  7%  5%  4%\n[libx264 @ 000001fe0904d040] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 25% 11%  4%  9%  8%  7%  5%  5%\n[libx264 @ 000001fe0904d040] i8c dc,h,v,p: 42% 21% 26% 10%\n[libx264 @ 000001fe0904d040] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000001fe0904d040] kb/s:1622.63\n"
+  },
+  {
+    "index": 6,
+    "source": "D:\\aigc\\fed_rate_wolf\\06_ai_bull_market_foundation_shaken\\restricted_need_authorization\\AI-####-GPU-###-N5AJJ0tAoxc.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\06_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":36.7% L1:41.3% BI:22.0%\n[libx264 @ 0000025484c9c040] 8x8 transform intra:52.4% inter:41.5%\n[libx264 @ 0000025484c9c040] coded y,uvDC,uvAC intra: 47.5% 30.0% 6.2% inter: 8.5% 3.8% 0.4%\n[libx264 @ 0000025484c9c040] i16 v,h,dc,p: 58% 21%  8% 13%\n[libx264 @ 0000025484c9c040] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 28% 12%  4%  5%  4%  6%  3%  5%\n[libx264 @ 0000025484c9c040] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 25%  9%  4%  6%  6%  7%  4%  6%\n[libx264 @ 0000025484c9c040] i8c dc,h,v,p: 56% 18% 21%  5%\n[libx264 @ 0000025484c9c040] Weighted P-Frames: Y:6.4% UV:3.7%\n[libx264 @ 0000025484c9c040] kb/s:5780.43\n"
+  },
+  {
+    "index": 7,
+    "source": "D:\\aigc\\fed_rate_wolf\\07_inflation_energy_hormuz\\restricted_need_authorization\\##-CPI-##-##-am7G0yu9qUE.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\07_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "8.2% L1:45.2% BI:16.6%\n[libx264 @ 0000014a1cf53240] 8x8 transform intra:44.8% inter:41.6%\n[libx264 @ 0000014a1cf53240] coded y,uvDC,uvAC intra: 40.0% 56.5% 25.6% inter: 8.0% 18.0% 1.1%\n[libx264 @ 0000014a1cf53240] i16 v,h,dc,p: 59% 28%  8%  5%\n[libx264 @ 0000014a1cf53240] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 28% 16%  2%  5%  4%  7%  3%  4%\n[libx264 @ 0000014a1cf53240] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 24% 10%  4%  9%  7% 11%  5%  5%\n[libx264 @ 0000014a1cf53240] i8c dc,h,v,p: 44% 27% 22%  7%\n[libx264 @ 0000014a1cf53240] Weighted P-Frames: Y:4.6% UV:4.2%\n[libx264 @ 0000014a1cf53240] kb/s:6158.11\n"
+  },
+  {
+    "index": 8,
+    "source": "D:\\aigc\\fed_rate_wolf\\08_us_debt_black_hole\\restricted_need_authorization\\##-###-##-##-9pgD7rv-HpM.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\08_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "36.1% L1:45.1% BI:18.8%\n[libx264 @ 00000165d11a3ac0] 8x8 transform intra:57.2% inter:39.5%\n[libx264 @ 00000165d11a3ac0] coded y,uvDC,uvAC intra: 42.5% 19.3% 2.9% inter: 3.7% 3.0% 0.1%\n[libx264 @ 00000165d11a3ac0] i16 v,h,dc,p: 63% 22% 11%  5%\n[libx264 @ 00000165d11a3ac0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 30% 19%  5%  6%  5%  8%  4%  6%\n[libx264 @ 00000165d11a3ac0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 22% 26% 12%  6%  7%  6%  8%  6%  6%\n[libx264 @ 00000165d11a3ac0] i8c dc,h,v,p: 67% 20% 10%  2%\n[libx264 @ 00000165d11a3ac0] Weighted P-Frames: Y:11.7% UV:5.6%\n[libx264 @ 00000165d11a3ac0] kb/s:3053.03\n"
+  },
+  {
+    "index": 9,
+    "source": "D:\\aigc\\fed_rate_wolf\\09_treasury_supply_demand_imbalance\\restricted_need_authorization\\##-##-##-###-uNzY1REaI-M.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\09_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":46.4% L1:49.0% BI: 4.6%\n[libx264 @ 0000026bd106e6c0] 8x8 transform intra:58.4% inter:47.3%\n[libx264 @ 0000026bd106e6c0] coded y,uvDC,uvAC intra: 43.0% 33.8% 3.8% inter: 3.7% 7.7% 0.1%\n[libx264 @ 0000026bd106e6c0] i16 v,h,dc,p: 51% 29% 10% 10%\n[libx264 @ 0000026bd106e6c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 37% 13%  3%  3%  4%  5%  4%  4%\n[libx264 @ 0000026bd106e6c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 31%  9%  4%  7%  6%  8%  5%  4%\n[libx264 @ 0000026bd106e6c0] i8c dc,h,v,p: 55% 21% 19%  5%\n[libx264 @ 0000026bd106e6c0] Weighted P-Frames: Y:7.7% UV:5.3%\n[libx264 @ 0000026bd106e6c0] kb/s:3546.84\n"
+  },
+  {
+    "index": 10,
+    "source": "D:\\aigc\\fed_rate_wolf\\10_warsh_profile_qe_skeptic\\restricted_need_authorization\\##-###-QE-####-fCU2SCUhtT0.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\10_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":39.8% L1:43.0% BI:17.2%\n[libx264 @ 000002913e6417c0] 8x8 transform intra:47.3% inter:30.9%\n[libx264 @ 000002913e6417c0] coded y,uvDC,uvAC intra: 41.0% 29.9% 6.5% inter: 5.2% 3.3% 0.0%\n[libx264 @ 000002913e6417c0] i16 v,h,dc,p: 53% 28% 10%  9%\n[libx264 @ 000002913e6417c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 32% 22% 16%  3%  6%  7%  6%  4%  4%\n[libx264 @ 000002913e6417c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 35% 15% 13%  4%  9% 11%  5%  5%  3%\n[libx264 @ 000002913e6417c0] i8c dc,h,v,p: 61% 15% 20%  5%\n[libx264 @ 000002913e6417c0] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000002913e6417c0] kb/s:2970.16\n"
+  },
+  {
+    "index": 11,
+    "source": "D:\\aigc\\fed_rate_wolf\\11_qt_plus_rate_cut_patient_metaphor\\restricted_need_authorization\\##-##-####-##-YJ_jW6T1yGQ.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\11_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":51.7% L1:43.8% BI: 4.4%\n[libx264 @ 0000023e61903180] 8x8 transform intra:29.8% inter:22.4%\n[libx264 @ 0000023e61903180] coded y,uvDC,uvAC intra: 14.5% 34.6% 10.1% inter: 0.5% 5.1% 0.2%\n[libx264 @ 0000023e61903180] i16 v,h,dc,p: 75% 15%  6%  4%\n[libx264 @ 0000023e61903180] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 50% 14% 22%  2%  3%  3%  2%  3%  2%\n[libx264 @ 0000023e61903180] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 35% 19% 23%  4%  5%  5%  4%  3%  2%\n[libx264 @ 0000023e61903180] i8c dc,h,v,p: 51% 15% 30%  4%\n[libx264 @ 0000023e61903180] Weighted P-Frames: Y:8.1% UV:8.1%\n[libx264 @ 0000023e61903180] kb/s:992.34\n"
+  },
+  {
+    "index": 12,
+    "source": "D:\\aigc\\fed_rate_wolf\\12_walk_tightrope_inflation_ai\\restricted_need_authorization\\##-AI-####-###-RlC9b3QWObQ.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\12_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "2.5% L1:48.6% BI: 8.9%\n[libx264 @ 000002260e02eac0] 8x8 transform intra:37.9% inter:25.6%\n[libx264 @ 000002260e02eac0] coded y,uvDC,uvAC intra: 30.7% 55.7% 18.3% inter: 3.6% 10.9% 0.4%\n[libx264 @ 000002260e02eac0] i16 v,h,dc,p: 53% 27% 14%  6%\n[libx264 @ 000002260e02eac0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 21% 31% 28%  4%  2%  2%  4%  2%  5%\n[libx264 @ 000002260e02eac0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 28% 16%  5%  4%  6%  5%  4%  5%\n[libx264 @ 000002260e02eac0] i8c dc,h,v,p: 45% 29% 19%  7%\n[libx264 @ 000002260e02eac0] Weighted P-Frames: Y:1.0% UV:1.0%\n[libx264 @ 000002260e02eac0] kb/s:3074.54\n"
+  },
+  {
+    "index": 13,
+    "source": "D:\\aigc\\fed_rate_wolf\\13_asset_impact_us_hk_a_share\\restricted_need_authorization\\##-##-A#-##-PnfBur89ZBo.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\13_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "44.1% L1:45.9% BI:10.0%\n[libx264 @ 000001d2e5d99d00] 8x8 transform intra:43.0% inter:41.6%\n[libx264 @ 000001d2e5d99d00] coded y,uvDC,uvAC intra: 49.4% 55.2% 24.9% inter: 4.4% 8.4% 1.2%\n[libx264 @ 000001d2e5d99d00] i16 v,h,dc,p: 53% 24% 17%  6%\n[libx264 @ 000001d2e5d99d00] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 36% 19% 20%  4%  4%  5%  4%  5%  4%\n[libx264 @ 000001d2e5d99d00] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 20%  9%  5%  6%  7%  6%  7%  7%\n[libx264 @ 000001d2e5d99d00] i8c dc,h,v,p: 47% 20% 27%  6%\n[libx264 @ 000001d2e5d99d00] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000001d2e5d99d00] kb/s:3026.40\n"
+  },
+  {
+    "index": 14,
+    "source": "D:\\aigc\\fed_rate_wolf\\14_us_stock_ai_volatility\\restricted_need_authorization\\##-###-##-AI-m-HyIn0V0n4.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\14_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "33.6% L1:47.0% BI:19.4%\n[libx264 @ 00000244d4100740] 8x8 transform intra:49.3% inter:51.6%\n[libx264 @ 00000244d4100740] coded y,uvDC,uvAC intra: 52.7% 66.0% 27.9% inter: 4.8% 8.1% 0.6%\n[libx264 @ 00000244d4100740] i16 v,h,dc,p: 41% 43%  9%  7%\n[libx264 @ 00000244d4100740] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 28% 17%  4%  5%  5%  4%  6%  5%\n[libx264 @ 00000244d4100740] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 30% 11%  4%  6%  7%  5%  5%  5%\n[libx264 @ 00000244d4100740] i8c dc,h,v,p: 34% 34% 24%  9%\n[libx264 @ 00000244d4100740] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 00000244d4100740] kb/s:2844.34\n"
+  },
+  {
+    "index": 15,
+    "source": "D:\\aigc\\fed_rate_wolf\\15_hongkong_bridge_southbound_flow\\restricted_need_authorization\\###-##-####-##-NLv5PswGBUM.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\15_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "48.0% L1:45.0% BI: 7.0%\n[libx264 @ 0000019f089d0340] 8x8 transform intra:40.1% inter:40.9%\n[libx264 @ 0000019f089d0340] coded y,uvDC,uvAC intra: 39.1% 57.4% 14.4% inter: 4.6% 8.6% 0.0%\n[libx264 @ 0000019f089d0340] i16 v,h,dc,p: 61% 21% 12%  5%\n[libx264 @ 0000019f089d0340] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 24% 20%  4%  6%  6%  6%  5%  5%\n[libx264 @ 0000019f089d0340] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 23% 10%  6%  8%  7%  8%  6%  6%\n[libx264 @ 0000019f089d0340] i8c dc,h,v,p: 48% 20% 22% 10%\n[libx264 @ 0000019f089d0340] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 0000019f089d0340] kb/s:2785.39\n"
+  },
+  {
+    "index": 16,
+    "source": "D:\\aigc\\fed_rate_wolf\\16_a_share_independent_bull_logic\\restricted_need_authorization\\A#-####-###-###-Oidr0rfwlyY.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\16_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":43.4% L1:48.6% BI: 8.0%\n[libx264 @ 000002511c04c680] 8x8 transform intra:14.3% inter:21.9%\n[libx264 @ 000002511c04c680] coded y,uvDC,uvAC intra: 50.2% 17.0% 9.8% inter: 1.4% 0.4% 0.1%\n[libx264 @ 000002511c04c680] i16 v,h,dc,p: 14% 86%  1%  0%\n[libx264 @ 000002511c04c680] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 43% 50%  6%  0%  0%  0%  0%  0%  1%\n[libx264 @ 000002511c04c680] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 47%  9%  1%  2%  2%  2%  2%  2%\n[libx264 @ 000002511c04c680] i8c dc,h,v,p: 73% 14% 12%  1%\n[libx264 @ 000002511c04c680] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000002511c04c680] kb/s:1145.41\n"
+  },
+  {
+    "index": 17,
+    "source": "D:\\aigc\\fed_rate_wolf\\17_policy_support_liquidity_backstop\\restricted_need_authorization\\##-###-###-##-EoAuUR1gIW0.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\17_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "37.3% L1:46.2% BI:16.5%\n[libx264 @ 000001b085443500] 8x8 transform intra:27.8% inter:39.6%\n[libx264 @ 000001b085443500] coded y,uvDC,uvAC intra: 26.0% 36.8% 12.6% inter: 2.3% 5.0% 0.1%\n[libx264 @ 000001b085443500] i16 v,h,dc,p: 61% 35%  3%  2%\n[libx264 @ 000001b085443500] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 21% 48% 16%  2%  2%  3%  3%  2%  4%\n[libx264 @ 000001b085443500] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 38%  9%  4%  5%  5%  6%  4%  5%\n[libx264 @ 000001b085443500] i8c dc,h,v,p: 49% 33% 14%  4%\n[libx264 @ 000001b085443500] Weighted P-Frames: Y:0.0% UV:0.0%\n[libx264 @ 000001b085443500] kb/s:1728.76\n"
+  },
+  {
+    "index": 18,
+    "source": "D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\####-AI-###-###-XsdueN7KuFc.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\18_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": "40.6% L1:48.6% BI:10.9%\n[libx264 @ 000002df25b6c040] 8x8 transform intra:53.4% inter:52.7%\n[libx264 @ 000002df25b6c040] coded y,uvDC,uvAC intra: 49.4% 43.6% 14.6% inter: 2.7% 8.1% 0.2%\n[libx264 @ 000002df25b6c040] i16 v,h,dc,p: 43% 38%  7% 11%\n[libx264 @ 000002df25b6c040] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 28% 36% 11%  3%  4%  4%  4%  5%  4%\n[libx264 @ 000002df25b6c040] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 56%  6%  3%  3%  4%  4%  3%  3%\n[libx264 @ 000002df25b6c040] i8c dc,h,v,p: 44% 27% 21%  8%\n[libx264 @ 000002df25b6c040] Weighted P-Frames: Y:6.3% UV:5.2%\n[libx264 @ 000002df25b6c040] kb/s:3057.64\n"
+  },
+  {
+    "index": 19,
+    "source": "D:\\aigc\\fed_rate_wolf\\19_personal_industry_investor\\restricted_need_authorization\\####-####-##-f0Shc2YFBIk.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\19_broll.mp4",
+    "ok": true,
+    "returncode": 0,
+    "stderr_tail": ":50.1% L1:45.2% BI: 4.7%\n[libx264 @ 0000020d877e3640] 8x8 transform intra:30.2% inter:33.0%\n[libx264 @ 0000020d877e3640] coded y,uvDC,uvAC intra: 22.9% 22.2% 6.1% inter: 1.3% 2.6% 0.1%\n[libx264 @ 0000020d877e3640] i16 v,h,dc,p: 73% 16%  6%  5%\n[libx264 @ 0000020d877e3640] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 39% 14% 22%  5%  3%  4%  2%  8%  3%\n[libx264 @ 0000020d877e3640] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 35% 24% 19%  6%  3%  3%  3%  4%  3%\n[libx264 @ 0000020d877e3640] i8c dc,h,v,p: 60% 15% 23%  3%\n[libx264 @ 0000020d877e3640] Weighted P-Frames: Y:0.6% UV:0.0%\n[libx264 @ 0000020d877e3640] kb/s:1166.48\n"
+  },
+  {
+    "index": 20,
+    "source": "D:\\aigc\\fed_rate_wolf\\20_closing_true_investor_ability\\restricted_need_authorization\\##-##-##-##-EJHPltmAULA.mp4",
+    "path": "D:\\aigc\\fed_rate_wolf\\99_output\\normalized_segments\\20_broll.mp4",
+    "ok": false,
+    "returncode": 3199971767,
+    "stderr_tail": "vformat    61.  7.100 / 61.  7.100\n  libavdevice    61.  3.100 / 61.  3.100\n  libavfilter    10.  4.100 / 10.  4.100\n  libswscale      8.  3.100 /  8.  3.100\n  libswresample   5.  3.100 /  5.  3.100\n  libpostproc    58.  3.100 / 58.  3.100\n[mov,mp4,m4a,3gp,3g2,mj2 @ 000001efc1645380] moov atom not found\n[in#0 @ 000001efc1644fc0] Error opening input: Invalid data found when processing input\nError opening input file D:\\aigc\\fed_rate_wolf\\20_closing_true_investor_ability\\restricted_need_authorization\\##-##-##-##-EJHPltmAULA.mp4.\nError opening input files: Invalid data found when processing input\n"
+  }
+]

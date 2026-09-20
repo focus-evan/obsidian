@@ -1,0 +1,2 @@
+file 'D:/Evan/video/spacex/output/voice_full_beats/beat_27_parts/part_01.mp3'
+file 'D:/Evan/video/spacex/output/voice_full_beats/beat_27_parts/part_02.mp3'

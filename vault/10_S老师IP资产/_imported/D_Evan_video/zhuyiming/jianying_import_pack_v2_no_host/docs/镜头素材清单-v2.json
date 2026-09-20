@@ -1,0 +1,388 @@
+{
+  "draft_name": "长鑫-三巨头垄断-产业替代-精修草稿-v2-去主持人",
+  "note": "已移除主持人/主播出镜素材，视频轨拆分为更短的无主持 B-roll 片段。",
+  "shots": [
+    {
+      "shot": "01",
+      "voice": "让我给你看一个更扎心的真相。",
+      "caption": "让我给你看一个更扎心的真相",
+      "start": 0.0,
+      "end": 3.272,
+      "duration": 3.272
+    },
+    {
+      "shot": "02",
+      "voice": "在长鑫崛起之前，",
+      "caption": "在长鑫崛起之前",
+      "start": 3.272,
+      "end": 5.141,
+      "duration": 1.869
+    },
+    {
+      "shot": "03",
+      "voice": "全球存储芯片市场，",
+      "caption": "全球存储芯片市场",
+      "start": 5.141,
+      "end": 7.244,
+      "duration": 2.103
+    },
+    {
+      "shot": "04",
+      "voice": "完全是一个被三星、海力士、美光这三家巨头垄断的黑暗森林。",
+      "caption": "三星、海力士、美光垄断 DRAM 市场",
+      "start": 7.244,
+      "end": 11.597,
+      "duration": 4.353
+    },
+    {
+      "shot": "05",
+      "voice": "它们三家，吃掉了全球超过百分之九十的市场份额。",
+      "caption": "三家吃掉全球超过 90% 的市场份额",
+      "start": 11.597,
+      "end": 15.95,
+      "duration": 4.353
+    },
+    {
+      "shot": "06",
+      "voice": "这意味着什么？",
+      "caption": "这意味着什么？",
+      "start": 15.95,
+      "end": 17.745,
+      "duration": 1.795
+    },
+    {
+      "shot": "07",
+      "voice": "意味着我们的手机、电脑、服务器，",
+      "caption": "手机、电脑、服务器",
+      "start": 17.745,
+      "end": 21.485,
+      "duration": 3.74
+    },
+    {
+      "shot": "08",
+      "voice": "每一台设备里的记忆中枢，",
+      "caption": "每一台设备里的“记忆中枢”",
+      "start": 21.485,
+      "end": 24.29,
+      "duration": 2.805
+    },
+    {
+      "shot": "09",
+      "voice": "都在给这三家巨头交过路费。",
+      "caption": "都在给三家巨头交“过路费”",
+      "start": 24.29,
+      "end": 27.328,
+      "duration": 3.038
+    },
+    {
+      "shot": "10",
+      "voice": "别人心情好就涨价，",
+      "caption": "别人心情好，就涨价",
+      "start": 27.328,
+      "end": 29.431,
+      "duration": 2.103
+    },
+    {
+      "shot": "11",
+      "voice": "心情不好就断供，",
+      "caption": "心情不好，就断供",
+      "start": 29.431,
+      "end": 31.3,
+      "duration": 1.869
+    },
+    {
+      "shot": "12",
+      "voice": "我们连还价的底气都没有。",
+      "caption": "我们连还价的底气都没有",
+      "start": 31.3,
+      "end": 34.105,
+      "duration": 2.805
+    },
+    {
+      "shot": "13",
+      "voice": "但朱一明偏偏不信邪。",
+      "caption": "但朱一明偏偏不信邪",
+      "start": 34.105,
+      "end": 36.443,
+      "duration": 2.338
+    },
+    {
+      "shot": "14",
+      "voice": "像朱一明这样的人，或者说像长鑫这样的企业，",
+      "caption": "像朱一明这样的人，像长鑫这样的企业",
+      "start": 36.443,
+      "end": 40.796,
+      "duration": 4.353
+    },
+    {
+      "shot": "15",
+      "voice": "他们成功的背后，根本不是靠运气，",
+      "caption": "成功的背后，根本不是靠运气",
+      "start": 40.796,
+      "end": 44.536,
+      "duration": 3.74
+    },
+    {
+      "shot": "16",
+      "voice": "而是死死踩中了一条最底层的逻辑：产业替代的红利。",
+      "caption": "最底层的逻辑：产业替代的红利",
+      "start": 44.536,
+      "end": 48.889,
+      "duration": 4.353
+    }
+  ],
+  "videos": [
+    {
+      "shot": "01",
+      "label": "长鑫厂区",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头01-01-长鑫厂区.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 36.0,
+      "start": 0.0,
+      "duration": 1.636
+    },
+    {
+      "shot": "01",
+      "label": "晶圆产线",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头01-02-晶圆产线.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 44.0,
+      "start": 1.636,
+      "duration": 1.636
+    },
+    {
+      "shot": "02",
+      "label": "长鑫厂房",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头02-01-长鑫厂房.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 32.0,
+      "start": 3.272,
+      "duration": 1.869
+    },
+    {
+      "shot": "03",
+      "label": "海力士洁净室",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头03-01-海力士洁净室.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+      "source_start": 24.0,
+      "start": 5.141,
+      "duration": 2.103
+    },
+    {
+      "shot": "04",
+      "label": "三巨头标识",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头04-01-三巨头标识.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\中国存储-长鑫突围-DRAM市场.mp4",
+      "source_start": 12.0,
+      "start": 7.244,
+      "duration": 1.959
+    },
+    {
+      "shot": "04",
+      "label": "海力士厂房",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头04-02-海力士厂房.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+      "source_start": 16.0,
+      "start": 9.203,
+      "duration": 1.088
+    },
+    {
+      "shot": "04",
+      "label": "半导体洁净室",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头04-03-半导体洁净室.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+      "source_start": 28.0,
+      "start": 10.291,
+      "duration": 1.306
+    },
+    {
+      "shot": "05",
+      "label": "DRAM巨头",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头05-01-DRAM巨头.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\中国存储-长鑫突围-DRAM市场.mp4",
+      "source_start": 12.0,
+      "start": 11.597,
+      "duration": 1.959
+    },
+    {
+      "shot": "05",
+      "label": "韩国DRAM产线",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头05-02-韩国DRAM产线.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+      "source_start": 32.0,
+      "start": 13.556,
+      "duration": 1.306
+    },
+    {
+      "shot": "05",
+      "label": "晶圆检测",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头05-03-晶圆检测.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+      "source_start": 40.0,
+      "start": 14.862,
+      "duration": 1.088
+    },
+    {
+      "shot": "06",
+      "label": "数据中心",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头06-01-数据中心.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\AI-服务器-数据中心-需授权确认-01.mp4",
+      "source_start": 0.0,
+      "start": 15.95,
+      "duration": 1.795
+    },
+    {
+      "shot": "07",
+      "label": "长鑫芯片",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头07-01-长鑫芯片.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-产品芯片-DRAM-02.mp4",
+      "source_start": 0.3,
+      "start": 17.745,
+      "duration": 1.683
+    },
+    {
+      "shot": "07",
+      "label": "服务器机柜",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头07-02-服务器机柜.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\AI-服务器-数据中心-需授权确认-01.mp4",
+      "source_start": 0.3,
+      "start": 19.428,
+      "duration": 2.057
+    },
+    {
+      "shot": "08",
+      "label": "存储芯片",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头08-01-存储芯片.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-存储产品-芯片展示-03.mp4",
+      "source_start": 0.3,
+      "start": 21.485,
+      "duration": 1.403
+    },
+    {
+      "shot": "08",
+      "label": "DRAM产品",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头08-02-DRAM产品.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-产品芯片-DRAM-02.mp4",
+      "source_start": 1.0,
+      "start": 22.887,
+      "duration": 1.402
+    },
+    {
+      "shot": "09",
+      "label": "城市夜景",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头09-01-城市夜景.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\06_city_factory_supplychain\\城市-夜景-产业区-转场氛围-01.webm",
+      "source_start": 0.0,
+      "start": 24.29,
+      "duration": 3.038
+    },
+    {
+      "shot": "10",
+      "label": "价格图表",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头10-01-价格图表.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\财经-股市图表-数据动画-需授权确认-01.mp4",
+      "source_start": 0.5,
+      "start": 27.328,
+      "duration": 2.103
+    },
+    {
+      "shot": "11",
+      "label": "服务器通道",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头11-01-服务器通道.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\AI-服务器-数据中心-需授权确认-01.mp4",
+      "source_start": 0.6,
+      "start": 29.431,
+      "duration": 1.869
+    },
+    {
+      "shot": "12",
+      "label": "服务器机房",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头12-01-服务器机房.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\AI-服务器-数据中心-需授权确认-01.mp4",
+      "source_start": 1.0,
+      "start": 31.3,
+      "duration": 1.543
+    },
+    {
+      "shot": "12",
+      "label": "供应链图",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头12-02-供应链图.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\供应链-AI芯片-卡脖子-需授权确认.mp4",
+      "source_start": 32.0,
+      "start": 32.843,
+      "duration": 1.262
+    },
+    {
+      "shot": "13",
+      "label": "长鑫产品发布",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头13-01-长鑫产品发布.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\长鑫-CXMT-中国DRAM-产业替代.mp4",
+      "source_start": 28.0,
+      "start": 34.105,
+      "duration": 2.338
+    },
+    {
+      "shot": "14",
+      "label": "长鑫厂房外景",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头14-01-长鑫厂房外景.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 32.0,
+      "start": 36.443,
+      "duration": 1.741
+    },
+    {
+      "shot": "14",
+      "label": "长鑫建设场景",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头14-02-长鑫建设场景.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 36.0,
+      "start": 38.184,
+      "duration": 1.306
+    },
+    {
+      "shot": "14",
+      "label": "长鑫产线",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头14-03-长鑫产线.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 44.0,
+      "start": 39.49,
+      "duration": 1.306
+    },
+    {
+      "shot": "15",
+      "label": "晶圆工艺",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头15-01-晶圆工艺.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\03_chip_wafer_cleanroom\\芯片-制造-工艺流程-ST素材-02.webm",
+      "source_start": 24.0,
+      "start": 40.796,
+      "duration": 1.87
+    },
+    {
+      "shot": "15",
+      "label": "洁净室死磕",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头15-02-洁净室死磕.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\03_chip_wafer_cleanroom\\芯片-制造-晶圆流程-科普素材-01.webm",
+      "source_start": 40.0,
+      "start": 42.666,
+      "duration": 1.87
+    },
+    {
+      "shot": "16",
+      "label": "长鑫芯片近景",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头16-01-长鑫芯片近景.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-存储产品-芯片展示-03.mp4",
+      "source_start": 0.3,
+      "start": 44.536,
+      "duration": 1.959
+    },
+    {
+      "shot": "16",
+      "label": "国产替代产线",
+      "path": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v2_no_host\\video_segments\\镜头16-02-国产替代产线.mp4",
+      "source": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+      "source_start": 44.0,
+      "start": 46.495,
+      "duration": 2.394
+    }
+  ]
+}

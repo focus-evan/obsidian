@@ -1,0 +1,31 @@
+02-20 10:59:35 [Info]	UserScore pid: 10, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 彩笔爱游走 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 9, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 放1个屁就 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 11, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 狂吻冷冷胸 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 5, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 小舍伟楠 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 4, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 放下才能强大 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 8, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 别打我06 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 1, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: sdfa3233 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 3, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 洞口该溜子 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 7, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: yy40180802 key: 11archive value: [-] -> 1
+02-20 10:59:35 [Info]	UserScore pid: 2, fsVal: -1, gtime: 0, unique: 0
+02-20 10:59:35 [Info]	Initialize
+02-20 10:59:35 [Info]	[SET] table: 浦城五弄 key: 11archive value: [-] -> 1
+02-20 10:59:59 [Info]	[GET] table: config key: 圣诞主题 value: [-] -> [-]

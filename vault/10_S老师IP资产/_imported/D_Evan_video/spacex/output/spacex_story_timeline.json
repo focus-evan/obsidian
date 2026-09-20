@@ -1,0 +1,118 @@
+[
+  {
+    "index": 1,
+    "title": "开场钩子",
+    "start": 0.0,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_01.mp4",
+    "text": "如果明天SpaceX真的提交IPO文件，这可能不是一次普通上市，而可能是人类商业史上最疯狂的一次交卷。",
+    "media": [
+      "01_hook_ipo/S01_C23_IMG_spacex_nrol_85.jpg",
+      "01_hook_ipo/S01_C24_IMG_spacex_transporter_4.jpg",
+      "07_starlink_network/S07_C22_IMG_spacex_starlink_4_12_v1_5.jpg"
+    ]
+  },
+  {
+    "index": 2,
+    "title": "火星梦想",
+    "start": 13.47,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_02.mp4",
+    "text": "时间回到2001年。马斯克在PayPal之后没有选择享受财富自由，而是盯上了火星，想把植物送上火星，证明人类可以成为跨星球物种。",
+    "media": [
+      "02_early_mars_and_russia/S02_C01_IMG_nasa_mars_surface_beneath_phoenix.jpg",
+      "09_concept_mars_network_finance/S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg"
+    ]
+  },
+  {
+    "index": 3,
+    "title": "第一性原理",
+    "start": 26.95,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_03.mp4",
+    "text": "SpaceX最底层的逻辑，是追问为什么火箭这么贵，然后用第一性原理重构成本曲线：能不能拆掉传统低效链条，能不能让火箭像飞机一样回收复用。",
+    "media": [
+      "03_first_principles/S03_C01_VID_nasa_nasa_readies_for_future_artemis_moon_missions_with.mp4",
+      "03_first_principles/S03_C02_VID_nasa_ksc_launch_control_center_renaming_ceremony.mp4"
+    ]
+  },
+  {
+    "index": 4,
+    "title": "三次失败一次生死局",
+    "start": 40.42,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_04.mp4",
+    "text": "2006、2007、2008，Falcon1连续三次发射失败。到第四次发射前，SpaceX几乎烧光了钱。成功，公司活；失败，公司死。2008年9月28日，第四次发射终于成功入轨。",
+    "media": [
+      "04_falcon1_failures_success/S04_C01_VID_spacex_falconsat.mp4",
+      "04_falcon1_failures_success/S04_C03_VID_spacex_trailblazer.mp4"
+    ]
+  },
+  {
+    "index": 5,
+    "title": "NASA翻盘",
+    "start": 53.9,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_05.mp4",
+    "text": "真正改变命运的，是进入NASA商业货运体系。SpaceX不再只是一个疯狂创业故事，而是开始成为美国航天系统中的关键变量。",
+    "media": [
+      "05_nasa_dragon_iss/S05_C09_VID_spacex_cots_2.mp4",
+      "05_nasa_dragon_iss/S05_C01_VID_nasa_coverage_of_the_launch_of_spacex_crs_32_dragon_car.mp4",
+      "05_nasa_dragon_iss/S05_C02_IMG_nasa_spacex_crew_dragon_docking_to_iss.jpg",
+      "05_nasa_dragon_iss/S05_C23_IMG_spacex_crew_3.jpg"
+    ]
+  },
+  {
+    "index": 6,
+    "title": "可回收火箭",
+    "start": 67.37,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_06.mp4",
+    "text": "一次性火箭是工程奇迹，可回收火箭才是商业模式。只有成本下降，发射频率才能上升；只有发射频率上升，后面的Starlink才有成立的基础。",
+    "media": [
+      "06_reusability_falcon9/S06_C07_VID_spacex_falcon9_test_flight.mp4",
+      "06_reusability_falcon9/S06_C01_IMG_nasa_falcon_9_landing_following_nasa_s_spacex_crew_12_l.jpg",
+      "06_reusability_falcon9/S06_C21_IMG_wiki_excited_for_the_falcon_heavy_launch_today_39405051.jpg"
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Starlink估值打开",
+    "start": 80.85,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_07.mp4",
+    "text": "当SpaceX从发射服务商，进化成太空互联网基础设施公司，资本市场真正定价的，就不再只是一枚火箭，而是未来几十年的全球通信网络。",
+    "media": [
+      "07_starlink_network/S07_C22_IMG_spacex_starlink_4_12_v1_5.jpg",
+      "07_starlink_network/S07_C23_IMG_spacex_starlink_4_10_v1_5.jpg",
+      "07_starlink_network/S07_C24_IMG_spacex_starlink_4_9_v1_5.jpg",
+      "07_starlink_network/S07_C21_IMG_wiki_cellular_base_stations_in_orbit_from_5g_to_zero_g_.jpg"
+    ]
+  },
+  {
+    "index": 8,
+    "title": "人物与组织",
+    "start": 94.32,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_08.mp4",
+    "text": "今天大家看到的是世界首富和科技狂人，但真正值得学习的，是SpaceX在一次次失败中沉淀出的工程能力、组织能力和产业穿透力。",
+    "media": [
+      "08_elon_spacex_broll/S08_C01_VID_nasa_spacex_ceo_elon_musk_and_nasa_administrator_jim_br.mp4",
+      "08_elon_spacex_broll/S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg",
+      "08_elon_spacex_broll/S08_C21_IMG_wiki_elon_musk_kaj_aligatoroj_agresaj_komercaj_konkuren.jpg"
+    ]
+  },
+  {
+    "index": 9,
+    "title": "结尾升华",
+    "start": 107.8,
+    "duration": 13.47,
+    "clip": "D:\\Evan\\video\\spacex\\output\\segment_09.mp4",
+    "text": "SpaceX给产业投资人最大的启发是：真正的大机会，往往诞生在大多数人觉得太贵、太难、太疯的地方。因为一旦成本结构变了，产业命运就变了。",
+    "media": [
+      "09_concept_mars_network_finance/S09_C02_IMG_nasa_nasa_noaa_night_earth.png",
+      "09_concept_mars_network_finance/S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg",
+      "07_starlink_network/S07_C21_IMG_wiki_cellular_base_stations_in_orbit_from_5g_to_zero_g_.jpg"
+    ]
+  }
+]

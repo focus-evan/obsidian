@@ -1,0 +1,11 @@
+{
+  "clean_reference": "D:\\aigc\\fed_rate_wolf\\99_output\\material_fixed_final\\美联储加息狼-素材修正版-v3.mp4",
+  "pipeline_reference": "D:\\aigc\\fed_rate_wolf\\99_output\\material_fixed_final\\fed_rate_wolf_material_fixed_final-参考.mp4",
+  "draft": "C:\\Users\\bzsj_\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\fed_rate_wolf_material_fixed_final_v3",
+  "import_pack": "D:\\aigc\\fed_rate_wolf\\jianying_import_pack_material_fixed_final",
+  "contact_sheet": "D:\\aigc\\fed_rate_wolf\\00_script\\material_fixed_final_contact_sheet.jpg",
+  "material_quality_rules": "D:\\aigc\\fed_rate_wolf\\00_script\\material_quality_rules.md",
+  "material_audit": "D:\\aigc\\fed_rate_wolf\\00_script\\material_audit.md",
+  "media_inventory": "D:\\aigc\\fed_rate_wolf\\00_script\\media_inventory.json",
+  "skill_script": "C:\\Users\\bzsj_\\.codex\\skills\\ai-video-jianying-edit\\scripts\\aigc_video_project.py"
+}

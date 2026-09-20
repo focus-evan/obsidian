@@ -1,0 +1,4 @@
+当前项目存在两个问题：
+1. 在微信服务号回调WeixinRedirectUri的时候报错， 用户unionid为空，无法匹配学员信息：oUmXGwOX5v27zbYFOdsHjxnMhtHQ 需要修改为在查 ：SELECT * FROM wechat_subscriber WHERE openid = ?" 为空的时候，可以去查：select * from student where openid = ? , WechatSubscriber 的字段从student里填充，不存在用Null填充
+2. 在解析微信返回的时候还存在xml解析不对的问题，导致诸如transcation_id不能为空的报错
+修正如上两个问题

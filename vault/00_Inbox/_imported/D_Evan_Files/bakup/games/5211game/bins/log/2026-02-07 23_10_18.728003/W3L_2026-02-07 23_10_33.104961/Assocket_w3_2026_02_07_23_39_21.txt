@@ -1,0 +1,22 @@
+02-07 23:39:21 [Info]	Attach... 
+02-07 23:39:21 [Info]	Hook Attach... 
+02-07 23:39:21 [Info]	cur module file: C:\Users\bzsj_\AppData\Roaming\Games\202508112253426604\YY\war3.exe
+02-07 23:39:21 [Info]	start network hook
+02-07 23:39:21 [Info]	Hook Attach over 
+02-07 23:39:21 [Info]	Attach over
+02-07 23:39:21 [Info]	MainThread: 22076
+02-07 23:39:21 [Info]	CGameManager::getGame begin
+02-07 23:39:21 [Info]	loading war3shell.dll ...
+02-07 23:39:21 [Info]	war3shell.dll path: D:\Evan\Files\bakup\games\5211game\W3L\Patch\war3\gp_1179\War3Shell.dll
+02-07 23:39:21 [Info]	load war3shell.dll success
+02-07 23:39:21 [Info]	obtain war3shell instance...
+02-07 23:39:21 [Info]	obtain war3shell instance success
+02-07 23:39:21 [Info]	map name: 
+02-07 23:39:21 [Info]	war3shell log path: D:\Evan\Files\bakup\games\5211game\W3L\core\..\..\bins\log\2026-02-07 23_10_18.728003\W3L_2026-02-07 23_10_33.104961\
+02-07 23:39:21 [Info]	war3shell vpnPort: 2100
+02-07 23:39:21 [Info]	CGameManager::getGame end
+02-07 23:39:21 [Info]	[NetHook] connect 192.168.3.64:2100
+02-07 23:39:27 [Info]	Fake_CreateIoCompletionPort ffffffff 0 0 0
+02-07 23:39:29 [Info]	[NetHook] bind 0.0.0.0:6112
+02-07 23:39:31 [Info]	[NetHook] bind 0.0.0.0:6112
+02-07 23:39:31 [Info]	[NetHook] connect 127.0.0.1:2101

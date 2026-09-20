@@ -1,0 +1,45 @@
+filters:
+  and:
+    - 'type == "action"'
+    - 'status != "done"'
+properties:
+  priority:
+    displayName: 优先级
+  status:
+    displayName: 状态
+  domain:
+    displayName: 领域
+  project:
+    displayName: 项目
+  due:
+    displayName: 截止
+  source:
+    displayName: 来源
+views:
+  - type: table
+    name: "未完成行动"
+    order:
+      - file.name
+      - priority
+      - status
+      - domain
+      - project
+      - due
+      - source
+    sort:
+      - property: priority
+        direction: ASC
+      - property: due
+        direction: ASC
+  - type: table
+    name: "P0/P1"
+    filters:
+      or:
+        - 'priority == "P0"'
+        - 'priority == "P1"'
+    order:
+      - file.name
+      - priority
+      - status
+      - project
+      - due

@@ -1,0 +1,287 @@
+{
+  "total_audio_duration": 651.48,
+  "target_seconds": 600,
+  "beat_count": 28,
+  "beats": [
+    {
+      "index": 1,
+      "title": "开头钩子",
+      "audio_start": 0.0,
+      "audio_duration": 23.14,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_01.mp4",
+      "source_pool": "segment_01",
+      "source_start": 0.0,
+      "text": "如果明天SpaceX真的提交IPO文件，那这可能不是一次普通上市。这可能是人类商业史上最疯狂的一次交卷。因为这不是一家卖火箭的公司要上市，而是一家公司，把火箭、卫星互联网、太空运输、全球通信，甚至未来火星移民，全部塞进了一张资本市场的答卷里。"
+    },
+    {
+      "index": 2,
+      "title": "今天的马斯克与过去的马斯克",
+      "audio_start": 23.14,
+      "audio_duration": 27.0,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_02.mp4",
+      "source_pool": "segment_08",
+      "source_start": 0.0,
+      "text": "但今天我不想只讲IPO，我想讲一个故事。因为你今天看到的马斯克，是世界首富，是科技狂人，是一手握着特斯拉、一手握着SpaceX的人。但你可能不知道，SpaceX最早的故事，不是天才创业成功史，而是一个亿万富翁，把自己逼到破产边缘、被全世界嘲笑、连续三次发射失败，最后只剩一枚火箭，赌命一搏的故事。"
+    },
+    {
+      "index": 3,
+      "title": "2001年的起点",
+      "audio_start": 50.14,
+      "audio_duration": 20.18,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_03.mp4",
+      "source_pool": "segment_02",
+      "source_start": 0.0,
+      "text": "时间回到2001年。那时候的马斯克，刚刚靠PayPal赚到第一桶大钱。正常人走到这一步，也许会买豪宅、买游艇、买飞机，过财富自由的生活。但马斯克不一样，他盯上的不是房子，不是车子，不是互联网，而是火星。"
+    },
+    {
+      "index": 4,
+      "title": "火星温室的梦想",
+      "audio_start": 70.32,
+      "audio_duration": 18.77,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_04.mp4",
+      "source_pool": "segment_02",
+      "source_start": 20.68,
+      "text": "他当时想做一件事：把植物送上火星，用一个小型温室告诉全世界，人类可以成为跨星球物种。别人财富自由以后，开始享受人生；马斯克财富自由以后，开始挑战人类边界。听起来很浪漫，但现实很骨感。"
+    },
+    {
+      "index": 5,
+      "title": "俄罗斯买火箭受挫",
+      "audio_start": 89.09,
+      "audio_duration": 20.11,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_05.mp4",
+      "source_pool": "segment_02",
+      "source_start": 39.95,
+      "text": "他去俄罗斯买火箭，结果发现火箭贵得离谱，而且对方也并没有太把他当回事。于是他做了一个改变命运的决定：既然买不起，那我就自己造。SpaceX不是从我会造火箭开始的，而是从我买不起火箭，所以我自己造开始的。"
+    },
+    {
+      "index": 6,
+      "title": "第一性原理发问",
+      "audio_start": 109.2,
+      "audio_duration": 27.91,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_06.mp4",
+      "source_pool": "segment_03",
+      "source_start": 0.0,
+      "text": "很多人以为伟大的公司一开始都是宏大蓝图，其实不是。伟大的公司一开始，往往只是一个极其朴素的问题。马斯克问的是：为什么火箭这么贵？他把火箭拆开看，发现原材料成本并没有想象中那么高。真正昂贵的，是传统航天工业冗长低效的产业链，是大量一次性使用的结构，是被默认不可改变的成本结构。"
+    },
+    {
+      "index": 7,
+      "title": "重构成本曲线",
+      "audio_start": 137.11,
+      "audio_duration": 18.77,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_07.mp4",
+      "source_pool": "segment_03",
+      "source_start": 0.0,
+      "text": "于是他用第一性原理重新思考：如果火箭可以像飞机一样重复使用，发射成本是不是就能大幅下降？所以SpaceX不是在造一枚火箭，它是在重构整个航天产业的成本曲线。这就是SpaceX最底层的产业逻辑。"
+    },
+    {
+      "index": 8,
+      "title": "SpaceX成立后的现实",
+      "audio_start": 155.88,
+      "audio_duration": 24.89,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_08.mp4",
+      "source_pool": "segment_04",
+      "source_start": 0.0,
+      "text": "2002年，SpaceX成立。但成立之后，马斯克很快发现，造火箭这件事，比他想象中更难。2006年，Falcon 1第一次发射，失败。2007年，第二次发射，还是失败。2008年，第三次发射，又失败。第一次失败，第二次失败，第三次还是失败。"
+    },
+    {
+      "index": 9,
+      "title": "2008年的生死悬崖",
+      "audio_start": 180.77,
+      "audio_duration": 21.17,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_09.mp4",
+      "source_pool": "segment_04",
+      "source_start": 0.0,
+      "text": "三次失败之后，SpaceX账上的钱已经快烧光了。更惨的是，同一时期，特斯拉也在烧钱，金融危机爆发，马斯克几乎同时面对两家公司濒临死亡。今天大家看马斯克，是世界首富；但2008年的马斯克，差点连工资都发不出来。"
+    },
+    {
+      "index": 10,
+      "title": "第四次发射决定生死",
+      "audio_start": 201.94,
+      "audio_duration": 18.86,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_10.mp4",
+      "source_pool": "segment_04",
+      "source_start": 0.0,
+      "text": "那时候，SpaceX只剩最后一次机会。第四枚Falcon 1火箭。成功，公司活；失败，公司死。2008年9月28日，Falcon 1第四次发射，终于成功进入轨道。这一天，SpaceX活了下来。"
+    },
+    {
+      "index": 11,
+      "title": "真正翻盘不是一枚火箭",
+      "audio_start": 220.8,
+      "audio_duration": 23.14,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_11.mp4",
+      "source_pool": "segment_05",
+      "source_start": 0.0,
+      "text": "但真正改变命运的，是后面的NASA合同。2008年，SpaceX赢得NASA商业货运合同，使用Falcon 9和Dragon飞船承担国际空间站货运任务。SpaceX不是因为一枚火箭成功而伟大，它是因为进入了美国航天体系，才真正从创业公司变成产业变量。"
+    },
+    {
+      "index": 12,
+      "title": "进入产业系统的意义",
+      "audio_start": 243.94,
+      "audio_duration": 17.59,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_12.mp4",
+      "source_pool": "segment_05",
+      "source_start": 23.64,
+      "text": "从这一刻开始，SpaceX不再只是一个疯狂创业公司的故事，它开始变成美国航天体系的一部分。这也是产业投资人必须看懂的第一个启发：真正伟大的科技公司，往往不是单点技术突破，而是进入了一个巨大的产业系统。"
+    },
+    {
+      "index": 13,
+      "title": "体系红利与时代需求",
+      "audio_start": 261.53,
+      "audio_duration": 23.74,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_13.mp4",
+      "source_pool": "segment_05",
+      "source_start": 41.73,
+      "text": "SpaceX看起来是商业公司，但它吃到的是美国航天体系重构的红利。政府要降本，NASA要商业化，美国要保持太空优势，而SpaceX刚好用更低成本、更高效率，接住了这个时代需求。所以产业投资不是看热闹，而是看这个新物种，是不是真的在顺应产业系统的重构。"
+    },
+    {
+      "index": 14,
+      "title": "可回收火箭的商业意义",
+      "audio_start": 285.26,
+      "audio_duration": 20.42,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_14.mp4",
+      "source_pool": "segment_06",
+      "source_start": 0.0,
+      "text": "SpaceX真正恐怖的地方，还不只是把火箭送上天，而是它后来完成了第二次跃迁：可回收火箭。传统火箭是什么？一次性用品。发射一次，烧掉一枚。这就像你坐一次飞机，飞机飞完直接报废，成本怎么可能降下来？"
+    },
+    {
+      "index": 15,
+      "title": "2015年的关键一幕",
+      "audio_start": 305.69,
+      "audio_duration": 19.66,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_15.mp4",
+      "source_pool": "segment_06",
+      "source_start": 20.92,
+      "text": "2015年12月，SpaceX成功完成Falcon 9一级火箭返回着陆。这证明了一件事：轨道级火箭发射之后，有机会被回收、翻新、再次使用。一次性火箭，是工程奇迹；可回收火箭，才是商业模式。"
+    },
+    {
+      "index": 16,
+      "title": "从降本到高频发射",
+      "audio_start": 325.34,
+      "audio_duration": 18.72,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_16.mp4",
+      "source_pool": "segment_06",
+      "source_start": 41.08,
+      "text": "因为只有成本下降，发射频率才能上升；只有发射频率上升，卫星互联网才有可能；只有卫星互联网铺开，SpaceX才不再只是发射服务商，而是全球通信基础设施公司。这条因果链，才是商业模式真正打通的地方。"
+    },
+    {
+      "index": 17,
+      "title": "Starlink让故事变了",
+      "audio_start": 344.06,
+      "audio_duration": 24.34,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_17.mp4",
+      "source_pool": "segment_07",
+      "source_start": 0.0,
+      "text": "这就是Starlink的出现。2019年，SpaceX发射第一批60颗Starlink卫星。从那以后，SpaceX的故事彻底变了。以前它是帮别人发射火箭，后来它是自己建设一张覆盖全球的太空互联网。发射火箭，是生意；建设太空互联网，是基础设施。"
+    },
+    {
+      "index": 18,
+      "title": "基础设施想象力打开",
+      "audio_start": 368.4,
+      "audio_duration": 27.14,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_18.mp4",
+      "source_pool": "segment_07",
+      "source_start": 24.84,
+      "text": "这一步非常关键。因为发射业务再强，本质上还是To B服务，客户是NASA、军方和商业卫星公司。但Starlink一旦跑通，它就变成了基础设施。它服务的是全球用户、全球飞机、全球船舶、全球偏远地区，甚至未来战争通信、无人系统、低空经济、自动驾驶、机器人网络。"
+    },
+    {
+      "index": 19,
+      "title": "资本市场真正定价什么",
+      "audio_start": 395.54,
+      "audio_duration": 18.24,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_19.mp4",
+      "source_pool": "segment_07",
+      "source_start": 52.48,
+      "text": "Starlink不是把网线拉到天上，它是把地球变成一个永远在线的星球。这就是SpaceX估值飙升的核心原因。资本市场真正给高估值的，从来不是一枚火箭，而可能是未来几十年的太空运输网络和全球通信网络。"
+    },
+    {
+      "index": 20,
+      "title": "互联网时代的类比",
+      "audio_start": 413.78,
+      "audio_duration": 24.02,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_20.mp4",
+      "source_pool": "segment_09",
+      "source_start": 0.0,
+      "text": "这点特别像互联网时代的底层逻辑。最早大家以为互联网公司是在做网站，后来才发现，真正值钱的是流量入口、交易网络、云计算和数字基础设施。今天大家以为SpaceX是在发火箭，但资本市场真正定价的，可能是未来几十年的太空运输网络和全球通信网络。"
+    },
+    {
+      "index": 21,
+      "title": "太空时代的水电煤",
+      "audio_start": 437.81,
+      "audio_duration": 18.34,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_21.mp4",
+      "source_pool": "segment_09",
+      "source_start": 24.52,
+      "text": "如果说互联网时代的水电煤，是流量、支付和云计算。那么太空时代的水电煤，可能就是火箭、卫星和全球通信网络。到这里，SpaceX就已经不再是一家公司，而更像一个逐步成形的产业底座。"
+    },
+    {
+      "index": 22,
+      "title": "启发一：第一性原理",
+      "audio_start": 456.14,
+      "audio_duration": 22.2,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_22.mp4",
+      "source_pool": "segment_08",
+      "source_start": 27.5,
+      "text": "所以这条视频最想给产业投资人的第一个启发是：第一性原理不是口号，而是把行业里最贵、最慢、最不可改变的地方重新拆开。马斯克没有接受火箭本来就贵这个常识，他问的是：贵在哪里？能不能拆掉？能不能复用？能不能规模化？"
+    },
+    {
+      "index": 23,
+      "title": "启发二：先打穿成本结构",
+      "audio_start": 478.34,
+      "audio_duration": 13.51,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_23.mp4",
+      "source_pool": "segment_08",
+      "source_start": 50.2,
+      "text": "第二，伟大的商业模式，往往不是从卖产品开始，而是从改变成本结构开始。未来很多十倍股、百倍股，最早也往往藏在成本曲线被打穿的瞬间。"
+    },
+    {
+      "index": 24,
+      "title": "启发三：失败是否沉淀能力",
+      "audio_start": 491.86,
+      "audio_duration": 31.73,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_24.mp4",
+      "source_pool": "segment_08",
+      "source_start": 64.21,
+      "text": "第三，新物种的早期一定充满失败。如果你站在2006年、2007年、2008年看SpaceX，你看到的是三次爆炸，是现金流枯竭，是一个疯子在烧钱。但如果你站在产业终局看，你会发现那些失败，正在换来工程能力、组织能力、供应链能力和成本能力的积累。普通人看失败，就是失败；产业投资人看失败，要问一句：这个失败有没有沉淀能力？"
+    },
+    {
+      "index": 25,
+      "title": "启发四：从产品到平台",
+      "audio_start": 523.58,
+      "audio_duration": 21.12,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_25.mp4",
+      "source_pool": "segment_08",
+      "source_start": 96.44,
+      "text": "第四，真正伟大的公司，往往会从单一产品进化成产业平台。SpaceX的第一阶段是火箭发射，第二阶段是可回收火箭，第三阶段是Starlink，第四阶段可能是Starship和深空运输。它不是在做加法，而是在不断打开产业边界。"
+    },
+    {
+      "index": 26,
+      "title": "冷静提醒",
+      "audio_start": 544.7,
+      "audio_duration": 26.93,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_26.mp4",
+      "source_pool": "segment_09",
+      "source_start": 43.36,
+      "text": "当然，作为投资人，我们也必须冷静。估值一旦拉到高位，要求也会同步抬高。SpaceX未来要证明的，不只是火箭能飞、卫星能连网，它还要证明：Starlink能不能持续赚钱，Starship能不能真正降低深空运输成本，全球监管能不能打通，军事、民用、商业三条线能不能形成长期现金流。"
+    },
+    {
+      "index": 27,
+      "title": "第一性原理的排比",
+      "audio_start": 571.63,
+      "audio_duration": 36.74,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_27.mp4",
+      "source_pool": "segment_09",
+      "source_start": 70.79,
+      "text": "所以今天我们不是无脑崇拜马斯克。我们真正要学习的，是他背后的产业方法论。当所有人都说火箭太贵，他问：为什么不能便宜？当所有人都说火箭只能用一次，他问：为什么不能回收？当所有人都说航天是国家工程，他问：为什么不能商业化？当所有人都说地球互联网已经够大，他问：为什么不能把互联网铺到太空？这就是第一性原理。它不是聪明人的脑洞，它是产业变革的起点。"
+    },
+    {
+      "index": 28,
+      "title": "最终升华",
+      "audio_start": 608.38,
+      "audio_duration": 43.1,
+      "visual_file": "D:\\Evan\\video\\spacex\\output\\visual_beats_v2\\beat_28.mp4",
+      "source_pool": "segment_09",
+      "source_start": 108.03,
+      "text": "最后我想说一句：如果SpaceX真的上市，它上市的不是一家公司，而是一个人类把成本打穿、把边界推远、把不可能变成基础设施的故事。从三次爆炸，到万亿估值；从差点破产，到可能成为全球最大IPO之一；从一枚火箭，到一张太空互联网。SpaceX给产业投资人最大的启发是：真正的大机会，往往不是在最热闹的地方出现，而是在大多数人觉得不可能、太贵、太难、太疯的地方，开始悄悄改变成本结构。因为一旦成本结构变了，产业命运就变了；一旦产业命运变了，资本市场的定价，也会彻底变了。"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "project_name": "fed_rate_wolf_material_fixed",
+  "root": "D:\\aigc\\fed_rate_wolf",
+  "drafts_dir": "C:/Users/bzsj_/AppData/Local/JianyingPro/User Data/Projects/com.lveditor.draft",
+  "aspect_ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "voice_audio": "D:\\aigc\\fed_rate_wolf\\99_output\\voice_edge_tts_fallback.mp3",
+  "output_dir": "D:\\aigc\\fed_rate_wolf\\99_output\\material_fixed",
+  "import_pack_dir": "D:\\aigc\\fed_rate_wolf\\jianying_import_pack_material_fixed",
+  "draft_name": "fed_rate_wolf_material_fixed_v2",
+  "render_reference": true,
+  "burn_subtitles": true,
+  "validate": false,
+  "text_size": 8.4,
+  "text_y": -0.62,
+  "voice_volume": 1.0,
+  "shots": [
+    {
+      "id": "01",
+      "voice": "美联储换帅，加息警报响起",
+      "caption": "美联储换帅，加息警报响起",
+      "duration": 23.528,
+      "visuals": [
+        {
+          "label": "沃什-换帅-美联储-市场警报",
+          "path": "D:\\aigc\\fed_rate_wolf\\01_cold_open_fed_chair_alarm\\restricted_need_authorization\\沃什-美联储-上任-主席--MXSO88zV9UM.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 0.94
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "voice": "2022 暴力加息的市场记忆",
+      "caption": "2022 暴力加息的市场记忆",
+      "duration": 29.411,
+      "visuals": [
+        {
+          "label": "鲍威尔-加息-美联储-2022",
+          "path": "D:\\aigc\\fed_rate_wolf\\02_fed_2022_rate_hike_memory\\restricted_need_authorization\\鲍威尔-美联储-发布会-加息--k5y_3F40DkM.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 0.94
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "voice": "恐慌背后，是流动性收紧",
+      "caption": "恐慌背后，是流动性收紧",
+      "duration": 29.411,
+      "visuals": [
+        {
+          "label": "恐慌-流动性-资产缩水-资金选择",
+          "path": "D:\\aigc\\fed_rate_wolf\\03_fear_to_framework\\public\\恐慌-流动性-资产缩水-资金选择-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "voice": "长端利率，是科技股估值杀手",
+      "caption": "长端利率，是科技股估值杀手",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "美债-收益率-科技估值-机会成本",
+          "path": "D:\\aigc\\fed_rate_wolf\\04_opportunity_cost_bonds_vs_ai\\public\\美债-收益率-科技估值-机会成本-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "voice": "5.13% 触发多米诺效应",
+      "caption": "5.13% 触发多米诺效应",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "长债-五点一三-防线-多米诺",
+          "path": "D:\\aigc\\fed_rate_wolf\\05_thirty_year_yield_513\\public\\长债-五点一三-马基诺防线-多米诺-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "voice": "AI 牛市的估值地基被动摇",
+      "caption": "AI 牛市的估值地基被动摇",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "AI-数据中心-GPU-科技股",
+          "path": "D:\\aigc\\fed_rate_wolf\\06_ai_bull_market_foundation_shaken\\restricted_need_authorization\\AI-数据中心-GPU-科技股--N5AJJ0tAoxc.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "voice": "通胀粘性来自能源冲击",
+      "caption": "通胀粘性来自能源冲击",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "油轮-霍尔木兹-能源价格-通胀",
+          "path": "D:\\aigc\\fed_rate_wolf\\07_inflation_energy_hormuz\\restricted_need_authorization\\油轮-霍尔木兹-能源价格-通胀--OIfWxBVshao.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 0.94
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "voice": "美债黑洞推高收益率",
+      "caption": "美债黑洞推高收益率",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "美债-债务黑洞-黄金-去美元化",
+          "path": "D:\\aigc\\fed_rate_wolf\\08_us_debt_black_hole\\public\\美债-债务黑洞-黄金-去美元化-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "voice": "供需失衡，债券收益率上行",
+      "caption": "供需失衡，债券收益率上行",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "美债-拍卖-供需-收益率",
+          "path": "D:\\aigc\\fed_rate_wolf\\09_treasury_supply_demand_imbalance\\restricted_need_authorization\\美债-拍卖-供需-收益率--uNzY1REaI-M.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "voice": "沃什反对长期依赖 QE",
+      "caption": "沃什反对长期依赖 QE",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "沃什-听证会-QE-美联储",
+          "path": "D:\\aigc\\fed_rate_wolf\\10_warsh_profile_qe_skeptic\\restricted_need_authorization\\沃什-听证会-开场陈述-美联储--Zj3ZCRXY1J0.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 0.94
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "voice": "缩表加降息，是组合拳",
+      "caption": "缩表加降息，是组合拳",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "缩表-降息-货币政策-天平",
+          "path": "D:\\aigc\\fed_rate_wolf\\11_qt_plus_rate_cut_patient_metaphor\\public\\缩表-降息-政策天平-组合拳-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "voice": "在通胀和 AI 之间走钢丝",
+      "caption": "在通胀和 AI 之间走钢丝",
+      "duration": 29.411,
+      "visuals": [
+        {
+          "label": "通胀-AI-政策两难-走钢丝",
+          "path": "D:\\aigc\\fed_rate_wolf\\12_walk_tightrope_inflation_ai\\public\\通胀-AI-政策两难-走钢丝-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "voice": "美股、港股、大 A 出现分化",
+      "caption": "美股、港股、大 A 出现分化",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "美股-港股-A股-资产对比",
+          "path": "D:\\aigc\\fed_rate_wolf\\13_asset_impact_us_hk_a_share\\restricted_need_authorization\\美股-港股-A股-对比--PnfBur89ZBo.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "voice": "美股 AI 估值波动加剧",
+      "caption": "美股 AI 估值波动加剧",
+      "duration": 29.411,
+      "visuals": [
+        {
+          "label": "纳指-AI科技股-估值波动",
+          "path": "D:\\aigc\\fed_rate_wolf\\14_us_stock_ai_volatility\\public\\纳指-AI科技股-估值波动-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "voice": "港股有南向资金托底",
+      "caption": "港股有南向资金托底",
+      "duration": 29.411,
+      "visuals": [
+        {
+          "label": "港交所-港股-南向资金-金融",
+          "path": "D:\\aigc\\fed_rate_wolf\\15_hongkong_bridge_southbound_flow\\restricted_need_authorization\\港交所-交易大厅-港股-金融--Fhij906XtcU.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 0.94
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "voice": "大 A 结构性科技慢牛",
+      "caption": "大 A 结构性科技慢牛",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "A股-科技慢牛-半导体-新能源",
+          "path": "D:\\aigc\\fed_rate_wolf\\16_a_share_independent_bull_logic\\restricted_need_authorization\\A股-科技慢牛-半导体-新能源--Oidr0rfwlyY.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "voice": "政策正在锁住国内流动性",
+      "caption": "政策正在锁住国内流动性",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "政策-流动性-国家队-托底",
+          "path": "D:\\aigc\\fed_rate_wolf\\17_policy_support_liquidity_backstop\\public\\政策-流动性-国家队-托底-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "voice": "产业升级拐点已经出现",
+      "caption": "产业升级拐点已经出现",
+      "duration": 31.763,
+      "visuals": [
+        {
+          "label": "芯片-工厂-微电子-产业升级",
+          "path": "D:\\aigc\\fed_rate_wolf\\18_industry_upgrade_real_inflection\\restricted_need_authorization\\芯片-工厂-微电子-产线--7y7bVekJElc.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 0.94
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "voice": "个人产业投资者看长期趋势",
+      "caption": "个人产业投资者看长期趋势",
+      "duration": 29.411,
+      "visuals": [
+        {
+          "label": "长期投资-产业趋势-个人投资者",
+          "path": "D:\\aigc\\fed_rate_wolf\\19_personal_industry_investor\\restricted_need_authorization\\长期投资-产业趋势-研究--f0Shc2YFBIk.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "voice": "真懂宏观、产业和估值",
+      "caption": "真懂宏观、产业和估值",
+      "duration": 23.528,
+      "visuals": [
+        {
+          "label": "宏观-产业-估值-结尾金句",
+          "path": "D:\\aigc\\fed_rate_wolf\\20_closing_true_investor_ability\\public\\宏观-产业-估值-结尾金句-公开自制.mp4",
+          "source_start": 0,
+          "weight": 1.0,
+          "crop_bottom_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

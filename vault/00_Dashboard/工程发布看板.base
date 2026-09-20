@@ -1,0 +1,34 @@
+filters:
+  and:
+    - 'type == "codex-session"'
+    - 'domain == "engineering"'
+properties:
+  status:
+    displayName: 状态
+  project:
+    displayName: 项目
+  commit:
+    displayName: 提交
+  branch:
+    displayName: 分支
+  validation:
+    displayName: 验证
+  deployed:
+    displayName: 已部署
+  next_action:
+    displayName: 后续
+views:
+  - type: table
+    name: "工程任务"
+    order:
+      - file.name
+      - status
+      - project
+      - commit
+      - branch
+      - validation
+      - deployed
+      - next_action
+    sort:
+      - property: updated
+        direction: DESC

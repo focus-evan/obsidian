@@ -1,0 +1,108 @@
+[Commandbar Hotkeys 20]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 21]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 22]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 23]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 11]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 12]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 13]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 10]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 00]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 01]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 02]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Commandbar Hotkeys 03]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 0]
+HeroOnly=0
+Hotkey=81
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 1]
+HeroOnly=0
+Hotkey=9
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 2]
+HeroOnly=0
+Hotkey=20
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 3]
+HeroOnly=0
+Hotkey=32
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 4]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 5]
+HeroOnly=0
+Hotkey=0
+MetaKeyState=0
+QuickCast=1
+

@@ -1,0 +1,74 @@
+[
+  {
+    "section": "S01",
+    "folder": "01_hook_ipo",
+    "title": "NROL-85",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/52013376989_395092fa4c_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\01_hook_ipo\\S01_C23_IMG_spacex_nrol_85.jpg"
+  },
+  {
+    "section": "S05",
+    "folder": "05_nasa_dragon_iss",
+    "title": "Ax-1",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51991997860_fa865513ec_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\05_nasa_dragon_iss\\S05_C22_IMG_spacex_ax_1.jpg"
+  },
+  {
+    "section": "S01",
+    "folder": "01_hook_ipo",
+    "title": "Transporter-4",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51981688502_0584ac5658_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\01_hook_ipo\\S01_C24_IMG_spacex_transporter_4.jpg"
+  },
+  {
+    "section": "S07",
+    "folder": "07_starlink_network",
+    "title": "Starlink 4-12 (v1.5)",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51947052831_3b1599cd70_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\07_starlink_network\\S07_C22_IMG_spacex_starlink_4_12_v1_5.jpg"
+  },
+  {
+    "section": "S07",
+    "folder": "07_starlink_network",
+    "title": "Starlink 4-10 (v1.5)",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51928220502_1a44139be7_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\07_starlink_network\\S07_C23_IMG_spacex_starlink_4_10_v1_5.jpg"
+  },
+  {
+    "section": "S07",
+    "folder": "07_starlink_network",
+    "title": "Starlink 4-9 (v1.5)",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51924631989_4e0b26f306_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\07_starlink_network\\S07_C24_IMG_spacex_starlink_4_9_v1_5.jpg"
+  },
+  {
+    "section": "S05",
+    "folder": "05_nasa_dragon_iss",
+    "title": "Crew-3",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51673353699_e3da266245_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\05_nasa_dragon_iss\\S05_C23_IMG_spacex_crew_3.jpg"
+  },
+  {
+    "section": "S05",
+    "folder": "05_nasa_dragon_iss",
+    "title": "Crew-2",
+    "type": "IMG",
+    "source": "spacex_flickr",
+    "url": "https://live.staticflickr.com/65535/51136761295_edb4d3ba1d_o.jpg",
+    "file": "D:\\Evan\\video\\spacex\\05_nasa_dragon_iss\\S05_C24_IMG_spacex_crew_2.jpg"
+  }
+]

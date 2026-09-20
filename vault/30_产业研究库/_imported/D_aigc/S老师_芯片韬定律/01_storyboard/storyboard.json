@@ -1,0 +1,307 @@
+{
+  "project_title": "S老师_芯片韬定律",
+  "project_root": "D:/aigc/S老师_芯片韬定律",
+  "format": "16:9",
+  "language": "zh-CN",
+  "updated_at": "2026-05-29T00:00:00+08:00",
+  "full_script_thesis": "这条口播不是单纯介绍摩尔定律，而是在讲半导体产业的旧规则如何被先进制程和美国产业链控制体系绑定；当几何缩微越来越贵、越来越难，并成为系统性封锁工具时，华为提出韬定律，试图把竞争逻辑从‘卷纳米’转向‘系统级时间缩微’。",
+  "visual_strategy": "前半段用摩尔定律、芯片微观、5nm晶体管、EUV光刻建立旧路线；中段用白宫CHIPS法案、商务部长/国会/供应链峰会表达美国卡的是制度和产业链规则；后半段必须转入华为官方园区、技术场景和何庭波/韬定律发布语境，表达主角从旧规则中换路线。",
+  "shots": [
+    {
+      "shot_id": "001",
+      "voiceover": "过去60年，全球芯片行业都信奉一个规律：摩尔定律。",
+      "duration_sec_estimate": 5,
+      "argument_role": "opening_old_rule",
+      "visual_job": "用Gordon Moore/摩尔定律真实视频建立旧规则的权威感。",
+      "material_type": "exact_entity",
+      "primary_visual_targets": [
+        "Gordon Moore访谈",
+        "Moore's Law官方解释视频",
+        "科技史馆/英特尔摩尔定律视频"
+      ],
+      "fallback_visual_targets": [
+        "晶体管增长动画",
+        "芯片发展时间线视频"
+      ],
+      "do_not_use": [
+        "静态图表作为最终素材",
+        "普通芯片背景",
+        "随机科技线条动画"
+      ],
+      "search_queries_zh": [
+        "摩尔定律 戈登摩尔 访谈 视频",
+        "摩尔定律 官方 解释 视频",
+        "计算机历史博物馆 摩尔定律 Gordon Moore 视频"
+      ],
+      "search_queries_en": [
+        "Gordon Moore Moore's Law interview video",
+        "Science History Moore's Law at 40 video",
+        "Computer History Museum Moore's Law Gordon Moore video"
+      ],
+      "asset_folder": "02_assets/shot_001_摩尔定律_GordonMoore_视频"
+    },
+    {
+      "shot_id": "002",
+      "voiceover": "什么叫摩尔定律？简单说，就是芯片越做越小，晶体管越塞越多，性能越来越强。",
+      "duration_sec_estimate": 7,
+      "argument_role": "definition",
+      "visual_job": "把抽象定义变成可见画面：镜头进入芯片内部，看见微缩和晶体管密度。",
+      "material_type": "process",
+      "primary_visual_targets": [
+        "microchip zoom-in video",
+        "transistor microscopic visualization",
+        "semiconductor die close-up"
+      ],
+      "fallback_visual_targets": [
+        "wafer/chip macro footage",
+        "processor close-up video"
+      ],
+      "do_not_use": [
+        "无芯片实体的抽象粒子动画",
+        "泛科技背景"
+      ],
+      "search_queries_zh": [
+        "芯片 放大 晶体管 视频",
+        "微芯片 特写 晶体管 视频"
+      ],
+      "search_queries_en": [
+        "zoom into microchip video",
+        "transistor microscopic visualization video"
+      ],
+      "asset_folder": "02_assets/shot_002_芯片缩小_晶体管_性能"
+    },
+    {
+      "shot_id": "003",
+      "voiceover": "过去，美国主导半导体规则，靠的就是这套逻辑：谁能把制程做得更先进，谁就能掌握更强的芯片生产力。",
+      "duration_sec_estimate": 9,
+      "argument_role": "rule_maker",
+      "visual_job": "从技术解释转向产业规则：美国用CHIPS法案等政策把先进制程变成产业主导权。",
+      "material_type": "policy_plus_industry",
+      "primary_visual_targets": [
+        "White House CHIPS Act speech",
+        "CHIPS and Science Act remarks",
+        "US semiconductor manufacturing speech"
+      ],
+      "fallback_visual_targets": [
+        "C-SPAN semiconductor policy clip",
+        "US government semiconductor hearing"
+      ],
+      "do_not_use": [
+        "单纯美国国旗",
+        "普通会议室",
+        "无半导体语境的政府画面"
+      ],
+      "search_queries_zh": [
+        "白宫 CHIPS Act 半导体 演讲 视频",
+        "美国 半导体 制造 政策 视频"
+      ],
+      "search_queries_en": [
+        "White House CHIPS Act semiconductor speech video",
+        "President Biden CHIPS and Science Act semiconductor remarks video"
+      ],
+      "asset_folder": "02_assets/shot_003_美国主导半导体规则_CHIPS法案"
+    },
+    {
+      "shot_id": "004",
+      "voiceover": "所以，全世界都在卷：7nm、5nm、3nm，甚至2nm。",
+      "duration_sec_estimate": 5,
+      "argument_role": "global_race",
+      "visual_job": "让观众看到先进制程竞争是晶体管尺度和制造能力的极限竞赛。",
+      "material_type": "process",
+      "primary_visual_targets": [
+        "5nm transistor video",
+        "2nm semiconductor official video",
+        "wafer fab production line",
+        "EUV lithography in fab"
+      ],
+      "fallback_visual_targets": [
+        "semiconductor cleanroom",
+        "chip manufacturing close-up"
+      ],
+      "do_not_use": [
+        "普通电子厂流水线",
+        "没有半导体制程信息的芯片背景"
+      ],
+      "search_queries_zh": [
+        "5纳米 晶体管 视频",
+        "2纳米 半导体 制程 视频",
+        "晶圆厂 先进制程 生产线 视频"
+      ],
+      "search_queries_en": [
+        "5 nanometer transistor video",
+        "2nm semiconductor process official video",
+        "advanced semiconductor process wafer fab b-roll"
+      ],
+      "asset_folder": "02_assets/shot_004_先进制程_5纳米晶体管"
+    },
+    {
+      "shot_id": "005",
+      "voiceover": "但问题是，这条路越来越贵，也越来越难。",
+      "duration_sec_estimate": 5,
+      "argument_role": "cost_pressure",
+      "visual_job": "用EUV光刻机和复杂设备表达先进制程背后的成本、难度和工程门槛。",
+      "material_type": "process",
+      "primary_visual_targets": [
+        "ASML EUV lithography machine official video",
+        "EUV optical system animation",
+        "cleanroom engineers operating lithography tools"
+      ],
+      "fallback_visual_targets": [
+        "high-end semiconductor equipment",
+        "chip manufacturing machine close-up"
+      ],
+      "do_not_use": [
+        "普通机械臂",
+        "泛科技粒子动画"
+      ],
+      "search_queries_zh": [
+        "ASML EUV 光刻机 视频",
+        "EUV 光刻 成本 难度 视频"
+      ],
+      "search_queries_en": [
+        "ASML EUV lithography machine official video",
+        "EUV lithography explained video"
+      ],
+      "asset_folder": "02_assets/shot_005_纳米制程_EUV_光刻"
+    },
+    {
+      "shot_id": "006",
+      "voiceover": "先进制程背后，不只是技术问题，更是光刻机、EDA、材料、晶圆制造、产业链协同的系统性封锁。",
+      "duration_sec_estimate": 10,
+      "argument_role": "system_blockade",
+      "visual_job": "从单点技术扩展到半导体产业链系统：工具、软件、材料、制造和协同都被纳入规则。",
+      "material_type": "system_evidence",
+      "primary_visual_targets": [
+        "US Commerce semiconductor manufacturing speech",
+        "ASML EUV machine",
+        "EDA chip design software engineer",
+        "silicon wafer manufacturing",
+        "semiconductor supply chain footage"
+      ],
+      "fallback_visual_targets": [
+        "cleanroom and wafer handling footage",
+        "semiconductor supply chain explainer"
+      ],
+      "do_not_use": [
+        "单一芯片特写",
+        "泛化工程师开会",
+        "无半导体产业链元素的素材"
+      ],
+      "search_queries_zh": [
+        "光刻机 EDA 材料 晶圆制造 视频",
+        "美国 半导体 制造 Raimondo 视频"
+      ],
+      "search_queries_en": [
+        "lithography EDA materials wafer manufacturing video",
+        "Raimondo US semiconductor manufacturing video"
+      ],
+      "asset_folder": "02_assets/shot_006_光刻_EDA_晶圆_产业链封锁"
+    },
+    {
+      "shot_id": "007",
+      "voiceover": "美国为什么能卡中国芯片？因为它卡的不是某一个点，而是一整套规则。",
+      "duration_sec_estimate": 8,
+      "argument_role": "conflict_explanation",
+      "visual_job": "用政策讲话、供应链峰会、国会资金讨论等画面表达‘一整套规则’。",
+      "material_type": "policy",
+      "primary_visual_targets": [
+        "US Commerce semiconductor speech",
+        "White House semiconductor supply chain summit",
+        "Congressional chip funding speech",
+        "BIS/export-control briefing"
+      ],
+      "fallback_visual_targets": [
+        "CHIPS Act remarks",
+        "Commerce Secretary semiconductor speech"
+      ],
+      "do_not_use": [
+        "单纯美国国旗",
+        "普通白宫外景",
+        "无半导体语境的政治会议"
+      ],
+      "search_queries_zh": [
+        "美国 商务部 半导体 出口管制 视频",
+        "白宫 半导体 供应链 峰会 视频",
+        "美国 芯片资金 国会 视频"
+      ],
+      "search_queries_en": [
+        "US China chip export controls hearing video",
+        "White House semiconductor supply chain resilience summit video",
+        "C-SPAN semiconductor policy Raimondo video"
+      ],
+      "asset_folder": "02_assets/shot_007_美国卡中国芯片_规则封锁"
+    },
+    {
+      "shot_id": "008",
+      "voiceover": "但今天，华为开始做一件非常关键的事：不再完全沿着美国定义的先进制程路线往下卷。",
+      "duration_sec_estimate": 8,
+      "argument_role": "turning_point",
+      "visual_job": "画面从美国规则切到华为实体：园区、研发、技术场景，表现主角开始换路线。",
+      "material_type": "company_identity",
+      "primary_visual_targets": [
+        "Huawei campus aerial footage",
+        "Huawei Songshan Lake campus video",
+        "Huawei factory/technology park official video",
+        "Huawei lab or R&D footage"
+      ],
+      "fallback_visual_targets": [
+        "Huawei official launch event",
+        "Huawei engineers/lab footage"
+      ],
+      "do_not_use": [
+        "普通研发人员",
+        "普通中国城市航拍",
+        "和华为无关的科技制造素材"
+      ],
+      "search_queries_zh": [
+        "华为 园区 航拍 视频",
+        "华为 松山湖 园区 视频",
+        "华为 工厂 生产线 视频",
+        "华为 实验室 研发 视频"
+      ],
+      "search_queries_en": [
+        "Huawei campus aerial footage",
+        "Huawei Songshan Lake campus drone video",
+        "Huawei factory production line video",
+        "Huawei official lab R&D footage"
+      ],
+      "asset_folder": "02_assets/shot_008_华为_松山湖园区_公司新路线"
+    },
+    {
+      "shot_id": "009",
+      "voiceover": "而是提出一条新的思路：韬定律。",
+      "duration_sec_estimate": 5,
+      "argument_role": "conclusion_new_logic",
+      "visual_job": "直接落到韬定律和何庭波发布/访谈语境，表达从几何缩微转向时间缩微的新思路。",
+      "material_type": "exact_entity_or_architecture",
+      "primary_visual_targets": [
+        "华为韬定律发布/解释视频",
+        "何庭波韬定律访谈视频",
+        "华为官方技术发布会",
+        "逻辑折叠/时间缩微解释素材"
+      ],
+      "fallback_visual_targets": [
+        "advanced packaging video",
+        "chiplet architecture video",
+        "system-level chip architecture animation"
+      ],
+      "do_not_use": [
+        "抽象结构展开动画作为唯一素材",
+        "普通芯片背景",
+        "和华为无关的科技转场"
+      ],
+      "search_queries_zh": [
+        "韬定律 华为 视频",
+        "韬定律 何庭波 人民日报 对话 视频",
+        "华为 韬定律 先进制程",
+        "华为 芯片 新架构 发布会 视频"
+      ],
+      "search_queries_en": [
+        "Huawei Tao Law semiconductor video",
+        "He Tingbo Tao Law video",
+        "A Time Scaling Theory for Multi-Layer Electronic Systems video"
+      ],
+      "asset_folder": "02_assets/shot_009_韬定律_何庭波_发布访谈"
+    }
+  ]
+}

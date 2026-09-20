@@ -1,0 +1,71 @@
+02-16 13:45:12 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:12 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:12 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:12 [Info]	[25512] ProcRpgScores
+02-16 13:45:12 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:12 [Info]	[25512] InitRPGScore player progress (1/10) curSlotId: 10
+02-16 13:45:12 [Info]	[25512] ProcRpgScores
+02-16 13:45:12 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:12 [Info]	[25512] InitRPGScore player progress (2/10) curSlotId: 7
+02-16 13:45:12 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:12 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:12 [Info]	[25512] ProcRpgScores
+02-16 13:45:12 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:12 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:12 [Info]	[25512] InitRPGScore player progress (3/10) curSlotId: 8
+02-16 13:45:12 [Info]	[25512] ProcRpgScores
+02-16 13:45:12 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:12 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:12 [Info]	[25512] InitRPGScore player progress (4/10) curSlotId: 4
+02-16 13:45:12 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:12 [Info]	[25512] ProcRpgScores
+02-16 13:45:12 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:12 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:12 [Info]	[25512] InitRPGScore player progress (5/10) curSlotId: 5
+02-16 13:45:12 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:12 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:12 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:12 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:12 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:12 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:12 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:12 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:12 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:13 [Info]	[25512] ProcRpgScores
+02-16 13:45:13 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:13 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:13 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:13 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:13 [Info]	[25512] InitRPGScore player progress (6/10) curSlotId: 9
+02-16 13:45:13 [Info]	[25512] ProcRpgScores
+02-16 13:45:13 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:13 [Info]	[25512] InitRPGScore player progress (7/10) curSlotId: 1
+02-16 13:45:13 [Info]	[25512] ProcRpgScores
+02-16 13:45:13 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:13 [Info]	[25512] InitRPGScore player progress (8/10) curSlotId: 3
+02-16 13:45:13 [Info]	[25512] ProcRpgScores
+02-16 13:45:13 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:13 [Info]	[25512] InitRPGScore player progress (9/10) curSlotId: 11
+02-16 13:45:13 [Info]	[25512] ProcRpgScores
+02-16 13:45:13 [Info]	[25512] [RPGScore] init...
+
+02-16 13:45:13 [Info]	[25512] InitRPGScore player progress (10/10) curSlotId: 2
+02-16 13:45:13 [Info]	[25512] SendWar3RpgScoreAck
+02-16 13:45:13 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:13 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:13 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:13 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:13 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:13 [Info]	[5860] set RPG val freq as 1
+02-16 13:45:13 [Info]	[5860] set RPG add freq as 1
+02-16 13:45:13 [Info]	[5860] assist key: roomtype value: 3097
+02-16 13:45:13 [Info]	[5860] set RPG val freq as 1

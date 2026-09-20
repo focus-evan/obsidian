@@ -1,0 +1,68 @@
+{
+  "draft_name": "长鑫-三巨头垄断-产业替代-IP透明出镜精修草稿-v6",
+  "draft_path": "C:\\Users\\bzsj_\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\长鑫-三巨头垄断-产业替代-IP透明出镜精修草稿-v6",
+  "import_pack": "D:\\Evan\\video\\zhuyiming\\jianying_import_pack_v6_ip_transparent",
+  "reference_mp4": "D:\\Evan\\video\\zhuyiming\\output\\长鑫-三巨头垄断-产业替代-IP透明出镜精剪版-v6.mp4",
+  "base_video": "D:\\Evan\\video\\zhuyiming\\output\\长鑫-三巨头垄断-产业替代-剪映精修-v2-去主持人-video-only.mp4",
+  "ip_shadow_prores_alpha": "D:\\Evan\\video\\zhuyiming\\output\\ip_v6_work\\ip_host_transparent_shadow_prores.mov",
+  "ip_plain_prores_alpha": "D:\\Evan\\video\\zhuyiming\\output\\ip_v6_work\\ip_host_transparent_alpha_prores.mov",
+  "voice_audio": "D:\\Evan\\video\\zhuyiming\\output\\ip_v6_work\\ip_host_voice.m4a",
+  "duration_seconds": 46.56,
+  "tracks": [
+    "B-roll",
+    "IP透明出镜-带柔影",
+    "IP本人原声",
+    "居中字幕"
+  ],
+  "positions": [
+    [
+      0.0,
+      4.8,
+      -0.742,
+      -0.159
+    ],
+    [
+      4.8,
+      10.8,
+      0.732,
+      -0.196
+    ],
+    [
+      10.8,
+      16.8,
+      -0.742,
+      -0.196
+    ],
+    [
+      16.8,
+      22.8,
+      0.732,
+      -0.159
+    ],
+    [
+      22.8,
+      29.5,
+      -0.742,
+      -0.131
+    ],
+    [
+      29.5,
+      35.7,
+      0.732,
+      -0.187
+    ],
+    [
+      35.7,
+      41.8,
+      -0.742,
+      -0.168
+    ],
+    [
+      41.8,
+      46.56,
+      0.732,
+      -0.14
+    ]
+  ],
+  "caption_count": 16
+}

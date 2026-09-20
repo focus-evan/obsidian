@@ -1,0 +1,42 @@
+﻿---
+asset_id: 'e290f94b2ab9ecfd'
+asset_type: 'document'
+category: '30_产业研究库'
+source_label: 'D_Evan_Files'
+original_path: 'D:\Evan\Files\files\AI全产业链深度分析报告.docx'
+hub_path: 'D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\files\AI全产业链深度分析报告.docx'
+vault_relative_path: '30_产业研究库/_imported/D_Evan_Files/files/AI全产业链深度分析报告.docx'
+extension: '.docx'
+size_bytes: 33778
+source_last_write_time: '2026-04-26T23:22:51'
+imported_at: '2026-05-30T10:20:16'
+rag_status: 'pending'
+feedback_status: 'none'
+confidential_level: 'internal'
+tags:
+  - 'asset/document'
+  - 'domain/industry'
+  - 'status/pending-summary'
+---
+# AI全产业链深度分析报告
+
+[[30_产业研究库/_imported/D_Evan_Files/files/AI全产业链深度分析报告.docx]]
+
+## 资产信息
+- 原始路径：$(@{asset_id=e290f94b2ab9ecfd; title=AI全产业链深度分析报告; asset_type=document; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\AI全产业链深度分析报告.docx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\files\AI全产业链深度分析报告.docx; relative_source_path=files\AI全产业链深度分析报告.docx; extension=.docx; size_bytes=33778; source_last_write_time=2026-04-26T23:22:51; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
+- 知识库路径：$(@{asset_id=e290f94b2ab9ecfd; title=AI全产业链深度分析报告; asset_type=document; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\AI全产业链深度分析报告.docx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\files\AI全产业链深度分析报告.docx; relative_source_path=files\AI全产业链深度分析报告.docx; extension=.docx; size_bytes=33778; source_last_write_time=2026-04-26T23:22:51; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
+- 类型：$(@{asset_id=e290f94b2ab9ecfd; title=AI全产业链深度分析报告; asset_type=document; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\AI全产业链深度分析报告.docx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\files\AI全产业链深度分析报告.docx; relative_source_path=files\AI全产业链深度分析报告.docx; extension=.docx; size_bytes=33778; source_last_write_time=2026-04-26T23:22:51; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
+- 分类：$(@{asset_id=e290f94b2ab9ecfd; title=AI全产业链深度分析报告; asset_type=document; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\AI全产业链深度分析报告.docx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\files\AI全产业链深度分析报告.docx; relative_source_path=files\AI全产业链深度分析报告.docx; extension=.docx; size_bytes=33778; source_last_write_time=2026-04-26T23:22:51; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- RAG 状态：待入库
+
+## 摘要
+待补充。建议由摘要 Agent 读取原文件后生成 5-10 行摘要，并标注适用场景。
+
+## 可用于
+- S 老师 IP 语料 / 投研方法 / 产品设计 / 内容生产 / 运营复盘 / 数据系统，按实际情况勾选。
+
+## 反馈回写
+- 修正意见：
+- 关联问题：
+- 审核人：
+- 是否进入正式知识库：

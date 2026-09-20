@@ -1,0 +1,53 @@
+[2026-02-16 13:38:01] [28948] [2:error] [12288734l] build version:(20100114)
+[2026-02-16 13:38:01] [16972] [2:error] [12288750l] CAsVerify:recv msg id:13
+[2026-02-16 13:38:01] [16972] [2:error] [12288890l] HttpProxy connect 203.107.63.176:446 ret 1 time 1771220281
+[2026-02-16 13:38:01] [16972] [2:error] [12288890l] send ReqTGTInfo succ
+[2026-02-16 13:38:01] [16972] [2:error] [12289046l] CHttpProxy::Run recv data
+[2026-02-16 13:38:01] [16972] [2:error] [12289046l] CHttpProxy::Run recv data msg id:12289
+[2026-02-16 13:38:01] [16972] [2:error] [12289046l] CAsVerify:recv msg id:12289
+[2026-02-16 13:38:01] [16972] [2:error] [12289046l] send RevAsVerifyID succ 1
+[2026-02-16 13:38:01] [16972] [2:error] [12289250l] CHttpProxy::Run recv data
+[2026-02-16 13:38:01] [16972] [2:error] [12289250l] CHttpProxy::Run recv data msg id:12297
+[2026-02-16 13:38:01] [16972] [2:error] [12289250l] CAsVerify:recv msg id:12297
+[2026-02-16 13:38:01] [16972] [2:error] [12289250l] CHttpProxy::Close
+[2026-02-16 13:38:01] [16972] [2:error] [12289250l] recv tgt info2
+[2026-02-16 13:38:01] [5860] [2:error] [12289406l] HttpProxy connect 203.107.63.176:446 ret 1 time 1771220281
+[2026-02-16 13:38:01] [5860] [2:error] [12289453l] CHttpProxy::Run recv data
+[2026-02-16 13:38:01] [5860] [2:error] [12289453l] CHttpProxy::Run recv data msg id:12
+[2026-02-16 13:38:01] [5860] [2:error] [12289453l] CKdcVerify::Run recv data msg id:12
+[2026-02-16 13:38:01] [5860] [2:error] [12289500l] CHttpProxy::Run recv data
+[2026-02-16 13:38:01] [5860] [2:error] [12289500l] CHttpProxy::Run recv data msg id:14
+[2026-02-16 13:38:01] [5860] [2:error] [12289500l] CKdcVerify::Run recv data msg id:14
+[2026-02-16 13:38:01] [5860] [2:error] [12289500l] CHttpProxy::Close
+[2026-02-16 13:38:01] [5860] [2:error] [12289500l] recv st
+[2026-02-16 13:38:01] [5860] [2:error] [12289500l] recv st id(5)
+[2026-02-16 13:38:02] [5860] [2:error] [12289828l] HttpProxy connect 203.107.63.176:446 ret 1 time 1771220282
+[2026-02-16 13:38:02] [5860] [2:error] [12289890l] CHttpProxy::Run recv data
+[2026-02-16 13:38:02] [5860] [2:error] [12289890l] CHttpProxy::Run recv data msg id:12
+[2026-02-16 13:38:02] [5860] [2:error] [12289890l] CKdcVerify::Run recv data msg id:12
+[2026-02-16 13:38:02] [5860] [2:error] [12289937l] CHttpProxy::Run recv data
+[2026-02-16 13:38:02] [5860] [2:error] [12289937l] CHttpProxy::Run recv data msg id:14
+[2026-02-16 13:38:02] [5860] [2:error] [12289937l] CKdcVerify::Run recv data msg id:14
+[2026-02-16 13:38:02] [5860] [2:error] [12289937l] CHttpProxy::Close
+[2026-02-16 13:38:02] [5860] [2:error] [12289937l] recv st
+[2026-02-16 13:38:02] [5860] [2:error] [12289937l] recv st id(5)
+[2026-02-16 13:38:02] [5860] [2:error] [12290078l] HttpProxy connect 203.107.63.176:446 ret 1 time 1771220282
+[2026-02-16 13:38:02] [5860] [2:error] [12290125l] CHttpProxy::Run recv data
+[2026-02-16 13:38:02] [5860] [2:error] [12290125l] CHttpProxy::Run recv data msg id:12
+[2026-02-16 13:38:02] [5860] [2:error] [12290125l] CKdcVerify::Run recv data msg id:12
+[2026-02-16 13:38:02] [5860] [2:error] [12290187l] CHttpProxy::Run recv data
+[2026-02-16 13:38:02] [5860] [2:error] [12290187l] CHttpProxy::Run recv data msg id:14
+[2026-02-16 13:38:02] [5860] [2:error] [12290187l] CKdcVerify::Run recv data msg id:14
+[2026-02-16 13:38:02] [5860] [2:error] [12290187l] CHttpProxy::Close
+[2026-02-16 13:38:02] [5860] [2:error] [12290187l] recv st
+[2026-02-16 13:38:02] [5860] [2:error] [12290187l] recv st id(6)
+[2026-02-16 13:38:02] [5860] [2:error] [12290343l] HttpProxy connect 203.107.63.176:446 ret 1 time 1771220282
+[2026-02-16 13:38:02] [5860] [2:error] [12290406l] CHttpProxy::Run recv data
+[2026-02-16 13:38:02] [5860] [2:error] [12290406l] CHttpProxy::Run recv data msg id:12
+[2026-02-16 13:38:02] [5860] [2:error] [12290406l] CKdcVerify::Run recv data msg id:12
+[2026-02-16 13:38:02] [5860] [2:error] [12290453l] CHttpProxy::Run recv data
+[2026-02-16 13:38:02] [5860] [2:error] [12290453l] CHttpProxy::Run recv data msg id:14
+[2026-02-16 13:38:02] [5860] [2:error] [12290453l] CKdcVerify::Run recv data msg id:14
+[2026-02-16 13:38:02] [5860] [2:error] [12290453l] CHttpProxy::Close
+[2026-02-16 13:38:02] [5860] [2:error] [12290453l] recv st
+[2026-02-16 13:38:02] [5860] [2:error] [12290453l] recv st id(7)

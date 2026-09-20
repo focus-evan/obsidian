@@ -1,0 +1,18 @@
+{
+  "status": "complete",
+  "completed_at": "2026-09-20T14:42:32+08:00",
+  "scope": "audio_video_mirror_files_and_generated_asset_notes",
+  "sha256_preflight": {
+    "pairs_checked": 948,
+    "gigabytes_checked_each_side": 26.783,
+    "mismatches": 0
+  },
+  "mirror_files_deleted": 948,
+  "mirror_bytes_deleted": 28757750129,
+  "mirror_gib_deleted": 26.783,
+  "generated_asset_notes_deleted": 948,
+  "empty_generated_directories_removed": 304,
+  "remaining_main_manifest_rows": 4513,
+  "external_media_manifest_rows": 948,
+  "failures": []
+}

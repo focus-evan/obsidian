@@ -1,0 +1,46 @@
+filters:
+  and:
+    - 'type == "codex-session"'
+properties:
+  status:
+    displayName: 状态
+  domain:
+    displayName: 领域
+  project:
+    displayName: 项目
+  source_session:
+    displayName: Session
+  source_rollout:
+    displayName: Rollout
+  commit:
+    displayName: 提交
+  updated:
+    displayName: 更新
+  next_action:
+    displayName: 后续
+views:
+  - type: table
+    name: "最近任务"
+    limit: 50
+    order:
+      - file.name
+      - status
+      - domain
+      - project
+      - commit
+      - updated
+      - next_action
+    sort:
+      - property: updated
+        direction: DESC
+  - type: table
+    name: "未闭环"
+    filters:
+      and:
+        - 'status != "done"'
+    order:
+      - file.name
+      - status
+      - domain
+      - project
+      - next_action

@@ -1,0 +1,66 @@
+[
+  {
+    "scene": "01",
+    "duration": 3.27,
+    "voice": "让我给你看一个更扎心的真相。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\03_chip_wafer_cleanroom\\芯片-制造-晶圆流程-科普素材-01.webm",
+    "title": "更扎心的真相",
+    "tags": "真相 / 垄断 / 存储芯片"
+  },
+  {
+    "scene": "02",
+    "duration": 8.88,
+    "voice": "在长鑫崛起之前，全球存储芯片市场，完全是一个被三星、海力士、美光这三家巨头垄断的黑暗森林。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\三巨头-DRAM份额-市场垄断-需授权确认.mp4",
+    "title": "DRAM 黑暗森林",
+    "tags": "三星 / 海力士 / 美光 / DRAM"
+  },
+  {
+    "scene": "03",
+    "duration": 4.54,
+    "voice": "它们三家，吃掉了全球超过百分之九十的市场份额。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\中国存储-长鑫突围-DRAM市场.mp4",
+    "title": "超过 90%",
+    "tags": "市场份额 / 垄断 / 全球格局"
+  },
+  {
+    "scene": "04",
+    "duration": 9.47,
+    "voice": "这意味着什么？意味着我们的手机、电脑、服务器，每一台设备里的记忆中枢，都在给这三家巨头交过路费。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\DRAM-内存原理-记忆中枢-需授权确认.mp4",
+    "title": "记忆中枢",
+    "tags": "手机 / 电脑 / 服务器 / 内存"
+  },
+  {
+    "scene": "05",
+    "duration": 5.72,
+    "voice": "别人心情好就涨价，心情不好就断供，我们连还价的底气都没有。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\供应链-AI芯片-卡脖子-需授权确认.mp4",
+    "title": "涨价与断供",
+    "tags": "涨价 / 断供 / 卡脖子"
+  },
+  {
+    "scene": "06",
+    "duration": 3.27,
+    "voice": "但朱一明偏偏不信邪。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官方-技术研发-产品应用-04.mp4",
+    "title": "朱一明不信邪",
+    "tags": "朱一明 / 长鑫 / 研发"
+  },
+  {
+    "scene": "07",
+    "duration": 7.3,
+    "voice": "像朱一明这样的人，或者说像长鑫这样的企业，他们成功的背后，根本不是靠运气。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\public_videos\\01_cxmt_official\\长鑫-官网-首页视频-晶圆产线-05.mp4",
+    "title": "不是靠运气",
+    "tags": "长鑫 / 产线 / 晶圆制造"
+  },
+  {
+    "scene": "08",
+    "duration": 4.74,
+    "voice": "而是死死踩中了一条最底层的逻辑：产业替代的红利。",
+    "asset": "D:\\Evan\\video\\zhuyiming\\restricted_need_authorization\\youtube_requires_permission\\长鑫-CXMT-中国DRAM-产业替代.mp4",
+    "title": "产业替代的红利",
+    "tags": "国产替代 / DRAM / CXMT"
+  }
+]

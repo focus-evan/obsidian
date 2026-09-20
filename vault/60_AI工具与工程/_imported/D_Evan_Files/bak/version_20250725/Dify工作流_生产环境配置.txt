@@ -1,0 +1,36 @@
+主工作流_3.5
+API 服务器：https://ai.baozangshijie.cn/v1
+API 密钥：app-sY7VFNJNh9QCLCYw4AFxvSWl
+
+
+维度01工作流_3.5(联网模型数据版)
+API 服务器：https://ai.baozangshijie.cn/v1
+API 密钥：app-fLbxa6rQHmgcfsObVIMOHcmq
+
+
+维度02工作流_3.5（联网模型数据版）
+API 服务器：https://ai.baozangshijie.cn/v1
+API 密钥：app-eeEBxrUzE0hj5MRiVha7YDLn
+
+
+维度03工作流_3.5（异常数据排查）
+API 服务器：https://ai.baozangshijie.cn/v1
+API 密钥：app-EKl034xTCrMpXieqt1nxZqSc
+
+dify-api-bzsj:
+   # 主工作流_3.5
+   callapifirstappkey: app-sY7VFNJNh9QCLCYw4AFxvSWl                                                                                                             
+
+   # 维度01工作流_3.5
+  dimension1appkey: app-fLbxa6rQHmgcfsObVIMOHcmq                                                                                                                
+   # 维度02工作流_3.5                                                                                                        
+  dimension2appkey: app-eeEBxrUzE0hj5MRiVha7YDLn
+  dimension3appkey: app-EKl034xTCrMpXieqt1nxZqSc
+   
+   # 维度03工作流_4.5（异常数据排查）
+  thirdDimensionappkey: app-EKl034xTCrMpXieqt1nxZqSc
+
+
+
+
+{ 	"database": { 		"host": "rm-bp15uii9a022msond5o.mysql.rds.aliyuncs.com", 		"port": 3306, 		"user": "wealth_ai", 		"password": "UAdbHGO3dyyd71CY", 		"database_name": "baozhangshijie_ai_test" 	} }

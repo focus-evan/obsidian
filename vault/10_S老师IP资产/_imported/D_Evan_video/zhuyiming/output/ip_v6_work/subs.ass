@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Microsoft YaHei,52,&H00FFFFFF,&H000000FF,&HAA000000,&H8A000000,-1,0,0,0,100,100,0,0,3,2,0,2,140,140,82,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.12,Default,,0,0,0,,让我给你看一个更扎心的真相
+Dialogue: 0,0:00:03.12,0:00:04.90,Default,,0,0,0,,在长鑫崛起之前
+Dialogue: 0,0:00:04.90,0:00:06.90,Default,,0,0,0,,全球存储芯片市场
+Dialogue: 0,0:00:06.90,0:00:11.04,Default,,0,0,0,,三星、海力士、美光垄\N断 DRAM 市场
+Dialogue: 0,0:00:11.04,0:00:15.19,Default,,0,0,0,,三家吃掉全球超过 90% 的市场份额
+Dialogue: 0,0:00:15.19,0:00:16.90,Default,,0,0,0,,这意味着什么？
+Dialogue: 0,0:00:16.90,0:00:20.46,Default,,0,0,0,,手机、电脑、服务器
+Dialogue: 0,0:00:20.46,0:00:23.13,Default,,0,0,0,,每一台设备里的“记忆中枢”
+Dialogue: 0,0:00:23.13,0:00:26.03,Default,,0,0,0,,都在给三家巨头交“过路费”
+Dialogue: 0,0:00:26.03,0:00:28.03,Default,,0,0,0,,别人心情好，就涨价
+Dialogue: 0,0:00:28.03,0:00:29.81,Default,,0,0,0,,心情不好，就断供
+Dialogue: 0,0:00:29.81,0:00:32.48,Default,,0,0,0,,我们连还价的底气都没有
+Dialogue: 0,0:00:32.48,0:00:34.71,Default,,0,0,0,,但朱一明偏偏不信邪
+Dialogue: 0,0:00:34.71,0:00:38.85,Default,,0,0,0,,像朱一明这样的人，像长鑫这样的企业
+Dialogue: 0,0:00:38.85,0:00:42.41,Default,,0,0,0,,成功的背后，根本不是靠运气
+Dialogue: 0,0:00:42.41,0:00:46.56,Default,,0,0,0,,最底层的逻辑：产业替代的红利

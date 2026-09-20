@@ -1,0 +1,33 @@
+filters:
+  or:
+    - 'type == "knowledge-note"'
+    - 'type == "process"'
+    - 'type == "runbook"'
+properties:
+  status:
+    displayName: 状态
+  domain:
+    displayName: 领域
+  confidence:
+    displayName: 置信度
+  source:
+    displayName: 来源
+  updated:
+    displayName: 更新
+  review_after:
+    displayName: 复查
+views:
+  - type: table
+    name: "知识卡"
+    limit: 100
+    order:
+      - file.name
+      - domain
+      - confidence
+      - status
+      - updated
+      - review_after
+      - source
+    sort:
+      - property: updated
+        direction: DESC

@@ -1,0 +1,273 @@
+{
+  "project_title": "S老师_芯片韬定律",
+  "project_root": "D:/aigc/S老师_芯片韬定律",
+  "updated_at": "2026-05-29T00:00:00+08:00",
+  "precision_rule": "先理解全文，再按论证单元找精确视频；公司要找公司实体/园区/发布会，政策要找政府/白宫/国会/商务部，技术要找真实制造/芯片/光刻/晶圆素材；不使用图片顶替视频，不复用素材。",
+  "authorization_note": "download_ok代表开放许可或公有领域；needs_user_license_followup代表因素材高度相关而先下载，正式使用前由用户补授权。",
+  "assets": [
+    {
+      "asset_id": "shot_001_asset_01",
+      "shot_id": "001",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_001_摩尔定律_GordonMoore_01_ScienceHistory片段.ts",
+      "file_path": "02_assets/shot_001_摩尔定律_GordonMoore_视频/shot_001_摩尔定律_GordonMoore_01_ScienceHistory片段.ts",
+      "chinese_tags": [
+        "摩尔定律",
+        "Gordon Moore",
+        "科技史"
+      ],
+      "source_platform": "Science History Institute Digital Collections",
+      "source_url": "https://digital.sciencehistory.org/works/u6dnmj7",
+      "download_url": "https://d2wxoyqt1kxdpi.cloudfront.net/hls/6f89d68c-74cc-4368-bddf-e4f512607fee/14bc58db9a223f6d1dad67c3c3e94cdf/hls_low.m3u8",
+      "license": "In Copyright / needs_user_license_followup",
+      "visual_match_reason": "摩尔定律40周年相关真实视频片段，能作为开场建立旧规则和Gordon Moore语境。",
+      "quality_notes": "已下载HLS前段TS片段；后续剪辑可按需要转码或继续拉取完整HLS。",
+      "file_size_bytes": 25036148
+    },
+    {
+      "asset_id": "shot_001_reference_02",
+      "shot_id": "001",
+      "status": "reference_only",
+      "file_name": "shot_001_摩尔定律_戈登摩尔访谈_01_计算机历史博物馆_YouTube参考.txt",
+      "file_path": "02_assets/shot_001_摩尔定律_戈登摩尔访谈/shot_001_摩尔定律_戈登摩尔访谈_01_计算机历史博物馆_YouTube参考.txt",
+      "chinese_tags": [
+        "摩尔定律",
+        "戈登摩尔",
+        "访谈"
+      ],
+      "source_platform": "Computer History Museum / YouTube reference",
+      "source_url": "https://computerhistory.org/events/40th-anniversary-moores-law-with/",
+      "youtube_id": "MH6jUSjpr-Q",
+      "license": "reference_only / needs_user_license_followup",
+      "visual_match_reason": "Gordon Moore与摩尔定律40周年访谈参考，供后续授权下载或人工替换。",
+      "quality_notes": "参考链接，不计入可剪辑视频素材。",
+      "file_size_bytes": 428
+    },
+    {
+      "asset_id": "shot_002_asset_01",
+      "shot_id": "002",
+      "status": "download_ok",
+      "file_name": "shot_002_芯片缩小_晶体管_性能_01.webm",
+      "file_path": "02_assets/shot_002_芯片缩小_晶体管_性能/shot_002_芯片缩小_晶体管_性能_01.webm",
+      "chinese_tags": [
+        "芯片缩小",
+        "晶体管",
+        "性能"
+      ],
+      "source_platform": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Zoom_Into_a_Microchip.webm",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zoom_Into_a_Microchip.webm",
+      "license": "CC BY 3.0",
+      "visual_match_reason": "芯片逐级放大到微结构，适合解释芯片越做越小、晶体管越塞越多。",
+      "quality_notes": "独立视频素材；文件头为WebM。",
+      "file_size_bytes": 45036874
+    },
+    {
+      "asset_id": "shot_003_asset_01",
+      "shot_id": "003",
+      "status": "download_ok",
+      "file_name": "shot_003_美国主导半导体规则_CHIPS法案_01_白宫Biden_CHIPS讲话.webm",
+      "file_path": "02_assets/shot_003_美国主导半导体规则_CHIPS法案/shot_003_美国主导半导体规则_CHIPS法案_01_白宫Biden_CHIPS讲话.webm",
+      "chinese_tags": [
+        "美国",
+        "半导体规则",
+        "CHIPS法案"
+      ],
+      "source_platform": "Wikimedia Commons / The White House",
+      "source_url": "https://commons.wikimedia.org/wiki/File:President_Biden_Delivers_Remarks_on_the_CHIPS_and_Science_Act.webm",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/President_Biden_Delivers_Remarks_on_the_CHIPS_and_Science_Act.webm",
+      "license": "Public domain",
+      "visual_match_reason": "白宫CHIPS法案讲话，直接对应美国用先进制程和产业政策主导半导体规则。",
+      "quality_notes": "独立视频素材；文件头为WebM。",
+      "file_size_bytes": 442948579
+    },
+    {
+      "asset_id": "shot_004_asset_01",
+      "shot_id": "004",
+      "status": "download_ok",
+      "file_name": "shot_004_先进制程_5纳米晶体管_01_IBM_5纳米晶体管.webm",
+      "file_path": "02_assets/shot_004_先进制程_5纳米晶体管/shot_004_先进制程_5纳米晶体管_01_IBM_5纳米晶体管.webm",
+      "chinese_tags": [
+        "先进制程",
+        "5纳米",
+        "晶体管"
+      ],
+      "source_platform": "Wikimedia Commons / IBM Research",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5_nanometer_transistor_--_how_they_did_it.webm",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/5_nanometer_transistor_--_how_they_did_it.webm",
+      "license": "CC BY 3.0",
+      "visual_match_reason": "5纳米晶体管解释视频，精确对应7nm、5nm、3nm、2nm的先进制程竞赛。",
+      "quality_notes": "独立视频素材；文件头为WebM。",
+      "file_size_bytes": 15947644
+    },
+    {
+      "asset_id": "shot_005_asset_01",
+      "shot_id": "005",
+      "status": "download_ok",
+      "file_name": "shot_005_纳米制程_EUV_光刻_01.webm",
+      "file_path": "02_assets/shot_005_纳米制程_EUV_光刻/shot_005_纳米制程_EUV_光刻_01.webm",
+      "chinese_tags": [
+        "纳米制程",
+        "EUV",
+        "光刻"
+      ],
+      "source_platform": "Wikimedia Commons / ASML",
+      "source_url": "https://commons.wikimedia.org/wiki/File:How_EUV_lithography_works.webm",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/How_EUV_lithography_works.webm",
+      "license": "CC BY 3.0",
+      "visual_match_reason": "EUV光刻解释视频，贴合先进制程越来越贵、越来越难。",
+      "quality_notes": "独立视频素材；文件头为WebM。",
+      "file_size_bytes": 9924654
+    },
+    {
+      "asset_id": "shot_006_asset_01",
+      "shot_id": "006",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_006_光刻_EDA_晶圆_产业链封锁_01_美国半导体制造_Raimondo.mp4",
+      "file_path": "02_assets/shot_006_光刻_EDA_晶圆_产业链封锁/shot_006_光刻_EDA_晶圆_产业链封锁_01_美国半导体制造_Raimondo.mp4",
+      "chinese_tags": [
+        "美国半导体制造",
+        "产业链",
+        "Raimondo"
+      ],
+      "source_platform": "C-SPAN StudentCam download / Dropbox",
+      "source_url": "https://www.studentcam.org/downloads/",
+      "license": "needs_user_license_followup",
+      "visual_match_reason": "美国商务部长谈半导体制造，贴近光刻、EDA、材料、晶圆制造、产业链协同被制度化控制的语境。",
+      "quality_notes": "独立视频素材；授权由用户后续补。",
+      "file_size_bytes": 312157062
+    },
+    {
+      "asset_id": "shot_007_asset_01",
+      "shot_id": "007",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_007_美国卡中国芯片_规则封锁_01_计算机芯片产业_Raimondo.mp4",
+      "file_path": "02_assets/shot_007_美国卡中国芯片_规则封锁/shot_007_美国卡中国芯片_规则封锁_01_计算机芯片产业_Raimondo.mp4",
+      "chinese_tags": [
+        "美国",
+        "中国芯片",
+        "规则封锁"
+      ],
+      "source_platform": "C-SPAN StudentCam download / Dropbox",
+      "source_url": "https://www.studentcam.org/downloads/",
+      "license": "needs_user_license_followup",
+      "visual_match_reason": "Raimondo谈计算机芯片产业，适合表达美国卡中国芯片时卡的是规则和产业体系。",
+      "quality_notes": "独立视频素材；授权由用户后续补。",
+      "file_size_bytes": 188260745
+    },
+    {
+      "asset_id": "shot_007_asset_02",
+      "shot_id": "007",
+      "status": "download_ok",
+      "file_name": "shot_007_规则体系_供应链韧性_白宫峰会_01_Biden半导体供应链峰会.webm",
+      "file_path": "02_assets/shot_007_规则体系_供应链韧性_白宫峰会/shot_007_规则体系_供应链韧性_白宫峰会_01_Biden半导体供应链峰会.webm",
+      "chinese_tags": [
+        "规则体系",
+        "供应链韧性",
+        "白宫峰会"
+      ],
+      "source_platform": "Wikimedia Commons / The White House",
+      "source_url": "https://commons.wikimedia.org/wiki/File:President_Biden_Joins_the_Virtual_CEO_Summit_on_Semiconductor_and_Supply_Chain_Resilience.webm",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/President_Biden_Joins_the_Virtual_CEO_Summit_on_Semiconductor_and_Supply_Chain_Resilience.webm",
+      "license": "Public domain",
+      "visual_match_reason": "白宫半导体供应链韧性CEO峰会，精确表达‘不是某一个点，而是一整套规则/供应链协同’。",
+      "quality_notes": "独立视频素材；文件头为WebM。",
+      "file_size_bytes": 252575447
+    },
+    {
+      "asset_id": "shot_007_asset_03",
+      "shot_id": "007",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_007_规则体系_芯片资金_国会_01_Warnock芯片资金.mp4",
+      "file_path": "02_assets/shot_007_规则体系_芯片资金_国会/shot_007_规则体系_芯片资金_国会_01_Warnock芯片资金.mp4",
+      "chinese_tags": [
+        "规则体系",
+        "芯片资金",
+        "国会"
+      ],
+      "source_platform": "C-SPAN StudentCam download / Dropbox",
+      "source_url": "https://www.studentcam.org/downloads/",
+      "license": "needs_user_license_followup",
+      "visual_match_reason": "国会议员谈计算机芯片资金，适合补充美国规则体系中的资金与立法维度。",
+      "quality_notes": "独立视频素材；授权由用户后续补。",
+      "file_size_bytes": 201688577
+    },
+    {
+      "asset_id": "shot_008_asset_01",
+      "shot_id": "008",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_008_华为_松山湖园区_公司新路线_01_华为官方松山湖园区.mp4",
+      "file_path": "02_assets/shot_008_华为_松山湖园区_公司新路线/shot_008_华为_松山湖园区_公司新路线_01_华为官方松山湖园区.mp4",
+      "chinese_tags": [
+        "华为",
+        "松山湖园区",
+        "新路线"
+      ],
+      "source_platform": "Huawei Enterprise official video page",
+      "source_url": "https://e.huawei.com/en/videos/campaign/enterprise-optical-network/7089e5fb0ab649aa8b081e77b50b079a",
+      "download_url": "https://e-file.huawei.com/marketingcloud/pep/asset/20000001/VideoNumber/7089e5fb0ab649aa8b081e77b50b079a/R5S547D00303813520200328141855073338097/Huawei%20Songshan%20Lake%20Campus%20OptiX%20Video.mp4",
+      "license": "needs_user_license_followup",
+      "visual_match_reason": "华为官方松山湖园区视频，适合从美国规则切回华为实体和公司技术场景，表达‘不再完全沿着美国路线往下卷’。",
+      "quality_notes": "独立视频素材；官方页面直链下载；授权由用户后续补。",
+      "file_size_bytes": 69970115
+    },
+    {
+      "asset_id": "shot_008_asset_02",
+      "shot_id": "008",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_008_华为_园区科技制造_新路线_01_华为官方松山湖园区科技方案.mp4",
+      "file_path": "02_assets/shot_008_华为_园区科技制造_新路线/shot_008_华为_园区科技制造_新路线_01_华为官方松山湖园区科技方案.mp4",
+      "chinese_tags": [
+        "华为",
+        "园区科技",
+        "新路线"
+      ],
+      "source_platform": "Huawei Enterprise official video page",
+      "source_url": "https://e.huawei.com/en/videos/campaign/commercial-market/d6c565d0f9f14ca59d9fef819afab739",
+      "download_url": "https://e-file.huawei.com/marketingcloud/pep/asset/20000001/VideoNumber/d6c565d0f9f14ca59d9fef819afab739/R5S547D11605013120200611103309069274039/Art%20_%20Technology%20POL%20Solution%20for%20Songshan%20Lake%20Park.mp4",
+      "license": "needs_user_license_followup",
+      "visual_match_reason": "华为官方园区科技方案视频，可作为华为研发/系统能力/新路线的补充B-roll。",
+      "quality_notes": "独立视频素材；官方页面直链下载；授权由用户后续补。",
+      "file_size_bytes": 52132759
+    },
+    {
+      "asset_id": "shot_009_asset_01",
+      "shot_id": "009",
+      "status": "needs_user_license_followup",
+      "file_name": "shot_009_韬定律_何庭波_发布访谈_01_证券时报人民日报对话.mp4",
+      "file_path": "02_assets/shot_009_韬定律_何庭波_发布访谈/shot_009_韬定律_何庭波_发布访谈_01_证券时报人民日报对话.mp4",
+      "chinese_tags": [
+        "韬定律",
+        "何庭波",
+        "人民日报对话"
+      ],
+      "source_platform": "证券时报 / 人民日报对话视频",
+      "source_url": "https://www.stcn.com/live/video-detail/23248.html",
+      "download_url": "https://static-web.stcn.com/upload/2026/0527/23/6a1708e0cd9001857b63.mp4",
+      "license": "needs_user_license_followup",
+      "visual_match_reason": "直接对应‘提出一条新的思路：韬定律’，包含何庭波与韬定律话题，比抽象科技素材更精确。",
+      "quality_notes": "独立视频素材；授权由用户后续补。",
+      "file_size_bytes": 56638685
+    }
+  ],
+  "missing_or_needs_replacement": [
+    {
+      "shot_id": "001",
+      "status": "partial",
+      "reason": "已下载Science History Institute摩尔定律相关HLS片段，但若要更强人物出镜，可继续授权下载Computer History Museum/YouTube的Gordon Moore访谈。",
+      "target": "Gordon Moore / Moore's Law official or museum interview video"
+    },
+    {
+      "shot_id": "006",
+      "status": "optional_enhancement",
+      "reason": "已有Raimondo半导体制造视频，但EDA、材料、晶圆制造仍可分别补更细分的制造/软件画面。",
+      "target": "EDA software engineer, wafer manufacturing, semiconductor material production video"
+    },
+    {
+      "shot_id": "009",
+      "status": "optional_enhancement",
+      "reason": "已下载证券时报/人民日报对话视频；CCTV页面有韬定律解读但未暴露直链，界面新闻直链403，保留为参考。",
+      "target": "Huawei official Tao Law keynote / ISCAS 2026 source video if released"
+    }
+  ]
+}

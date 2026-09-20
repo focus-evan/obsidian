@@ -1,0 +1,44 @@
+filters:
+  and:
+    - 'type == "report-asset"'
+properties:
+  status:
+    displayName: 状态
+  domain:
+    displayName: 领域
+  project:
+    displayName: 项目
+  artifact_path:
+    displayName: 产物
+  report_date:
+    displayName: 日期
+  validation:
+    displayName: 校验
+  next_action:
+    displayName: 后续
+views:
+  - type: table
+    name: "全部报告"
+    limit: 100
+    order:
+      - file.name
+      - report_date
+      - status
+      - domain
+      - project
+      - artifact_path
+      - validation
+      - next_action
+    sort:
+      - property: report_date
+        direction: DESC
+  - type: table
+    name: "需修复"
+    filters:
+      and:
+        - 'status != "done"'
+    order:
+      - file.name
+      - status
+      - artifact_path
+      - next_action

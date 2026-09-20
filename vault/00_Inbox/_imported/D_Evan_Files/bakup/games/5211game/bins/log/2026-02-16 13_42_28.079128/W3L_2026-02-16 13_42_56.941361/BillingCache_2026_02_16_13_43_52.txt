@@ -1,0 +1,31 @@
+02-16 13:45:12 [Info]	UserScore pid: 10, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:12 [Info]	Initialize
+02-16 13:45:12 [Info]	[SET] table: 叶飘零222 key: 11archive value: [-] -> 1
+02-16 13:45:12 [Info]	UserScore pid: 7, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:12 [Info]	Initialize
+02-16 13:45:12 [Info]	[SET] table: 骑驴找黑马 key: 11archive value: [-] -> 1
+02-16 13:45:12 [Info]	UserScore pid: 8, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:12 [Info]	Initialize
+02-16 13:45:12 [Info]	[SET] table: 霍壳伊毒间 key: 11archive value: [-] -> 1
+02-16 13:45:12 [Info]	UserScore pid: 4, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:12 [Info]	Initialize
+02-16 13:45:12 [Info]	[SET] table: 浦城五弄 key: 11archive value: [-] -> 1
+02-16 13:45:12 [Info]	UserScore pid: 5, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:12 [Info]	Initialize
+02-16 13:45:12 [Info]	[SET] table: Benzin key: 11archive value: [-] -> 1
+02-16 13:45:12 [Info]	UserScore pid: 9, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:12 [Info]	Initialize
+02-16 13:45:12 [Info]	[SET] table: TFDHTFDH key: 11archive value: [-] -> 1
+02-16 13:45:13 [Info]	UserScore pid: 1, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:13 [Info]	Initialize
+02-16 13:45:13 [Info]	[SET] table: MYBH喵 key: 11archive value: [-] -> 1
+02-16 13:45:13 [Info]	UserScore pid: 3, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:13 [Info]	Initialize
+02-16 13:45:13 [Info]	[SET] table: 骚荡小火鸡 key: 11archive value: [-] -> 1
+02-16 13:45:13 [Info]	UserScore pid: 11, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:13 [Info]	Initialize
+02-16 13:45:13 [Info]	[SET] table: bulaoxuezhang key: 11archive value: [-] -> 1
+02-16 13:45:13 [Info]	UserScore pid: 2, fsVal: -1, gtime: 0, unique: 0
+02-16 13:45:13 [Info]	Initialize
+02-16 13:45:13 [Info]	[SET] table: 没有网4 key: 11archive value: [-] -> 1
+02-16 13:45:25 [Info]	[GET] table: config key: 圣诞主题 value: [-] -> [-]

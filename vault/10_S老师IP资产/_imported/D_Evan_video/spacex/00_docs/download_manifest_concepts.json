@@ -1,0 +1,47 @@
+[
+  {
+    "section": "S02",
+    "folder": "02_early_mars_and_russia",
+    "title": "Mars Surface Beneath Phoenix",
+    "type": "IMG",
+    "source": "nasa",
+    "url": "http://images-assets.nasa.gov/image/PIA10739/PIA10739~orig.jpg",
+    "file": "D:\\Evan\\video\\spacex\\02_early_mars_and_russia\\S02_C01_IMG_nasa_mars_surface_beneath_phoenix.jpg"
+  },
+  {
+    "section": "S03",
+    "folder": "03_first_principles",
+    "title": "NASA Readies for Future Artemis Moon Missions with Rocket Engine Test Series",
+    "type": "VID",
+    "source": "nasa",
+    "url": "http://images-assets.nasa.gov/video/SSC_2021-09-30_RS-25_Engine_Test/SSC_2021-09-30_RS-25_Engine_Test~orig.mp4",
+    "file": "D:\\Evan\\video\\spacex\\03_first_principles\\S03_C01_VID_nasa_nasa_readies_for_future_artemis_moon_missions_with.mp4"
+  },
+  {
+    "section": "S03",
+    "folder": "03_first_principles",
+    "title": "KSC Launch Control Center Renaming Ceremony",
+    "type": "VID",
+    "source": "nasa",
+    "url": "http://images-assets.nasa.gov/video/KSC-20220222-MH-ILW01-0001-LCC_Renaming_Ceremony-3294433/KSC-20220222-MH-ILW01-0001-LCC_Renaming_Ceremony-3294433~orig.mp4",
+    "file": "D:\\Evan\\video\\spacex\\03_first_principles\\S03_C02_VID_nasa_ksc_launch_control_center_renaming_ceremony.mp4"
+  },
+  {
+    "section": "S09",
+    "folder": "09_concept_mars_network_finance",
+    "title": "InSight on the Surface of Mars",
+    "type": "IMG",
+    "source": "nasa",
+    "url": "http://images-assets.nasa.gov/image/PIA22228/PIA22228~large.jpg",
+    "file": "D:\\Evan\\video\\spacex\\09_concept_mars_network_finance\\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg"
+  },
+  {
+    "section": "S09",
+    "folder": "09_concept_mars_network_finance",
+    "title": "NASA-NOAA night Earth",
+    "type": "IMG",
+    "source": "nasa",
+    "url": "http://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001583/GSFC_20171208_Archive_e001583~orig.png",
+    "file": "D:\\Evan\\video\\spacex\\09_concept_mars_network_finance\\S09_C02_IMG_nasa_nasa_noaa_night_earth.png"
+  }
+]

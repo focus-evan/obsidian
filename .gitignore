@@ -1,0 +1,36 @@
+# Local/editor state
+.obsidian/workspace.json
+vault/.obsidian/workspace.json
+
+# Never version raw databases, media, or binary source assets
+*.sql
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.zip
+*.7z
+
+# Runtime/cache
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Push remains disabled until the remote is confirmed private.
+.allow-remote-push

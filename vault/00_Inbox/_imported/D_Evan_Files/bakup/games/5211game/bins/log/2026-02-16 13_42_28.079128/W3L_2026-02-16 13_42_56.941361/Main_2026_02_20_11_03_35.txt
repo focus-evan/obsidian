@@ -1,0 +1,407 @@
+02-20 11:03:35 [Info]	[11XP] SetThreadAffinityMask success
+02-20 11:03:35 [Info]	[11XP] dwPreviousAffinityMaskLoad: 0x0000FFFF
+02-20 11:03:35 [Info]	[11XP] dwAffinityMaskLoad: 0x00000002
+02-20 11:03:35 [Info]	[11XP] SetThreadPriority THREAD_PRIORITY_LOWEST
+02-20 11:03:35 [Info]	tcp connect to port 2100
+02-20 11:03:35 [Info]	[11XP] start init xp.dll...
+02-20 11:03:35 [Info]	[11XP] start load xp.dll
+02-20 11:03:35 [Info]	[11XP] dll path: D:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\gp_1183\xp.dll
+02-20 11:03:35 [Info]	[11XP] default path: D:\Evan\Files\bakup\games\5211game\W3L\core\xp.dll
+02-20 11:03:35 [Info]	[11XP] xp.dll is None Flag
+02-20 11:03:35 [Info]	[11XP] try load at dll path
+02-20 11:03:35 [Info]	[CModuleBase] LoadLibD:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\gp_1183\xp.dll
+02-20 11:03:37 [Info]	[CModuleBase] LoadLib finished
+02-20 11:03:37 [Info]	[CModuleBase] FreeLib free old lib
+02-20 11:03:37 [Info]	[CModuleBase] FreeLib no lib to free
+02-20 11:03:37 [Info]	[11XP] load succeed
+02-20 11:03:37 [Info]	[11XP] xp.dll init finish
+02-20 11:03:37 [Info]	Hook LoadlibraryA(game.dll) handle of gamedll: 6f000000, dllpath：D:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\g126_lo7\Game.dll, err: 0
+02-20 11:03:37 [Info]	storm.dll base: 352321536
+02-20 11:03:37 [Info]	game.dll base: 1862270976
+02-20 11:03:37 [Info]	set player name: 娴﹀煄浜斿紕
+02-20 11:03:37 [Info]	War3 tool init...
+02-20 11:03:37 [Info]	War3 tool init over
+02-20 11:03:37 [Info]	billing init...
+02-20 11:03:37 [Info]	billing init over
+02-20 11:03:37 [Info]	damage monitor init...
+02-20 11:03:37 [Info]	damage monitor init over
+02-20 11:03:37 [Info]	xp monitor init...
+02-20 11:03:37 [Info]	xp monitor init over
+02-20 11:03:37 [Info]	war3 helper init...
+02-20 11:03:37 [Info]	war3 helper init over
+02-20 11:03:37 [Info]	war3 tool init...
+02-20 11:03:37 [Info]	war3 tool init over
+02-20 11:03:37 [Info]	g_disableReturnBug init...
+02-20 11:03:37 [Info]	g_disableReturnBug init over
+02-20 11:03:37 [Info]	showdelay init...
+02-20 11:03:37 [Info]	showdelay init over
+02-20 11:03:37 [Info]	DotaPDoff init...
+02-20 11:03:37 [Info]	DotaPDoff init over
+02-20 11:03:37 [Info]	hook mpq init...
+02-20 11:03:37 [Info]	hook mpq init over
+02-20 11:03:37 [Info]	change_player_name init...
+02-20 11:03:37 [Info]	change_player_name init over
+02-20 11:03:37 [Info]	imba vmpq init...
+02-20 11:03:37 [Info]	imba vmpq init over
+02-20 11:03:37 [Info]	save replay init...
+02-20 11:03:37 [Info]	save replay init over
+02-20 11:03:37 [Info]	CodeStatist init...
+02-20 11:03:37 [Info]	[CodeStatist] init
+02-20 11:03:37 [Info]	CodeStatist init over
+02-20 11:03:37 [Info]	startRefreshTextTextureThread start...
+02-20 11:03:37 [Info]	startRefreshTextTextureThread end
+02-20 11:03:37 [Info]	RpgGameLog init...
+02-20 11:03:37 [Info]	RpgGameLog over
+02-20 11:03:37 [Info]	GameInterfaceEditor init...
+02-20 11:03:37 [Info]	GameInterfaceEditor over
+02-20 11:03:37 [Info]	War3RegRewriter init...
+02-20 11:03:37 [Info]	War3RegRewriter over
+02-20 11:03:37 [Info]	War3SaveGameFix init...
+02-20 11:03:37 [Info]	War3SaveGameFix over
+02-20 11:03:37 [Info]	RemoteScripte init...
+02-20 11:03:37 [Info]	RemoteScripte over
+02-20 11:03:37 [Info]	VideoSnapshooter init...
+02-20 11:03:37 [Info]	VideoSnapshooter over
+02-20 11:03:37 [Info]	Init dx work
+02-20 11:03:37 [Info]	start load dxrender...
+02-20 11:03:37 [Info]	[CModuleBase] LoadLibrary with specific path
+02-20 11:03:37 [Info]	[CModuleBase] LoadLibD:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\gp_1183\DxRender.dll
+02-20 11:03:37 [Info]	[CModuleBase] LoadLib finished
+02-20 11:03:37 [Info]	[CModuleBase] FreeLib free old lib
+02-20 11:03:37 [Info]	[CModuleBase] FreeLib no lib to free
+02-20 11:03:37 [Info]	load dxrender over
+02-20 11:03:37 [Info]	start load dxworker...
+02-20 11:03:37 [Info]	[CModuleBase] LoadLibrary with specific path
+02-20 11:03:37 [Info]	[CModuleBase] LoadLibD:\Evan\Files\bakup\games\5211game\W3L\Patch\War3\gp_1183\DxWorker.dll
+02-20 11:03:37 [Info]	[CModuleBase] LoadLib finished
+02-20 11:03:37 [Info]	[CModuleBase] FreeLib free old lib
+02-20 11:03:37 [Info]	[CModuleBase] FreeLib no lib to free
+02-20 11:03:37 [Info]	start load dxworker over
+02-20 11:03:37 [Warn]	GetProcSuccess 1
+02-20 11:03:37 [Warn]	GetProcSuccess 2
+02-20 11:03:37 [Warn]	GetProcSuccess 3
+02-20 11:03:37 [Warn]	GetProcSuccess 4
+02-20 11:03:37 [Warn]	GetProcSuccess 7
+02-20 11:03:37 [Warn]	GetProcSuccess 10
+02-20 11:03:37 [Warn]	GetProcSuccess 11
+02-20 11:03:37 [Warn]	GetProcSuccess 12
+02-20 11:03:37 [Warn]	GetProcSuccess 13
+02-20 11:03:37 [Warn]	GetProcSuccess 14
+02-20 11:03:37 [Warn]	GetProcSuccess 15
+02-20 11:03:37 [Warn]	GetProcSuccess 16
+02-20 11:03:37 [Warn]	GetProcSuccess 17
+02-20 11:03:37 [Warn]	GetProcSuccess 18
+02-20 11:03:37 [Warn]	GetProcSuccess 19
+02-20 11:03:37 [Warn]	GetProcSuccess 20
+02-20 11:03:37 [Warn]	GetProcSuccess 21
+02-20 11:03:37 [Warn]	GetProcSuccess 22
+02-20 11:03:37 [Warn]	GetProcSuccess 23
+02-20 11:03:37 [Info]	call m_fnDxWorkerInitialit ...
+02-20 11:03:37 [Info]	call m_fnDxWorkerInitialit success
+02-20 11:03:37 [Info]	call m_fnDxWorkePlatformPath ...
+02-20 11:03:37 [Info]	path: D:\Evan\Files\bakup\games\5211game\W3L\core\
+02-20 11:03:37 [Info]	len: 44
+02-20 11:03:37 [Info]	call m_fnDxWorkePlatformPath over
+02-20 11:03:37 [Info]	Set UseMapBriefMask FALSE
+02-20 11:03:37 [Info]	[DxWorkerHelper] SetZoomCallback.
+02-20 11:03:37 [Info]	[DxWorkerHelper] SetChatBlockActiveCallback.
+02-20 11:03:37 [Info]	set hook event
+02-20 11:03:37 [Info]	war3shell prepare finish.
+02-20 11:03:37 [Info]	[Fake_SFileOpenArchive] open archive War3.mpq success
+02-20 11:03:37 [Info]	[ReturnBug] is mpq return true
+02-20 11:03:37 [Info]	[Fake_SFileOpenArchive] open archive War3X.mpq success
+02-20 11:03:37 [Info]	[ReturnBug] is mpq return true
+02-20 11:03:37 [Info]	[Fake_SFileOpenArchive] open archive War3XLocal.mpq success
+02-20 11:03:37 [Info]	[ReturnBug] is mpq return true
+02-20 11:03:37 [Info]	[Fake_SFileOpenArchive] open archive War3Patch.mpq success
+02-20 11:03:37 [Info]	[ReturnBug] is mpq return true
+02-20 11:03:38 [Error]	[CHJassMessageManage] start succeed!
+02-20 11:03:38 [Info]	[11XP] WardenInitialize...
+02-20 11:03:38 [Info]	[11XP] WardenInitialize done
+02-20 11:03:46 [Info]	[DxWorkerHelper] change uistatus: 1
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-20 11:03:46 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-20 11:03:46 [Info]	[DxWorkerHelper] change uistatus: 2
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-20 11:03:46 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-20 11:03:46 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-20 11:03:46 [Info]	[CurPlayer] name: 浦城五弄
+02-20 11:03:46 [Info]	[Pid2SlotId] 0-10, 2-1, 3-3, 4-5, 5-11, 6-7, 
+02-20 11:03:46 [Info]	[CurPlayer] init playerId: 6, slotId: 7, teamId: 1, isObserver: false
+02-20 11:03:46 [Info]	[PlayerInfo] pid: 1, name: ???
+02-20 11:03:46 [Info]	[PlayerInfo] pid: 2, name: lalalal2025
+02-20 11:03:46 [Info]	[PlayerInfo] pid: 3, name: 别打我06
+02-20 11:03:46 [Info]	[PlayerInfo] pid: 4, name: 放下才能强
+02-20 11:03:46 [Info]	[PlayerInfo] pid: 5, name: 狂吻冷冷胸
+02-20 11:03:46 [Info]	[MapInfo] map file true size: 97747738
+02-20 11:03:46 [Info]	[16]1: 欢迎您加入游戏，请全力以赴争取胜利
+02-20 11:03:46 [Info]	[16]1: 游戏局名称:  自动匹配局
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-20 11:03:46 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-20 11:03:46 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-20 11:03:47 [Info]	[MapInfo] send map file size: 97747738
+02-20 11:03:47 [Info]	[PlayerInfo] pid: 7, name: 太上情
+02-20 11:03:47 [Info]	[Pid2SlotId] 0-10, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 
+02-20 11:03:47 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:47 [Info]	onRecvGameSlotList joinedPlayerCnt: 6, slotCnt: 10
+02-20 11:03:48 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 10156, max: 4062, min: 0, cnt: 427
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24586] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 31
+
+02-20 11:03:48 [Info]	[PlayerInfo] pid: 8, name: lebg
+02-20 11:03:48 [Info]	[Pid2SlotId] 0-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 
+02-20 11:03:48 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:48 [Info]	onRecvGameSlotList joinedPlayerCnt: 7, slotCnt: 10
+02-20 11:03:48 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-20 11:03:48 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-20 11:03:48 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-20 11:03:49 [Info]	[PlayerInfo] pid: 9, name: 洞口该溜子
+02-20 11:03:49 [Info]	[Pid2SlotId] 0-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 9-4, 
+02-20 11:03:49 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:49 [Info]	onRecvGameSlotList joinedPlayerCnt: 8, slotCnt: 10
+02-20 11:03:49 [Info]	[Pid2SlotId] 0-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 9-4, 
+02-20 11:03:49 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:49 [Info]	onRecvGameSlotList joinedPlayerCnt: 8, slotCnt: 10
+02-20 11:03:50 [Info]	[PlayerInfo] pid: 10, name: 北宋小伙计
+02-20 11:03:50 [Info]	[Pid2SlotId] 0-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 9-4, 10-2, 
+02-20 11:03:50 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:50 [Info]	onRecvGameSlotList joinedPlayerCnt: 9, slotCnt: 10
+02-20 11:03:50 [Info]	[16]1: 当前处于等待保护状态，请您稍作等待，还剩 43 秒
+02-20 11:03:50 [Info]	[Pid2SlotId] 0-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 9-4, 10-2, 
+02-20 11:03:50 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:50 [Info]	onRecvGameSlotList joinedPlayerCnt: 9, slotCnt: 10
+02-20 11:03:52 [Info]	[PlayerInfo] pid: 1, name: 刘彦禹
+02-20 11:03:52 [Info]	[Pid2SlotId] 1-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 9-4, 10-2, 
+02-20 11:03:52 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:52 [Info]	onRecvGameSlotList joinedPlayerCnt: 10, slotCnt: 10
+02-20 11:03:52 [Info]	[16]2: 游戏开始......
+02-20 11:03:52 [Info]	GameStartCountDown recved
+02-20 11:03:52 [Info]	[16]2:     
+02-20 11:03:52 [Info]	[16]2: 5......
+02-20 11:03:53 [Info]	[Pid2SlotId] 1-8, 2-1, 3-3, 4-5, 5-11, 6-7, 7-9, 8-10, 9-4, 10-2, 
+02-20 11:03:53 [Info]	[CurPlayer] update playerId: 6, slotId: 7, isObserver: false
+02-20 11:03:53 [Info]	onRecvGameSlotList joinedPlayerCnt: 10, slotCnt: 10
+02-20 11:03:53 [Info]	[16]2: 4......
+02-20 11:03:54 [Info]	[16]2: 3......
+02-20 11:03:55 [Info]	[16]2: 2......
+02-20 11:03:56 [Info]	[16]2: 1......
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	[status] pid: 3, key: 100003, val: 115064
+02-20 11:03:57 [Info]	[status] pid: 3, key: 102, val: 11002180
+02-20 11:03:57 [Info]	[status] pid: 3, key: 110013, val: 10504
+02-20 11:03:57 [Info]	[status] pid: 3, key: 125, val: 11002036
+02-20 11:03:57 [Info]	[status] pid: 3, key: 132, val: 11002062
+02-20 11:03:57 [Info]	[status] pid: 3, key: 137, val: 11000878
+02-20 11:03:57 [Info]	[status] pid: 3, key: 148, val: 11002039
+02-20 11:03:57 [Info]	[status] pid: 3, key: 149, val: 11002210
+02-20 11:03:57 [Info]	[status] pid: 3, key: 157, val: 11002019
+02-20 11:03:57 [Info]	[status] pid: 3, key: 172, val: 11002213
+02-20 11:03:57 [Info]	[status] pid: 3, key: 186, val: 11000494
+02-20 11:03:57 [Info]	[status] pid: 3, key: 200, val: 11000979
+02-20 11:03:57 [Info]	[status] pid: 3, key: 204, val: 11001259
+02-20 11:03:57 [Info]	[status] pid: 3, key: 210, val: 11002054
+02-20 11:03:57 [Info]	[status] pid: 3, key: 211, val: 11002219
+02-20 11:03:57 [Info]	[status] pid: 3, key: 302, val: 0
+02-20 11:03:57 [Info]	[status] pid: 3, key: 305, val: 40000017
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	[status] pid: 11, key: 100003, val: 116152
+02-20 11:03:57 [Info]	[status] pid: 11, key: 10024, val: 33
+02-20 11:03:57 [Info]	[status] pid: 11, key: 101, val: 11002029
+02-20 11:03:57 [Info]	[status] pid: 11, key: 102, val: 11002180
+02-20 11:03:57 [Info]	[status] pid: 11, key: 104, val: 11002048
+02-20 11:03:57 [Info]	[status] pid: 11, key: 105, val: 11002074
+02-20 11:03:57 [Info]	[status] pid: 11, key: 107, val: 11001351
+02-20 11:03:57 [Info]	[status] pid: 11, key: 11000303, val: 1
+02-20 11:03:57 [Info]	[status] pid: 11, key: 110013, val: 10671
+02-20 11:03:57 [Info]	[status] pid: 11, key: 115, val: 11000728
+02-20 11:03:57 [Info]	[status] pid: 11, key: 122, val: 11002211
+02-20 11:03:57 [Info]	[status] pid: 11, key: 124, val: 11000792
+02-20 11:03:57 [Info]	[status] pid: 11, key: 128, val: 11000917
+02-20 11:03:57 [Info]	[status] pid: 11, key: 131, val: 11001260
+02-20 11:03:57 [Info]	[status] pid: 11, key: 132, val: 11002008
+02-20 11:03:57 [Info]	[status] pid: 11, key: 134, val: 11000496
+02-20 11:03:57 [Info]	[status] pid: 11, key: 135, val: 11002026
+02-20 11:03:57 [Info]	[status] pid: 11, key: 136, val: 11002012
+02-20 11:03:57 [Info]	[status] pid: 11, key: 137, val: 11000878
+02-20 11:03:57 [Info]	[status] pid: 11, key: 148, val: 11000572
+02-20 11:03:57 [Info]	[status] pid: 11, key: 149, val: 11002210
+02-20 11:03:57 [Info]	[status] pid: 11, key: 154, val: 11002066
+02-20 11:03:57 [Info]	[status] pid: 11, key: 159, val: 11000503
+02-20 11:03:57 [Info]	[status] pid: 11, key: 163, val: 11002207
+02-20 11:03:57 [Info]	[status] pid: 11, key: 167, val: 11002217
+02-20 11:03:57 [Info]	[status] pid: 11, key: 171, val: 11002063
+02-20 11:03:57 [Info]	[status] pid: 11, key: 179, val: 11001262
+02-20 11:03:57 [Info]	[status] pid: 11, key: 180, val: 11002186
+02-20 11:03:57 [Info]	[status] pid: 11, key: 184, val: 11002091
+02-20 11:03:57 [Info]	[status] pid: 11, key: 187, val: 11000072
+02-20 11:03:57 [Info]	[status] pid: 11, key: 191, val: 11002090
+02-20 11:03:57 [Info]	[status] pid: 11, key: 194, val: 11002190
+02-20 11:03:57 [Info]	[status] pid: 11, key: 198, val: 11001458
+02-20 11:03:57 [Info]	[status] pid: 11, key: 199, val: 11002033
+02-20 11:03:57 [Info]	[status] pid: 11, key: 200, val: 11000979
+02-20 11:03:57 [Info]	[status] pid: 11, key: 999, val: 11000647
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	[status] pid: 9, key: 100003, val: 116139
+02-20 11:03:57 [Info]	[status] pid: 9, key: 102, val: 11002180
+02-20 11:03:57 [Info]	[status] pid: 9, key: 104, val: 11002002
+02-20 11:03:57 [Info]	[status] pid: 9, key: 105, val: 11002074
+02-20 11:03:57 [Info]	[status] pid: 9, key: 11000303, val: 1
+02-20 11:03:57 [Info]	[status] pid: 9, key: 110013, val: 10504
+02-20 11:03:57 [Info]	[status] pid: 9, key: 114, val: 11002001
+02-20 11:03:57 [Info]	[status] pid: 9, key: 122, val: 11002211
+02-20 11:03:57 [Info]	[status] pid: 9, key: 123, val: 11002024
+02-20 11:03:57 [Info]	[status] pid: 9, key: 124, val: 11000792
+02-20 11:03:57 [Info]	[status] pid: 9, key: 126, val: 11002065
+02-20 11:03:57 [Info]	[status] pid: 9, key: 127, val: 11002198
+02-20 11:03:57 [Info]	[status] pid: 9, key: 131, val: 11001260
+02-20 11:03:57 [Info]	[status] pid: 9, key: 132, val: 11002062
+02-20 11:03:57 [Info]	[status] pid: 9, key: 135, val: 11002026
+02-20 11:03:57 [Info]	[status] pid: 9, key: 136, val: 11002012
+02-20 11:03:57 [Info]	[status] pid: 9, key: 137, val: 11000878
+02-20 11:03:57 [Info]	[status] pid: 9, key: 141, val: 11001348
+02-20 11:03:57 [Info]	[status] pid: 9, key: 144, val: 11000500
+02-20 11:03:57 [Info]	[status] pid: 9, key: 149, val: 11002017
+02-20 11:03:57 [Info]	[status] pid: 9, key: 152, val: 11002072
+02-20 11:03:57 [Info]	[status] pid: 9, key: 154, val: 11002201
+02-20 11:03:57 [Info]	[status] pid: 9, key: 157, val: 11001263
+02-20 11:03:57 [Info]	[status] pid: 9, key: 161, val: 11002050
+02-20 11:03:57 [Info]	[status] pid: 9, key: 163, val: 11002207
+02-20 11:03:57 [Info]	[status] pid: 9, key: 165, val: 11000502
+02-20 11:03:57 [Info]	[status] pid: 9, key: 167, val: 11002217
+02-20 11:03:57 [Info]	[status] pid: 9, key: 171, val: 11002063
+02-20 11:03:57 [Info]	[status] pid: 9, key: 172, val: 11002013
+02-20 11:03:57 [Info]	[status] pid: 9, key: 179, val: 11001262
+02-20 11:03:57 [Info]	[status] pid: 9, key: 184, val: 11000712
+02-20 11:03:57 [Info]	[status] pid: 9, key: 185, val: 11002004
+02-20 11:03:57 [Info]	[status] pid: 9, key: 186, val: 11000494
+02-20 11:03:57 [Info]	[status] pid: 9, key: 187, val: 11000072
+02-20 11:03:57 [Info]	[status] pid: 9, key: 192, val: 11002192
+02-20 11:03:57 [Info]	[status] pid: 9, key: 200, val: 11002030
+02-20 11:03:57 [Info]	[status] pid: 9, key: 209, val: 11002068
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	[status] pid: 10, key: 100003, val: 115064
+02-20 11:03:57 [Info]	[status] pid: 10, key: 107, val: 11001351
+02-20 11:03:57 [Info]	[status] pid: 10, key: 11000303, val: 1
+02-20 11:03:57 [Info]	[status] pid: 10, key: 110013, val: 10504
+02-20 11:03:57 [Info]	[status] pid: 10, key: 131, val: 11001260
+02-20 11:03:57 [Info]	[status] pid: 10, key: 132, val: 11002062
+02-20 11:03:57 [Info]	[status] pid: 10, key: 149, val: 11002017
+02-20 11:03:57 [Info]	[status] pid: 10, key: 165, val: 11002047
+02-20 11:03:57 [Info]	[status] pid: 10, key: 166, val: 11001261
+02-20 11:03:57 [Info]	[status] pid: 10, key: 200, val: 11000979
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	[status] pid: 4, key: 200, val: 11000979
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	[status] pid: 2, key: 110013, val: 2
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	merge key name: 
+02-20 11:03:57 [Info]	iterate base player info 8 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 1 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 3 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 5 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 11 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 7 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 9 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 10 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 4 self slot: 7
+02-20 11:03:57 [Info]	iterate base player info 2 self slot: 7
+02-20 11:03:57 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-20 11:03:57 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-20 11:03:57 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-20 11:03:58 [Info]	[Fake_SFileOpenArchiveEx] open archive C.mpq success
+02-20 11:03:58 [Info]	[ReturnBug] is mpq return true
+02-20 11:03:58 [Info]	[DxWorkerHelper] change uistatus: 3
+02-20 11:03:58 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 20312, max: 4062, min: 0, cnt: 1155
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 6
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 51
+	[procUdp-24848] total: 47, max: 16, min: 15, cnt: 10
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 37
+
+02-20 11:04:01 [Info]	[SyncLoop] init syncIdx: 0
+02-20 11:04:08 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 30469, max: 4062, min: 0, cnt: 1861
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 9
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 51
+	[procUdp-24848] total: 47, max: 16, min: 15, cnt: 10
+	[procUdp-8208] total: 63, max: 16, min: 0, cnt: 78
+
+02-20 11:04:19 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 40625, max: 4062, min: 0, cnt: 2528
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 13
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 51
+	[procUdp-24848] total: 47, max: 16, min: 15, cnt: 10
+	[procUdp-8208] total: 63, max: 16, min: 0, cnt: 78
+
+02-20 11:04:29 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 51062, max: 4062, min: 0, cnt: 3163
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 16
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24586] total: 844, max: 844, min: 844, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 51
+	[procUdp-24848] total: 47, max: 16, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 79, max: 16, min: 0, cnt: 82
+
+02-20 11:04:39 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 61203, max: 4062, min: 0, cnt: 3840
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 19
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 12
+	[procUdp-24586] total: 844, max: 844, min: 844, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 51
+	[procUdp-24848] total: 47, max: 16, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 79, max: 16, min: 0, cnt: 84
+
+02-20 11:04:39 [Info]	[CodeStatist] recount once
+02-20 11:04:39 [Info]	[TextTextureRefresh] refresh start...
+02-20 11:04:39 [Info]	[TextTextureRefresh] refresh over
+02-20 11:04:49 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 71359, max: 4062, min: 0, cnt: 4550
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 23
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 35
+	[procUdp-24586] total: 844, max: 844, min: 844, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 5
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 66
+	[procUdp-24848] total: 47, max: 16, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 79, max: 16, min: 0, cnt: 86
+
+02-20 11:04:51 [Info]	onSendGamePlayerOut leaveReason: 7
+02-20 11:04:54 [Info]	[CodeStatist] provide empty data.
+02-20 11:04:54 [Info]	[CodeStatist] uninit
+02-20 11:04:54 [Info]	[CodeStatist] TickThread is interrutped.
+02-20 11:04:54 [Info]	[CodeStatist] TickThread is over.
+02-20 11:04:54 [Info]	[CodeStatist] thread exited.
+02-20 11:04:54 [Info]	[RefreshTextTexture] stop thread...
+02-20 11:04:54 [Info]	[RefreshTextTexture] stop thread over.

@@ -1,0 +1,65 @@
+[
+  {
+    "section": "S04",
+    "folder": "04_falcon1_failures_success",
+    "title": "FalconSat",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=0a_00nJ_Y88",
+    "file": "D:\\Evan\\video\\spacex\\04_falcon1_failures_success\\S04_C01_LNK_spacex_falconsat.url"
+  },
+  {
+    "section": "S04",
+    "folder": "04_falcon1_failures_success",
+    "title": "DemoSat",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=Lk4zQ2wP-Nc",
+    "file": "D:\\Evan\\video\\spacex\\04_falcon1_failures_success\\S04_C02_LNK_spacex_demosat.url"
+  },
+  {
+    "section": "S04",
+    "folder": "04_falcon1_failures_success",
+    "title": "Trailblazer",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=v0w9p3U8860",
+    "file": "D:\\Evan\\video\\spacex\\04_falcon1_failures_success\\S04_C03_LNK_spacex_trailblazer.url"
+  },
+  {
+    "section": "S04",
+    "folder": "04_falcon1_failures_success",
+    "title": "RatSat",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=dLQ2tZEH6G0",
+    "file": "D:\\Evan\\video\\spacex\\04_falcon1_failures_success\\S04_C04_LNK_spacex_ratsat.url"
+  },
+  {
+    "section": "S06",
+    "folder": "06_reusability_falcon9",
+    "title": "Falcon 9 Test Flight",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=nxSxgBKlYws",
+    "file": "D:\\Evan\\video\\spacex\\06_reusability_falcon9\\S06_C01_LNK_spacex_falcon_9_test_flight.url"
+  },
+  {
+    "section": "S05",
+    "folder": "05_nasa_dragon_iss",
+    "title": "COTS 1",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=cdLITgWKe_0",
+    "file": "D:\\Evan\\video\\spacex\\05_nasa_dragon_iss\\S05_C07_LNK_spacex_cots_1.url"
+  },
+  {
+    "section": "S05",
+    "folder": "05_nasa_dragon_iss",
+    "title": "COTS 2",
+    "type": "LNK",
+    "source": "spacex_api",
+    "url": "https://www.youtube.com/watch?v=tpQzDbAY7yI",
+    "file": "D:\\Evan\\video\\spacex\\05_nasa_dragon_iss\\S05_C08_LNK_spacex_cots_2.url"
+  }
+]

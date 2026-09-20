@@ -1,0 +1,772 @@
+02-07 23:12:58 [Info]	[11XP] SetThreadAffinityMask success
+02-07 23:12:58 [Info]	[11XP] dwPreviousAffinityMaskLoad: 0x0000FFFF
+02-07 23:12:58 [Info]	[11XP] dwAffinityMaskLoad: 0x00000002
+02-07 23:12:58 [Info]	[11XP] SetThreadPriority THREAD_PRIORITY_LOWEST
+02-07 23:12:58 [Info]	[11XP] start init xp.dll...
+02-07 23:12:58 [Info]	tcp connect to port 2100
+02-07 23:12:58 [Info]	[11XP] start load xp.dll
+02-07 23:12:58 [Info]	[11XP] dll path: D:\Evan\Files\bakup\games\5211game\W3L\Patch\war3\gp_1179\xp.dll
+02-07 23:12:58 [Info]	[11XP] default path: D:\Evan\Files\bakup\games\5211game\W3L\core\xp.dll
+02-07 23:12:58 [Info]	[11XP] xp.dll is None Flag
+02-07 23:12:58 [Info]	[11XP] try load at dll path
+02-07 23:12:58 [Info]	[CModuleBase] LoadLibD:\Evan\Files\bakup\games\5211game\W3L\Patch\war3\gp_1179\xp.dll
+02-07 23:12:59 [Info]	[CModuleBase] LoadLib finished
+02-07 23:12:59 [Info]	[CModuleBase] FreeLib free old lib
+02-07 23:12:59 [Info]	[CModuleBase] FreeLib no lib to free
+02-07 23:12:59 [Info]	[11XP] load succeed
+02-07 23:12:59 [Info]	[11XP] xp.dll init finish
+02-07 23:12:59 [Info]	Hook LoadlibraryA(game.dll) handle of gamedll: 6f000000, dllpath：D:\Evan\Files\bakup\games\5211game\W3L\Patch\war3\g126_lo7\Game.dll, err: 0
+02-07 23:12:59 [Info]	storm.dll base: 352321536
+02-07 23:12:59 [Info]	game.dll base: 1862270976
+02-07 23:12:59 [Info]	set player name: 娴﹀煄浜斿紕
+02-07 23:12:59 [Info]	War3 tool init...
+02-07 23:12:59 [Info]	War3 tool init over
+02-07 23:12:59 [Info]	billing init...
+02-07 23:12:59 [Info]	billing init over
+02-07 23:12:59 [Info]	damage monitor init...
+02-07 23:12:59 [Info]	damage monitor init over
+02-07 23:12:59 [Info]	xp monitor init...
+02-07 23:12:59 [Info]	xp monitor init over
+02-07 23:12:59 [Info]	war3 helper init...
+02-07 23:12:59 [Info]	war3 helper init over
+02-07 23:12:59 [Info]	war3 tool init...
+02-07 23:12:59 [Info]	war3 tool init over
+02-07 23:12:59 [Info]	g_disableReturnBug init...
+02-07 23:12:59 [Info]	g_disableReturnBug init over
+02-07 23:12:59 [Info]	showdelay init...
+02-07 23:12:59 [Info]	showdelay init over
+02-07 23:12:59 [Info]	DotaPDoff init...
+02-07 23:12:59 [Info]	DotaPDoff init over
+02-07 23:12:59 [Info]	hook mpq init...
+02-07 23:12:59 [Info]	hook mpq init over
+02-07 23:12:59 [Info]	change_player_name init...
+02-07 23:12:59 [Info]	change_player_name init over
+02-07 23:12:59 [Info]	imba vmpq init...
+02-07 23:12:59 [Info]	imba vmpq init over
+02-07 23:12:59 [Info]	save replay init...
+02-07 23:12:59 [Info]	save replay init over
+02-07 23:12:59 [Info]	CodeStatist init...
+02-07 23:12:59 [Info]	[CodeStatist] init
+02-07 23:12:59 [Info]	CodeStatist init over
+02-07 23:12:59 [Info]	startRefreshTextTextureThread start...
+02-07 23:12:59 [Info]	startRefreshTextTextureThread end
+02-07 23:12:59 [Info]	RpgGameLog init...
+02-07 23:12:59 [Info]	RpgGameLog over
+02-07 23:12:59 [Info]	GameInterfaceEditor init...
+02-07 23:12:59 [Info]	GameInterfaceEditor over
+02-07 23:12:59 [Info]	War3RegRewriter init...
+02-07 23:12:59 [Info]	War3RegRewriter over
+02-07 23:12:59 [Info]	War3SaveGameFix init...
+02-07 23:12:59 [Info]	War3SaveGameFix over
+02-07 23:12:59 [Info]	RemoteScripte init...
+02-07 23:12:59 [Info]	RemoteScripte over
+02-07 23:12:59 [Info]	VideoSnapshooter init...
+02-07 23:12:59 [Info]	VideoSnapshooter over
+02-07 23:12:59 [Info]	Init dx work
+02-07 23:12:59 [Info]	start load dxrender...
+02-07 23:12:59 [Info]	[CModuleBase] LoadLibrary with specific path
+02-07 23:12:59 [Info]	[CModuleBase] LoadLibD:\Evan\Files\bakup\games\5211game\W3L\Patch\war3\gp_1179\DxRender.dll
+02-07 23:12:59 [Info]	[CModuleBase] LoadLib finished
+02-07 23:12:59 [Info]	[CModuleBase] FreeLib free old lib
+02-07 23:12:59 [Info]	[CModuleBase] FreeLib no lib to free
+02-07 23:12:59 [Info]	load dxrender over
+02-07 23:12:59 [Info]	start load dxworker...
+02-07 23:12:59 [Info]	[CModuleBase] LoadLibrary with specific path
+02-07 23:12:59 [Info]	[CModuleBase] LoadLibD:\Evan\Files\bakup\games\5211game\W3L\Patch\war3\gp_1179\DxWorker.dll
+02-07 23:12:59 [Info]	[CModuleBase] LoadLib finished
+02-07 23:12:59 [Info]	[CModuleBase] FreeLib free old lib
+02-07 23:12:59 [Info]	[CModuleBase] FreeLib no lib to free
+02-07 23:12:59 [Info]	start load dxworker over
+02-07 23:12:59 [Warn]	GetProcSuccess 1
+02-07 23:12:59 [Warn]	GetProcSuccess 2
+02-07 23:12:59 [Warn]	GetProcSuccess 3
+02-07 23:12:59 [Warn]	GetProcSuccess 4
+02-07 23:12:59 [Warn]	GetProcSuccess 7
+02-07 23:12:59 [Warn]	GetProcSuccess 10
+02-07 23:12:59 [Warn]	GetProcSuccess 11
+02-07 23:12:59 [Warn]	GetProcSuccess 12
+02-07 23:12:59 [Warn]	GetProcSuccess 13
+02-07 23:12:59 [Warn]	GetProcSuccess 14
+02-07 23:12:59 [Warn]	GetProcSuccess 15
+02-07 23:12:59 [Warn]	GetProcSuccess 16
+02-07 23:12:59 [Warn]	GetProcSuccess 17
+02-07 23:12:59 [Warn]	GetProcSuccess 18
+02-07 23:12:59 [Warn]	GetProcSuccess 19
+02-07 23:12:59 [Warn]	GetProcSuccess 20
+02-07 23:12:59 [Warn]	GetProcSuccess 21
+02-07 23:12:59 [Warn]	GetProcSuccess 22
+02-07 23:12:59 [Warn]	GetProcSuccess 23
+02-07 23:12:59 [Info]	call m_fnDxWorkerInitialit ...
+02-07 23:12:59 [Info]	call m_fnDxWorkerInitialit success
+02-07 23:12:59 [Info]	call m_fnDxWorkePlatformPath ...
+02-07 23:12:59 [Info]	path: D:\Evan\Files\bakup\games\5211game\W3L\core\
+02-07 23:12:59 [Info]	len: 44
+02-07 23:12:59 [Info]	call m_fnDxWorkePlatformPath over
+02-07 23:12:59 [Info]	Set UseMapBriefMask FALSE
+02-07 23:12:59 [Info]	[DxWorkerHelper] SetZoomCallback.
+02-07 23:12:59 [Info]	[DxWorkerHelper] SetChatBlockActiveCallback.
+02-07 23:12:59 [Info]	set hook event
+02-07 23:12:59 [Info]	war3shell prepare finish.
+02-07 23:12:59 [Info]	[Fake_SFileOpenArchive] open archive War3.mpq success
+02-07 23:12:59 [Info]	[ReturnBug] is mpq return true
+02-07 23:12:59 [Info]	[Fake_SFileOpenArchive] open archive War3X.mpq success
+02-07 23:12:59 [Info]	[ReturnBug] is mpq return true
+02-07 23:12:59 [Info]	[Fake_SFileOpenArchive] open archive War3XLocal.mpq success
+02-07 23:12:59 [Info]	[ReturnBug] is mpq return true
+02-07 23:12:59 [Info]	[Fake_SFileOpenArchive] open archive War3Patch.mpq success
+02-07 23:12:59 [Info]	[ReturnBug] is mpq return true
+02-07 23:13:00 [Error]	[CHJassMessageManage] start succeed!
+02-07 23:13:00 [Info]	[11XP] WardenInitialize...
+02-07 23:13:00 [Info]	[11XP] WardenInitialize done
+02-07 23:13:07 [Info]	[DxWorkerHelper] change uistatus: 1
+02-07 23:13:07 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-07 23:13:07 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-07 23:13:07 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-07 23:13:07 [Info]	[DxWorkerHelper] change uistatus: 2
+02-07 23:13:08 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-07 23:13:08 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-07 23:13:08 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-07 23:13:08 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-07 23:13:08 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-07 23:13:08 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-07 23:13:08 [Info]	[CurPlayer] name: 浦城五弄
+02-07 23:13:08 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 
+02-07 23:13:08 [Info]	[CurPlayer] init playerId: 6, slotId: 8, teamId: 1, isObserver: false
+02-07 23:13:08 [Info]	[PlayerInfo] pid: 1, name: ???
+02-07 23:13:08 [Info]	[PlayerInfo] pid: 2, name: m7444444
+02-07 23:13:08 [Info]	[PlayerInfo] pid: 3, name: 谪尘M
+02-07 23:13:08 [Info]	[PlayerInfo] pid: 4, name: wertgvfcd
+02-07 23:13:08 [Info]	[PlayerInfo] pid: 5, name: 南冥大鸟
+02-07 23:13:08 [Info]	[MapInfo] map file true size: 97747738
+02-07 23:13:08 [Info]	[16]1: 欢迎您加入游戏，请全力以赴争取胜利
+02-07 23:13:08 [Info]	[16]1: 游戏局名称:  自动匹配局
+02-07 23:13:08 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-07 23:13:08 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-07 23:13:08 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-07 23:13:08 [Info]	[MapInfo] send map file size: 97747738
+02-07 23:13:09 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 
+02-07 23:13:09 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:09 [Info]	onRecvGameSlotList joinedPlayerCnt: 5, slotCnt: 10
+02-07 23:13:10 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-07 23:13:10 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-07 23:13:10 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-07 23:13:11 [Info]	[16]1: 当前处于等待保护状态，请您稍作等待，还剩 43 秒
+02-07 23:13:11 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 10640, max: 3531, min: 0, cnt: 489
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 21
+
+02-07 23:13:13 [Info]	[PlayerInfo] pid: 7, name: 继续帮你逮
+02-07 23:13:13 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 
+02-07 23:13:13 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:13 [Info]	onRecvGameSlotList joinedPlayerCnt: 6, slotCnt: 10
+02-07 23:13:13 [Info]	[16]1: 请再等待 4 个玩家加入
+02-07 23:13:14 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 
+02-07 23:13:14 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:14 [Info]	onRecvGameSlotList joinedPlayerCnt: 6, slotCnt: 10
+02-07 23:13:16 [Info]	[PlayerInfo] pid: 8, name: 瑶不瑶一瑶
+02-07 23:13:16 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 
+02-07 23:13:16 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:16 [Info]	onRecvGameSlotList joinedPlayerCnt: 7, slotCnt: 10
+02-07 23:13:17 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 
+02-07 23:13:17 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:17 [Info]	onRecvGameSlotList joinedPlayerCnt: 7, slotCnt: 10
+02-07 23:13:21 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 20796, max: 3531, min: 0, cnt: 1211
+	[procUdp-24576] total: 0, max: 0, min: 0, cnt: 6
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 29
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 47
+
+02-07 23:13:22 [Info]	[PlayerInfo] pid: 9, name: 战死三国
+02-07 23:13:22 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 9-3, 
+02-07 23:13:22 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:22 [Info]	onRecvGameSlotList joinedPlayerCnt: 8, slotCnt: 10
+02-07 23:13:23 [Info]	[16]1: 请再等待 2 个玩家加入
+02-07 23:13:24 [Info]	[Pid2SlotId] 0-11, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 9-3, 
+02-07 23:13:24 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:24 [Info]	onRecvGameSlotList joinedPlayerCnt: 8, slotCnt: 10
+02-07 23:13:25 [Info]	[PlayerInfo] pid: 10, name: lincong1209
+02-07 23:13:25 [Info]	[Pid2SlotId] 0-7, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 9-3, 10-11, 
+02-07 23:13:25 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:25 [Info]	onRecvGameSlotList joinedPlayerCnt: 9, slotCnt: 10
+02-07 23:13:26 [Info]	[16]1: 当前处于等待保护状态，请您稍作等待，还剩 28 秒
+02-07 23:13:28 [Info]	[Pid2SlotId] 0-7, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 9-3, 10-11, 
+02-07 23:13:28 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:13:28 [Info]	onRecvGameSlotList joinedPlayerCnt: 9, slotCnt: 10
+02-07 23:13:31 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 30953, max: 3531, min: 0, cnt: 1919
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 10
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 37
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 78
+
+02-07 23:13:33 [Info]	[16]1: 请再等待 1 个玩家加入
+02-07 23:13:41 [Info]	[16]1: 当前处于等待保护状态，请您稍作等待，还剩 13 秒
+02-07 23:13:41 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 41109, max: 3531, min: 0, cnt: 2588
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 13
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 37
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 78
+
+02-07 23:13:43 [Info]	[16]1: 请再等待 1 个玩家加入
+02-07 23:13:51 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 51265, max: 3531, min: 0, cnt: 3257
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 16
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 37
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 78
+
+02-07 23:13:53 [Info]	[16]1: 请再等待 1 个玩家加入
+02-07 23:13:56 [Info]	[16]1: 等待保护状态已经结束，允许其他玩家加入本局游戏
+02-07 23:13:59 [Info]	[16]1: 玩家 五指孤闲 正在加入中,请稍候
+02-07 23:14:02 [Info]	[CodeStatist] recount once
+02-07 23:14:02 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:14:02 [Info]	[TextTextureRefresh] refresh over
+02-07 23:14:02 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 61421, max: 3531, min: 0, cnt: 3926
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 20
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 37
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 78
+
+02-07 23:14:03 [Info]	[16]1: 请再等待 1 个玩家加入
+02-07 23:14:08 [Info]	[PlayerInfo] pid: 1, name: 五指孤闲
+02-07 23:14:08 [Info]	[Pid2SlotId] 1-7, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 9-3, 10-11, 
+02-07 23:14:08 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:14:08 [Info]	onRecvGameSlotList joinedPlayerCnt: 10, slotCnt: 10
+02-07 23:14:09 [Info]	[16]2: 游戏开始......
+02-07 23:14:09 [Info]	GameStartCountDown recved
+02-07 23:14:09 [Info]	[16]2:     
+02-07 23:14:09 [Info]	[16]2: 5......
+02-07 23:14:10 [Info]	[Pid2SlotId] 1-7, 2-2, 3-5, 4-4, 5-10, 6-8, 7-1, 8-9, 9-3, 10-11, 
+02-07 23:14:10 [Info]	[CurPlayer] update playerId: 6, slotId: 8, isObserver: false
+02-07 23:14:10 [Info]	onRecvGameSlotList joinedPlayerCnt: 10, slotCnt: 10
+02-07 23:14:10 [Info]	[16]2: 4......
+02-07 23:14:11 [Info]	[16]2: 3......
+02-07 23:14:12 [Info]	[16]2: 2......
+02-07 23:14:12 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 71578, max: 3531, min: 0, cnt: 4598
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 23
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 32, cnt: 1
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 78
+
+02-07 23:14:13 [Info]	[16]2: 1......
+02-07 23:14:14 [Info]	[status] pid: 2, key: 200000, val: 1
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	[status] pid: 9, key: 110013, val: 2
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	[status] pid: 3, key: 200000, val: 0
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	merge key name: 
+02-07 23:14:14 [Info]	iterate base player info 7 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 2 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 5 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 4 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 10 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 8 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 1 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 9 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 3 self slot: 8
+02-07 23:14:14 [Info]	iterate base player info 11 self slot: 8
+02-07 23:14:14 [Info]	[Fake_SFileOpenArchiveEx] open archive maps\download\qcloud_20182361.w3x failed
+02-07 23:14:14 [Warn]	[Fake_SFileOpenArchiveEx] open failed: maps\download\qcloud_20182361.w3x
+02-07 23:14:14 [Info]	[Fake_SFileOpenArchive] open archive maps\download\qcloud_20182361.w3x success
+02-07 23:14:14 [Info]	[Fake_SFileOpenArchiveEx] open archive C.mpq success
+02-07 23:14:14 [Info]	[ReturnBug] is mpq return true
+02-07 23:14:14 [Info]	[DxWorkerHelper] change uistatus: 3
+02-07 23:14:17 [Info]	[SyncLoop] init syncIdx: 0
+02-07 23:14:22 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 81734, max: 3531, min: 0, cnt: 5278
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 26
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24586] total: 32, max: 32, min: 0, cnt: 3
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 78
+
+02-07 23:14:33 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 92437, max: 3531, min: 0, cnt: 5934
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 30
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 80
+
+02-07 23:14:43 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 102593, max: 3531, min: 0, cnt: 6603
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 33
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 2
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 83
+
+02-07 23:14:53 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 112750, max: 3531, min: 0, cnt: 7283
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 36
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 12
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 85
+
+02-07 23:15:03 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 122906, max: 3531, min: 0, cnt: 7955
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 40
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 12
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 88
+
+02-07 23:15:04 [Info]	[CodeStatist] recount once
+02-07 23:15:04 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:15:04 [Info]	[TextTextureRefresh] refresh over
+02-07 23:15:13 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 133062, max: 3531, min: 0, cnt: 8627
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 43
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 15
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 90
+
+02-07 23:15:23 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 143218, max: 3531, min: 0, cnt: 9298
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 46
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 17
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 93
+
+02-07 23:15:34 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 153375, max: 3531, min: 0, cnt: 9972
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 50
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 19
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 98
+
+02-07 23:15:44 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 163531, max: 3531, min: 0, cnt: 10637
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 53
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 19
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 99
+
+02-07 23:15:54 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 173687, max: 3531, min: 0, cnt: 11310
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 56
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 21
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 103
+
+02-07 23:16:04 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 183843, max: 3531, min: 0, cnt: 11985
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 60
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 109
+
+02-07 23:16:06 [Info]	[CodeStatist] recount once
+02-07 23:16:06 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:16:06 [Info]	[TextTextureRefresh] refresh over
+02-07 23:16:14 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 194000, max: 3531, min: 0, cnt: 12653
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 63
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 111
+
+02-07 23:16:24 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 204156, max: 3531, min: 0, cnt: 13321
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 66
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 112
+
+02-07 23:16:35 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 214312, max: 3531, min: 0, cnt: 13990
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 70
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 114
+
+02-07 23:16:45 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 224468, max: 3531, min: 0, cnt: 14658
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 73
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 16, max: 16, min: 0, cnt: 114
+
+02-07 23:16:55 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 234625, max: 3531, min: 0, cnt: 15327
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 76
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 117
+
+02-07 23:17:05 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 244781, max: 3531, min: 0, cnt: 15995
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 80
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 117
+
+02-07 23:17:09 [Info]	[CodeStatist] recount once
+02-07 23:17:09 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:17:09 [Info]	[TextTextureRefresh] refresh over
+02-07 23:17:15 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 254937, max: 3531, min: 0, cnt: 16665
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 83
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 121
+
+02-07 23:17:25 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 265093, max: 3531, min: 0, cnt: 17333
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 86
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 124
+
+02-07 23:17:35 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 275250, max: 3531, min: 0, cnt: 18001
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 90
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 0, max: 0, min: 0, cnt: 22
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 127
+
+02-07 23:17:37 [Info]	[DotaKillInfo] killer: 11 dead: 3 local: 8 multi: 1
+02-07 23:17:37 [Info]	[DotaKillInfo] killer: 11 dead: 3 local: 8 multi: 1
+02-07 23:17:40 [Info]	[DotaKillInfo] killer: 2 dead: 7 local: 8 multi: 1
+02-07 23:17:40 [Info]	[DotaKillInfo] killer: 2 dead: 7 local: 8 multi: 1
+02-07 23:17:44 [Info]	[DotaKillInfo] killer: 11 dead: 2 local: 8 multi: 2
+02-07 23:17:44 [Info]	[DotaKillInfo] killer: 11 dead: 2 local: 8 multi: 2
+02-07 23:17:46 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 285406, max: 3531, min: 0, cnt: 18683
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 93
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 46, max: 31, min: 0, cnt: 34
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 132
+
+02-07 23:17:56 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 295562, max: 3531, min: 0, cnt: 19352
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 96
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 46, max: 31, min: 0, cnt: 34
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 136
+
+02-07 23:18:06 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 305718, max: 3531, min: 0, cnt: 20022
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 100
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 46, max: 31, min: 0, cnt: 34
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 137
+
+02-07 23:18:11 [Info]	[CodeStatist] recount once
+02-07 23:18:11 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:18:11 [Info]	[TextTextureRefresh] refresh over
+02-07 23:18:16 [Debug]	[CMyWar3Shell Tick]: 
+	[body] total: 315890, max: 3531, min: 0, cnt: 20691
+	[procUdp-24576] total: 16, max: 16, min: 0, cnt: 103
+	[procUdp-24580] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-24581] total: 46, max: 31, min: 0, cnt: 34
+	[procUdp-24586] total: 829, max: 797, min: 797, cnt: 4
+	[procUdp-24592] total: 0, max: 0, min: 0, cnt: 3
+	[procUdp-24597] total: 0, max: 0, min: 0, cnt: 41
+	[procUdp-24848] total: 15, max: 15, min: 15, cnt: 10
+	[procUdp-24849] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8201] total: 0, max: 0, min: 0, cnt: 1
+	[procUdp-8208] total: 31, max: 16, min: 0, cnt: 139
+
+02-07 23:19:13 [Info]	[CodeStatist] recount once
+02-07 23:19:13 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:19:13 [Info]	[TextTextureRefresh] refresh over
+02-07 23:19:26 [Info]	[DotaKillInfo] killer: 10 dead: 3 local: 8 multi: 1
+02-07 23:19:26 [Info]	[DotaKillInfo] killer: 10 dead: 3 local: 8 multi: 1
+02-07 23:19:28 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 1
+02-07 23:19:28 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 1
+02-07 23:19:34 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:19:34 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:19:42 [Info]	[DotaKillInfo] killer: 7 dead: 5 local: 8 multi: 2
+02-07 23:19:42 [Info]	[DotaKillInfo] killer: 7 dead: 5 local: 8 multi: 2
+02-07 23:20:16 [Info]	[CodeStatist] recount once
+02-07 23:20:16 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:20:16 [Info]	[TextTextureRefresh] refresh over
+02-07 23:20:26 [Info]	[DotaKillInfo] killer: 11 dead: 2 local: 8 multi: 1
+02-07 23:20:26 [Info]	[DotaKillInfo] killer: 11 dead: 2 local: 8 multi: 1
+02-07 23:21:18 [Info]	[CodeStatist] recount once
+02-07 23:21:18 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:21:18 [Info]	[TextTextureRefresh] refresh over
+02-07 23:21:31 [Info]	[DotaKillInfo] killer: 2 dead: 7 local: 8 multi: 1
+02-07 23:21:31 [Info]	[DotaKillInfo] killer: 2 dead: 7 local: 8 multi: 1
+02-07 23:21:38 [Info]	[DotaKillInfo] killer: 10 dead: 3 local: 8 multi: 1
+02-07 23:21:38 [Info]	[DotaKillInfo] killer: 10 dead: 3 local: 8 multi: 1
+02-07 23:21:41 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 2
+02-07 23:21:41 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 2
+02-07 23:21:44 [Info]	[DotaKillInfo] killer: 11 dead: 2 local: 8 multi: 1
+02-07 23:21:44 [Info]	[DotaKillInfo] killer: 11 dead: 2 local: 8 multi: 1
+02-07 23:22:20 [Info]	[CodeStatist] recount once
+02-07 23:22:20 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:22:20 [Info]	[TextTextureRefresh] refresh over
+02-07 23:23:20 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 1
+02-07 23:23:20 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 1
+02-07 23:23:23 [Info]	[CodeStatist] recount once
+02-07 23:23:23 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:23:23 [Info]	[TextTextureRefresh] refresh over
+02-07 23:23:27 [Info]	[DotaKillInfo] killer: 4 dead: 11 local: 8 multi: 2
+02-07 23:23:27 [Info]	[DotaKillInfo] killer: 4 dead: 11 local: 8 multi: 2
+02-07 23:24:13 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 1
+02-07 23:24:13 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 1
+02-07 23:24:25 [Info]	[CodeStatist] recount once
+02-07 23:24:25 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:24:25 [Info]	[TextTextureRefresh] refresh over
+02-07 23:24:54 [Info]	[DotaKillInfo] killer: 2 dead: 11 local: 8 multi: 1
+02-07 23:24:55 [Info]	[DotaKillInfo] killer: 2 dead: 11 local: 8 multi: 1
+02-07 23:24:56 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:24:56 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:25:28 [Info]	[CodeStatist] recount once
+02-07 23:25:28 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:25:28 [Info]	[TextTextureRefresh] refresh over
+02-07 23:26:30 [Info]	[CodeStatist] recount once
+02-07 23:26:30 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:26:30 [Info]	[TextTextureRefresh] refresh over
+02-07 23:27:17 [Info]	[DotaKillInfo] killer: 11 dead: 3 local: 8 multi: 1
+02-07 23:27:17 [Info]	[DotaKillInfo] killer: 11 dead: 3 local: 8 multi: 1
+02-07 23:27:32 [Info]	[CodeStatist] recount once
+02-07 23:27:32 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:27:32 [Info]	[TextTextureRefresh] refresh over
+02-07 23:27:38 [Info]	[DotaKillInfo] killer: 1 dead: 11 local: 8 multi: 1
+02-07 23:27:38 [Info]	[DotaKillInfo] killer: 1 dead: 11 local: 8 multi: 1
+02-07 23:27:39 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:27:39 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:27:41 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 1
+02-07 23:27:41 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 1
+02-07 23:28:35 [Info]	[CodeStatist] recount once
+02-07 23:28:35 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:28:35 [Info]	[TextTextureRefresh] refresh over
+02-07 23:29:31 [Info]	[DotaKillInfo] killer: 8 dead: 3 local: 8 multi: 1
+02-07 23:29:31 [Info]	[DotaKillInfo] killer: 8 dead: 3 local: 8 multi: 1
+02-07 23:29:35 [Info]	[DotaKillInfo] killer: 1 dead: 8 local: 8 multi: 1
+02-07 23:29:36 [Info]	[DotaKillInfo] killer: 1 dead: 8 local: 8 multi: 1
+02-07 23:29:37 [Info]	[CodeStatist] recount once
+02-07 23:29:37 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:29:37 [Info]	[TextTextureRefresh] refresh over
+02-07 23:30:25 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:30:25 [Info]	[DotaKillInfo] killer: 7 dead: 2 local: 8 multi: 1
+02-07 23:30:30 [Info]	[DotaKillInfo] killer: 4 dead: 11 local: 8 multi: 1
+02-07 23:30:30 [Info]	[DotaKillInfo] killer: 4 dead: 11 local: 8 multi: 1
+02-07 23:30:31 [Info]	[DotaKillInfo] killer: 7 dead: 4 local: 8 multi: 2
+02-07 23:30:31 [Info]	[DotaKillInfo] killer: 7 dead: 4 local: 8 multi: 2
+02-07 23:30:34 [Info]	[DotaKillInfo] killer: 1 dead: 10 local: 8 multi: 1
+02-07 23:30:34 [Info]	[DotaKillInfo] killer: 1 dead: 10 local: 8 multi: 1
+02-07 23:30:36 [Info]	[DotaKillInfo] killer: 7 dead: 5 local: 8 multi: 3
+02-07 23:30:36 [Info]	[DotaKillInfo] killer: 7 dead: 5 local: 8 multi: 3
+02-07 23:30:39 [Info]	[CodeStatist] recount once
+02-07 23:30:39 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:30:39 [Info]	[TextTextureRefresh] refresh over
+02-07 23:30:43 [Info]	[DotaKillInfo] killer: 7 dead: 3 local: 8 multi: 4
+02-07 23:30:43 [Info]	[DotaKillInfo] killer: 7 dead: 3 local: 8 multi: 4
+02-07 23:30:47 [Info]	[DotaKillInfo] killer: 8 dead: 1 local: 8 multi: 1
+02-07 23:30:47 [Info]	[DotaKillInfo] killer: 8 dead: 1 local: 8 multi: 1
+02-07 23:31:42 [Info]	[CodeStatist] recount once
+02-07 23:31:42 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:31:42 [Info]	[TextTextureRefresh] refresh over
+02-07 23:32:26 [Info]	[DotaKillInfo] killer: 7 dead: 3 local: 8 multi: 1
+02-07 23:32:26 [Info]	[DotaKillInfo] killer: 7 dead: 3 local: 8 multi: 1
+02-07 23:32:26 [Info]	[DotaKillInfo] killer: 4 dead: 11 local: 8 multi: 1
+02-07 23:32:26 [Info]	[DotaKillInfo] killer: 4 dead: 11 local: 8 multi: 1
+02-07 23:32:29 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 2
+02-07 23:32:29 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 2
+02-07 23:32:34 [Info]	[DotaKillInfo] killer: 1 dead: 7 local: 8 multi: 1
+02-07 23:32:34 [Info]	[DotaKillInfo] killer: 1 dead: 7 local: 8 multi: 1
+02-07 23:32:40 [Info]	[DotaKillInfo] killer: 2 dead: 8 local: 8 multi: 1
+02-07 23:32:40 [Info]	[DotaKillInfo] killer: 2 dead: 8 local: 8 multi: 1
+02-07 23:32:41 [Info]	[DotaKillInfo] killer: 4 dead: 9 local: 8 multi: 3
+02-07 23:32:41 [Info]	[DotaKillInfo] killer: 4 dead: 9 local: 8 multi: 3
+02-07 23:32:44 [Info]	[CodeStatist] recount once
+02-07 23:32:44 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:32:44 [Info]	[TextTextureRefresh] refresh over
+02-07 23:33:46 [Info]	[CodeStatist] recount once
+02-07 23:33:46 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:33:46 [Info]	[TextTextureRefresh] refresh over
+02-07 23:34:49 [Info]	[CodeStatist] recount once
+02-07 23:34:49 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:34:49 [Info]	[TextTextureRefresh] refresh over
+02-07 23:35:19 [Info]	[DotaKillInfo] killer: 2 dead: 11 local: 8 multi: 1
+02-07 23:35:19 [Info]	[DotaKillInfo] killer: 2 dead: 11 local: 8 multi: 1
+02-07 23:35:28 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 2
+02-07 23:35:28 [Info]	[DotaKillInfo] killer: 2 dead: 10 local: 8 multi: 2
+02-07 23:35:33 [Info]	[DotaKillInfo] killer: 2 dead: 9 local: 8 multi: 3
+02-07 23:35:33 [Info]	[DotaKillInfo] killer: 2 dead: 9 local: 8 multi: 3
+02-07 23:35:40 [Info]	[DotaKillInfo] killer: 7 dead: 5 local: 8 multi: 1
+02-07 23:35:40 [Info]	[DotaKillInfo] killer: 7 dead: 5 local: 8 multi: 1
+02-07 23:35:51 [Info]	[CodeStatist] recount once
+02-07 23:35:51 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:35:51 [Info]	[TextTextureRefresh] refresh over
+02-07 23:36:04 [Info]	[DotaKillInfo] killer: 4 dead: 7 local: 8 multi: 1
+02-07 23:36:04 [Info]	[DotaKillInfo] killer: 4 dead: 7 local: 8 multi: 1
+02-07 23:36:54 [Info]	[CodeStatist] recount once
+02-07 23:36:54 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:36:54 [Info]	[TextTextureRefresh] refresh over
+02-07 23:37:43 [Info]	[DotaKillInfo] killer: 5 dead: 7 local: 8 multi: 1
+02-07 23:37:44 [Info]	[DotaKillInfo] killer: 5 dead: 7 local: 8 multi: 1
+02-07 23:37:53 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 1
+02-07 23:37:53 [Info]	[DotaKillInfo] killer: 4 dead: 10 local: 8 multi: 1
+02-07 23:37:56 [Info]	[CodeStatist] recount once
+02-07 23:37:56 [Info]	[TextTextureRefresh] refresh start...
+02-07 23:37:56 [Info]	[TextTextureRefresh] refresh over
+02-07 23:38:08 [Info]	onSendGamePlayerOut leaveReason: 7
+02-07 23:38:18 [Info]	[CodeStatist] provide empty data.
+02-07 23:38:18 [Info]	[CodeStatist] uninit
+02-07 23:38:18 [Info]	[CodeStatist] TickThread is interrutped.
+02-07 23:38:18 [Info]	[CodeStatist] TickThread is over.
+02-07 23:38:18 [Info]	[CodeStatist] thread exited.
+02-07 23:38:18 [Info]	[RefreshTextTexture] stop thread...
+02-07 23:38:18 [Info]	[RefreshTextTexture] stop thread over.

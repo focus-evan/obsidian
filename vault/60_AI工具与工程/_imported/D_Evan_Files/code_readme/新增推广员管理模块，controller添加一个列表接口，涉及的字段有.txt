@@ -1,0 +1,447 @@
+新增推广员管理模块，controller添加一个列表接口，涉及的字段有说明如下：
+昵称（nickName） -- student.name，
+头像（headerUrl） -- student.header_url，
+学生编码（studentCode）-- student.code, 
+等级 （level） -- （通过student.id 和 ai_student_commission_level.student_id 关联, ai_student_commission_level.level_id和ai_commission_level_config.id关联，得到ai_commission_level_config.name字段作为等级level），
+直接下级(nextViewer) --（student.unionid关联student_share_viewer.sharer_id管理，统计其记录总数得到），
+权限结束时间(endAt)，-- 通过（student.code 关联 ai_vip_record.student_code得到其end_at）
+已结算收益（finishCommission） -- 通过student.unionid关联student_share_commission.sharer_id, 选择status为1的记录，求commission的和
+未结算收益（unFinishCommission）-- 通过student.unionid关联student_share_commission.sharer_id, 选择status为0的记录，求commission的和
+
+推广员详情
+
+在PromoterManagementController 添加一个查询接口，涉及的字段有说明如下：
+昵称（nickName） -- student.name，
+头像（headerUrl） -- student.header_url，
+学生编码（studentCode）-- student.code, 
+手机号（mobile）-- student.mobile
+等级 （level） -- （通过student.id 和 ai_student_commission_level.student_id 关联, ai_student_commission_level.level_id和ai_commission_level_config.id关联，得到ai_commission_level_config.name字段作为等级level），
+上级推广员unionId(sharerUnionId) --（student.unionid关联student_share_viewer.viewer_id得到上级推广员的unionId），
+上级推广员名称(sharerName) --（student.unionid关联student_share_viewer.viewer_id得到上级推广员的unionId，再关联student表的unionId，得到推广员的名称），
+上级推广员手机号(sharerMobile) --（student.unionid关联student_share_viewer.viewer_id得到上级推广员的unionId，再关联student表的unionId，得到推广员的手机号），
+权限开始时间(beginAt)，-- 通过（student.code 关联 ai_vip_record.student_code得到其begin_at）
+权限结束时间(endAt)，-- 通过（student.code 关联 ai_vip_record.student_code得到其end_at）
+
+推广业绩看板
+
+在PromoterManagementController 添加一个推广业绩查询接口，涉及的字段有说明如下：
+通过传过来的student_id参数，查询student表的记录，
+直接下级(nextViewer) --（student.unionid关联student_share_viewer.sharer_id管理，统计其记录总数得到），
+已提现金额（finishWithdraw）-- 通过student.id关联ai_student_withdraw.student_id, 选择status为1的记录，求amount的和
+已结算收益（finishCommission） -- 通过student.unionid关联student_share_commission.sharer_id, 选择status为1的记录，求commission的和
+未结算收益（unFinishCommission）-- 通过student.unionid关联student_share_commission.sharer_id, 选择status为0的记录，求commission的和
+
+https://wx-ai.baozangshijie.cn/test/WeixinRedirectUri
+http://ai-test.baozangshijie.cn/dify-mini-api/test/WeixinRedirectUri
+
+客户列表
+
+在PromoterManagementController 添加一个客户列表查询接口，涉及的字段有说明如下：
+通过传过来的id参数，查询student表的记录，
+客户名称(customerName) --（student.unionid关联student_share_viewer.sharer_id查询记录，用该记录的viewer_id关联student.unionid得到student.name作为客户名称），
+客户头像(customerHeaderUrl) --（student.unionid关联student_share_viewer.sharer_id查询记录，用该记录的viewer_id关联student.unionid得到student.header_url作为客户头像），
+客户ID(customerCode) --（student.unionid关联student_share_viewer.sharer_id查询记录，用该记录的viewer_id关联student.unionid得到student.code作为客户Id），
+客户手机号(customerMobile) --（student.unionid关联student_share_viewer.sharer_id查询记录，用该记录的viewer_id关联student.unionid得到student.mobile作为客户手机号），
+绑定时间(bondTime) -- (student.unionid关联student_share_viewer.sharer_id查询记录，用该记录的create_time作为绑定时间)
+累计付费(totalPayAmount) -- （student.unionid关联student_share_viewer.sharer_id查询记录，用该记录的viewer_id关联student_share_commission.viewer_id得到paid_amount求和）
+
+https://wx-ai.baozangshijie.cn/test/WeixinRedirectUri
+http://ai-test.baozangshijie.cn/dify-mini-api/test/WeixinRedirectUri
+
+修改分享关系绑定的接口，分享关系的绑定需要受到如下两点限制
+1. 在student表里添加ai_source字段，0为系统用户，1为分享用户
+1. 自己和自己不能绑定 即在student_share_viewer表里，sharer_id和viewer_id不能相同
+2. 当A绑定在B下面的时候，B不能再继续绑定在A关系下
+3. student.ai_source为0的时候，表示该用户为系统用户，不能被绑定
+
+
+推广订单记录
+
+当前项目需要添加推广订单记录功能，参考当前项目结构，开发controller, service, dao层代码，需要达到如下要求：
+1. 在student_share_commission表里添加update_time，记录佣金更新时间，所有插入，更新该表的操作，都需要插入当前时间作为更新时间
+2. 添加推广订单记录查询接口，入参为用户昵称：nickName, 用户Id: userId 手机号：mobile
+查询列表的字段如下：
+订单号（orderId）-- student_share_commission.order_id 
+下单时间（orderTime）-- student_share_commission.order_time
+客户头像（customerHeaderUrl）-- student_share_commission.viewer_id 关联student.unionid 得到student.header_url作为客户头像
+用户ID（customerCode）-- student_share_commission.viewer_id 关联student.unionid 得到student.code作为用户ID
+student.unionid 得到student.header_url作为客户头像
+手机号（customerMobile）-- student_share_commission.viewer_id 关联student.unionid 得到student.mobile作为手机号
+产品名称（productName）-- student_share_commission.order_id 关联 order_info.order_id 拿到goods_no 再和ai_product.id关联拿到ai_product.name作为产品名称
+订单金额（orderOriginPrice）-- student_share_commission.order_id 关联 order_info.order_id 拿到goods_no 再和ai_product.id关联拿到ai_product.original_price作为订单金额
+实付金额（orderPrice）-- student_share_commission.order_id 关联 order_info.order_id 拿到goods_no 再和ai_product.id关联拿到ai_product.price作为实付金额
+佣金比例（revenueRatio）-- student_share_commission.revenue_ratio
+佣金金额（commission）-- student_share_commission.commission
+结算状态（status）-- student_share_commission.status 0-未结算，1-已计算
+结算时间（commissionTime） -- student_share_commission.update_time
+所属推广员（sharerId）-- student_share_commission.sharer_id
+
+
+
+
+
+修改学生分享查看者关系功能模块，要求如下
+1. controller要配置在stock/web/controller目录下
+2. 只设置修改分享关系的接口，在修改分享关系student_share_viewer的同时，触发如下修改：
+    2.1 修改student_share_viewer之前，先找到student_share_commission表，找到sharer_id和viewer_id都对应student_share_viewer里字段值且status为0的记录保存，在student_share_viewer修改sharer_id的时候，该记录的sharer_id需要同步修改
+    2.2 在ai_share_modify_history表里添加一条记录
+student_union_id为student_share_viewer.viewer_id，
+origin_sharer_id为修改前的sharer_id
+current_sharer_id为修改后的sharer_id
+updator_id为当前操作人在student表里的id
+3. 以上所有的操作，在一个事务里完成
+
+
+按照如下逻辑，修改分佣计算逻辑：recordShareCommission方法
+在创建student_share_commion记录的时候，假设场景为：A分享给B，B分享给C（数据来源于student_share_viewer这个分享表），记录的创建受如下几条逻辑限制：
+1. 根据用户C的unionid关联student.unionid, 查询该用户是否为系统用户，即student.ai_source是否为1，如果为1，则无需在表student_share_commion中创建分佣记录
+2. 在当前用户C付费的使用，即触发recordShareCommission的时候，根据C的unionid查分享关系表，找到其分享者B，判断B是否是一个付费有效期内的用户，判断逻辑如下，以下所有条件均需要满足：
+条件一：根据上面关联关系拿到student.id关联 ai_student_commission_level表的student_id，查到用户所属的等级level_id去关联ai_commission_level_config表的id，取得该用户所属等级满足以下所有条件的：
+	a. 当前用户逇支付金额 >= min_purchase_amount，
+	b. 当前支付金额 * commission_ratio <= max_purchase_amount 
+	c. 如果validity_type = 1，则表面该用户为永久拥有权限的用户，c条件满足，否则，该用户的分佣权限受条件二约束
+条件二： 根据B的unionid(当前student_share_viewer表的viewer_id)关联student.unionid, 拿到student.code, 关联ai_vip_record的student_code, 查询是否有记录，如果有，且当前时间在end_at之前
+以上两个条件成立，表面B用户是一个具有分佣权限的用户
+
+2. 根据B所属等级，取ai_commission_level_config.commission_ratio  作为student_share_commisson.revenue_ratio字段的值
+3. B用户的unionid作为student_share_commisson.sharer_id
+4. C用户的unionid作为student_share_commisson.viewer_id
+5. 其他字段使用复用原代码的值
+6. 如何B不是付费用户，就根据student_share_viewer的分享关系一直往上溯源，知道知道到符合要求的sharer_id，比如A
+7. 如果一直往上溯源都没有符合要求的用户，则不创建分佣记录
+8. 创建分佣关系student_share_commion记录的时候，不要对分享关系表student_share_viewer表做任何修改
+
+分佣关系修改
+在创建student_share_commion记录的时候，添加如下两个限制
+1. 根据用户C的unionid关联student.unionid, 查询该用户是否为系统用户，即student.ai_source是否为1，如果为1，则无需在表student_share_commion中创建分佣记录
+2. 创建分佣关系student_share_commion记录的时候，不要对分享关系表student_share_viewer表做任何修改
+
+
+添加结算周期的逻辑
+写一个定时任务，每5分钟扫描一次student_share_commisson，根据ai_settlement_config表里的settlement_days字段判断，create_time + settlement_days 是否在当前日期之后，如果在当前日期之后，则更新student_share_commisson.status为1，并更新update_time为当前时间，否则不做任何操作
+
+添加规则配置修改的记录功能，要求如下
+在如下三种情况下要在日志表ai_config_modify_history添加修改记录，日志表表结构如下：
+CREATE TABLE ai_config_modify_history (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    config_id INT NOT NULL COMMENT '所修改的配置ID',
+    config_table varchar(200) COMMENT '所修改的表名称',
+    ori_content varchar(2000) COMMENT '修改前的内容',
+    content varchar(2000) COMMENT '修改后的内容',
+    updator_ip varchar(50) COMMENT '修改者IP',
+    updator_id BIGINT NOT NULL COMMENT '修改者student_id',
+    description VARCHAR(255) COMMENT '备注',
+    create_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    update_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+1. 在用户修改结算规则配置的时候，即调用 /api/web/withdraw/config/update接口的时候
+config_id为当前记录id, config_table为 ai_settlement_config，ori_content为修改前settlement_days的值，content为修改后settlement_days的值，updator_id为当前用户userid，updator_ip为该用户ip，description为description 字段的值
+2. 用户创建创建或更新分佣等级，即调用/api/web/commission/level/save接口的时候
+config_id为当前记录id, config_table为ai_commission_level_config ，ori_content为修改前level_name,min_purchase_amount,max_purchase_amount,validity_type,commission_ratio这些字段修改前以下划线分割组合成的字符串，content为修改后level_name,min_purchase_amount,max_purchase_amount,validity_type,commission_ratio这些字段修改前以下划线分割组合成的字符串，updator_id为当前用户userid，updator_ip为该用户ip，description为description 字段的值
+3. 用户删除分佣等级，即调用/api/web/commission/level/delete接口的时候
+config_id为当前要被删除的记录id, config_table为ai_commission_level_config ，ori_content为修改前level_name,min_purchase_amount,max_purchase_amount,validity_type,commission_ratio这些字段修改前以下划线分割组合成的字符串，content为NULL，updator_id为当前用户userid，updator_ip为该用户ip，description为delete
+4. 用户修改提现规则，即调用/api/web/withdraw/config/update接口的时候
+config_id为当前记录id, config_table为  ai_withdraw_config，ori_content为修改前name,min_without_audit_amount,min_withdraw_amount,max_withdraw_times这些字段修改前以下划线分割组合成的字符串，content为修改后name,min_without_audit_amount,min_withdraw_amount,max_withdraw_times这些字段修改前以下划线分割组合成的字符串，updator_id为当前用户userid，updator_ip为该用户ip，description为description 字段的值
+
+
+检查和修改如下接口逻辑代码逻辑：
+1. 绑定明细 接口： /share/bond/details 需要根据student_share_viewer的viewer_id去重
+2. 提现记录: /order/withdrawlist  取state为SUCCESS的数据
+3. 分佣明细：/share/commission/details 取student_share_commission表中invalid=0的记录
+4. 已提现收益： /order/withdrawAmount 计算逻辑需要修改，佣金总额统计取student_share_commission表 invalid=0，且status=1的记录的commission求和，其他逻辑不变
+
+更新如下代码逻辑：
+1. AiMessageServiceImpl 的 queryStudent方法，不要取调其他微服务的接口，直接从student表里拿，查询条件和当前保持一致用unionId,openId,mobile一起作为查询条件来查询，返回结果也要和当前方法一致
+2. AiMessageServiceImpl 的 saveStudent方法，不要去调其他微服务的接口，入库逻辑和当前方法保持一致，返回结果也要和当前方法一致，注意student.code的入库需要查询当前student表里student.code的最大值，然后+1入库，报错出错则重试三次
+3. 在新用户注册的时候，即调用getUserId方法的时候，如果该用户为新用户且不存在分享码，则入库用户信息到student表里的是，需要添加ai_source字段为0，表示该用户并非由分享而来，是个系统用户
+
+
+修改用户提现逻辑，
+当用户发起提现的时候，受如下几个约束的限制
+1. 当前的提现金额 <= ai_withdraw_config表里最新记录的min_without_audit_amount的值
+2. 当前的提现金额 >= ai_withdraw_config表里最新记录的min_withdraw_amount的值
+3. 改用今天提现成功的次数(ai_withdraw_ordder表中，该用户user_id的state为SUCCESS的记录的和） <= ai_withdraw_config表里最新记录的max_withdraw_times的值
+如果以上三个条件都满足，则可以发起提现，否则返回错误，错误消息为不满足的具体的条件
+
+
+
+修改如下接口：stock-scroing-web-api/api/web/promotionOrder/queryPromotionOrderList?nickName=&customerCode=&customerMobile=&pageNo=1&pageSize=10
+要求：
+1. 根据以上三个条件，可以过滤出对应的记录，在student_share_commission.viewer_id 关联student.unionid，后nickName查询条件对应student.name，costomerCode对应student.code,coustomerMobile 对应student.mobile
+2. 在返回的结果添加处理，添加三个返回字段，根据student_share_commission.sharer_id 关联 student.unionid后，取student.code 作为sharerCode, student.name 作为sharerName, student.mobile 作为sharerMobile
+
+根据如下表结构，添加查询订单记录的分页查询接口
+入参为user_id:
+CREATE TABLE `ai_withdraw_order`  (
+  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `user_id` varchar(128) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL COMMENT '用户id',
+  `openid` varchar(32) CHARACTER SET utf8 COLLATE utf8_bin NULL DEFAULT NULL COMMENT '用户的openid',
+  `out_bill_no` varchar(64) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '订单编号',
+  `transfer_bill_no` varchar(64) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '微信交易订单编号',
+  `state` varchar(45) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '订单状态',
+  `package_info` varchar(512) CHARACTER SET utf8 COLLATE utf8_bin NULL DEFAULT NULL COMMENT '交易信息',
+  `amount` int(10) NOT NULL DEFAULT 0 COMMENT '订单金额，单位：分',
+  `create_time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+  `update_time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '更新时间',
+  `confirmed_time` datetime NULL DEFAULT NULL COMMENT '订单确认时间',
+  PRIMARY KEY (`id`) USING BTREE,
+  UNIQUE INDEX `out_bill_no_UNIQUE`(`out_bill_no`) USING BTREE
+)
+
+
+参考当前的代码结构，添加如下功能
+1. 配置查询公司细分行业和龙头公司的Dify工作流，Appkey为：app-MS133d541ZYbgcYgqErwnGwa，
+2. 配置查询接口，入参为公司名称列表stockList 和 market, 如果stockList为空，则从ai_stock_list中选market为入参market匹配的公司名称stockName字段形成stockList，轮询stockList，拿每一条记录，即公司名称stockName查询步骤1配置的dify工作流，查询的结果入库到ai_segmented_industries表中。入库逻辑为，如果stockName存在，则更新，否则，插入一条新数据。dify工作流返回的结果格式需要进行解析，格式如下：
+{
+  "sub_industry_main": "高端白酒行业",
+  "peer_company": "泸州老窖"
+}
+其中sub_industry_main对应数据库segmented_industries字段，peer_company对应industries_head_stock字段
+3. 写一个定时任务，每季度凌晨1点，调度步骤2的接口，入参stockList为空，market为cn
+
+4. 配置查询热门公司的Dify工作流，Appkey为：app-fNKi0flGtsEPfU3g5UopXDxo
+5. 配置查询接口，没有入参，直接更新ai_segmented_industries表里所有记录的字段hot_stock和industries_head_stock。dify工作流返回的结果格式需要进行解析，格式如下：
+{
+  "result": [
+    {
+      "result": "{\n   \"hot_stock\": \"宁德时代\",\n   \"industries_head_stock\": \"贵州茅台\"\n}"
+    }
+  ]
+}
+6. 写一个定时任务，每天凌晨1点调度步骤5的接口，将数据入库
+
+
+修改如下问题：
+1. /stock-scroing-web-api/api/web/student/commission/level/update 调整为根据用户id即student_id来更新用户的分佣等级
+2. 修改客户列表接口promoter/queryCustomerList，增加sharerId字段，该字段取值为student_share_viewer.sharer_id, 增加viewer_id字段，该字段取值为student_share_viewer.viewer_id, 增加shareId字段，该字段取值为student_share_viewer.share_id
+
+
+用户付费以后自动配置等级：
+修改OrderServiceImpl 的 createOrder方法，在用户付费以后，需要自动给改用添加分佣等级，具体要求如下
+1. 根据付费的金额， 查找ai_commission_level_config，找出付费金额  > min_purchase_amount 的，min_purchase_amount 为最大的 且 min_purchase_amount 不为-1 那一条记录
+2. 构建更新的数据对象，ai_student_commission_level.sdudent_id为当前用户的userId, ai_student_commission_level.level_id为如上查询到的记录的ai_commission_level_config.id, updator_id为1，description为：付费自动开通
+3. 根据步骤2的的student_id字段，关联查询ai_student_commission_level表，关联字段为ai_student_commission_level.student_id字段，如果已存在记录，则用步骤2的数据对象做更新，如果不存在记录，用步骤2的数据对象做插入
+
+
+修改分佣资格检查的逻辑：
+StudentServiceImpl.checkCommissionLevelEligibility方法的如下代码逻辑有误：
+// 条件a：当前用户支付金额 >= min_purchase_amount
+            if (levelConfig.getMinPurchaseAmount() != null && paidAmount < levelConfig.getMinPurchaseAmount()) {
+                logger.info("Payment amount: " + paidAmount +  "is less than min_purchase_amount: " + levelConfig.getMinPurchaseAmount() +  "for student: " + studentId);
+                return false;
+            }
+应该修改为
+1. 去查studentId对应的用户（关联student.id）得到student的记录，拿student.code 关联ai_vip_record 表，得到该用户所有的付费记录，通过ai_vip_record.source_id关联
+order_info.order_id得到order_info.price，对price进行加总，得到该客户付款的总金额totalAmount
+2. totalAmoun 代替当前的paidAmount去和levelConfig.getMinPurchaseAmount()比较，paidAmount < levelConfig.getMinPurchaseAmount() 则返回false
+
+
+
+后端生成海报
+当前后端需要添加新的接口，要求参考JS的实现，通过java画一张海报，并把海报存储到阿里云OSS上，OSS的存储可以参考当前UserController的shareReport生成过程
+JS代码如下：
+
+修改PosterGenerateServiceImpl
+要求如下
+1. 修改drawTitleArea方法，要求：公司价值评估报告的背景色 左上角的圆角的度数要与drawContentArea方法的圆角度数保持一致，其他矩形的角不用修改
+
+1. 修改drawTitleArea方法，要求：公司价值评估报告的背景色 左上角改为圆角矩形，且圆角的度数要与drawContentArea方法的圆角度数保持一致
+
+1. 修改drawScoreCircle方法，要求，得分文字和 评估文字，满分文字都有0.5的行间距
+
+1. 修改drawScoreCircle方法，要求绘制中心文字 ， 确保居中，避免重叠，且在进度圆环之内
+
+
+1. 修改drawTitleArea方法，要求：公司价值评估报告的背景色 左上角改为圆角矩形，且圆角的度数要与drawContentArea方法的圆角度数保持一致
+2. 修改drawScoreCircle方法，要求中心文字部分一定要居中
+
+1. 修改drawTitleArea方法，要求：公司价值评估报告的背景色 左上角改为圆角矩形，且圆角的度数要与drawContentArea方法的圆角度数保持一致
+2. 修改drawScoreCircle方法，要求中心文字部分一定要居中，且 得分 和评估，满分40分的间距一致
+3. 修改drawDimensions方法，要求：进度条需要从左往右逐渐渐变加深
+
+
+1. 修改drawDimensions方法，要求：进度条需要从右往左颜色渐变，维度总分改为和维度得分用相同的字号，但不加粗显示，进度条，得分，维度名称需要在一条直线上
+2. 修改drawTitleArea方法，要求：公司价值评估报告的背景色只有左上角为圆角矩形，左下角改为矩形
+3. 修改drawScoreCircle方法，要求：进度圆环从12点钟方向开始绘制， 得分需要往下一点，在评估和满分中间
+4. 修改drawCompanyInfo方法，要求：股票代码和股票名称要左对齐
+5. 修改drawQRCode方法，要求将二维码绘制在如上图片预留的右边的圆型区域内, 且对二维码进行缩放，和预留的圆形区域内有一些间距
+6. 修改drawSecurityMarginItem方法，超出安全编辑的文字用颜色：#3662EC
+
+
+1. 修改drawDimensions方法，要求：每个维度的名称不要加粗显示，维度的得分加粗显示，维度的总分不能加粗且比维度得分小一个字号，进度条需要从左往右颜色渐变
+2. 修改drawTitleArea方法，要求 公司价值评估报告的背景色为圆角矩形，且圆角的度数要与drawContentArea方法的圆角度数保持一致
+3. 修改drawScoreCircle方法，要求背景圆环为浅粉色，进度圆环从12点钟方向开始绘制
+
+1. 修改drawTitleArea方法，要求 公司价值评估报告的背景色为圆角矩形
+2. 修改drawQRCode方法，要求：将二维码的绘制往左上角偏移，一遍能覆盖背景预留的圆形区域
+
+1. 修改drawContentArea方法，要求：内容部分为圆角矩形，并添加红色的边框，删除当前的阴影
+2. 修改drawQRCode方法，要求：将二维码完全覆盖当前背景图片预留的原型区域，当前现状是二维码往右下角片没有盖住预留的原型区域
+3. 修改drawCompanyInfo方法，要求：评估日期为"XXXX.YY.DD"的形式
+
+1. 修改drawHeader方法，要求在S5000Ai字符前面前面添加图片"https://s-ai.oss-cn-hangzhou.aliyuncs.com/s_logo.png" 
+2. 修改drawScoreCircle方法，要求中心文字部分一定要居中
+3. 修改drawContentArea方法，要求内容部分为圆角矩形，并添加粉色的阴影
+4. 修改drawTitleArea方法，要求 公司价值评估报告的背景为粉色的渐变色，从左往后渐变
+5. 修改drawHeader方法，要求左边和下面的内容区域对齐
+6. 修改drawHeader方法，要求在S5000Ai字符的背景色为： linear-gradient(90deg, rgba(255, 0, 0, 0.2) 0%, rgba(255, 0, 0, 0) 100%)
+7. 修改drawCompanyInfo方法，要求：股票代码和股票行业需要有0.5行间距，股票代码相对股票名称要右对齐
+8. 修改drawDimensions方法，要求：01,02,03,04,05需要加粗加黑显示，每个维度的名称要加粗显示，数字和维度名称都比现在小一号，获得的得分要加粗，维度的总分不能加粗，得分和"/"之间不能重叠
+
+1. 修改drawHeader方法，把上一步给S5000Ai添加的背景色去掉
+2. 修改drawTitleArea方法，要求 公司价值评估报告的背景色为： linear-gradient(90deg, rgba(255, 0, 0, 0.2) 0%, rgba(255, 0, 0, 0) 100%)
+3. 修改drawDimensions方法，要求dim1和上面的分割线有1行的行间距，每个维度之间的行间距为0.5倍
+
+1. 注释方法drawBottomArea，直接用图片代替底部海报，图片地址为：https://s-ai.oss-cn-hangzhou.aliyuncs.com/buttom_bg.png
+2. 修改drawQRCode方法，要求将二维码绘制在如上图片预留的右边的原型区域内
+3. 修改drawDimensions方法，要求：五个维度之间有0.8倍的行间距，右边得分的数字靠的紧密一点，但是不能重叠
+4. 修改drawContentArea方法，要求：左边和上面都添加上右边那样的阴影效果
+
+修改UserController 的 sharePoster方法要求
+1. 根据入参content查询ai_message, 关联字段为ai_message.id找到对应的记录
+2. 参考shareReport的实现，获取shareId和qrCodePath
+3. 用步骤1查询到的记录填充PosterGenerateRO每个字段
+4. 用qrCodePath填充PosterGenerateRO.qcodeUrl
+5. 根据如上参数生成海报，返回其url
+
+
+新增查询字典接口，开发controller, service, dao层代码：
+1. 添加一个查询字典的接口，默认的查询条件有如下几个：dictType, dictKey，返回唯一的一条满足条件的数据，如果dictKey为空值，则设为默认值audit_status, dictType为空，则设默认值SYSTEM，返回值为dict_value的值
+2. 该接口需要绕过AuthAspect的权限校验检测
+新增表结构如下：
+CREATE TABLE `ai_dict_config`  (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `dict_value` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '字典值',
+  `dict_key` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '字典的Key',
+  `dict_type` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '字典的类型',
+  `create_time` datetime NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+  `update_time` datetime NULL DEFAULT CURRENT_TIMESTAMP COMMENT '修改时间',
+  PRIMARY KEY (`id`) USING BTREE
+) 
+
+修改UserController的collectStockList方法，collectList里的StudentCollectRo对象的report_time字段需要修改为字符串格式，
+展示逻辑为当前时间current_time - 查询出来的report_time：
+1. ≤ 24 小时 展示为：XXX分钟前，XXX的值就是current_time - report_time的分钟数
+2. 1–7 天 展示为： XXX天前，XXX的值就是current_time - report_time的天数
+3. 1周以上展示为：XXX周前，XXX的值就是current_time - report_time的周数
+
+
+修改AiSegmentedIndustriesServiceImpl的updateHotStockInfo方法，逻辑如下
+1. 当前hotStockList和headStockList都是返回100个公司名称，用这100个公司去轮询更新ai_segmented_industries表的每天记录的hot_stock和head_stock字段的值
+2. 更新的时候用当前ai_segmented_industries的记录/100=N，然后轮询hotStockList，每次批量更新ai_segmented_industries的N条数据数据，将所有的记录都更新一遍
+
+
+梳理当前代码的定时任务逻辑，包括怎么配置的，什么时候运行，调用逻辑和相关的数据库表
+
+
+写一段逻辑，更新ai_dimension表里more字段的数据，要求如下：
+1. 查询条件为公司列表stockList：对应字段为ai_dimension.stockName, 更新维度number；如果number为空，则更新stockList里stockName对应的记录的ai_dimension.number < 16的所有记录的more字段
+2. 只改【标题行】，其余内容一字不动、行距不变、代码块不动、列表不动。
+3. 识别标题：Markdown ##/，或独立成行且以序号/阿拉伯数据/中文序号开头的短句。
+4. 处理步骤（只做这四件事）：
+	1. 去掉原有标题前缀（如 ##、1.、一、、(a) 等），保留后面文字原样。
+
+	映射样式：
+	1级标题如中文一、二、三、四，五 → 映射为1. 2. 3. 4. 5. 标题内容（加粗，按出现次序自动递增）
+	2级标题如阿拉伯数据1. 2. 3. 4. 5. → 映射为①.  ②. ③. ④. ⑤. 标题内容（加粗，序号随所属1级递增、遇新1级重置）
+	3级标题（1），（2），（3），（4），（5） → 映射为a. b. c. d. e. 标题内容（a/b/c…，遇新2级重置，3级标题不加粗）
+	4级标题 → • 标题内容（遇新3级重置，4级标题不加粗）
+
+4. 仅重排前缀与加粗，不改标题文字中的任何字符与标点
+5. 只输出转换后的全文，不加解释或附加文本
+
+写一段逻辑，更新ai_dimension表里more字段的数据，要求如下：
+1. 应该先根据stockName和number从ai_dimension里查询符合条件的记录，取出more字段，经过格式化以后，用记录的stockName和number作为联合主键，将修改更新到表里
+2. number如果为空，则查询条件是stockName符合条件，number < 16的所有记录，更新逻辑还是按照步骤1进行操作
+
+
+如上修改，仍然没有起到格式化的作用，需要继续优化代码：
+原文示例如下：
+**一、研发费用占比**  
+2024年万科A研发投入5.08亿元，占营业收入3431.76亿元比重为0.15%，远低于10%阈值。  
+
+**二、行业属性**  
+**1. 主营业务**  
+2024年报显示公司97.93%收入来自房地产开发，2.07%来自物业服务，申万行业分类为房地产-房地产开发-住宅开发。  
+
+**2. 研发依赖度**  
+（1）行业对比：2019-2024年万科累计研发费用33.45亿元，占109家房企总研发费用的15.64%，但全行业研发强度普遍低于1%。  
+（2）技术特征：房地产行业核心竞争要素为土地储备与资金周转，技术投入集中于建筑信息化（如BIM、图纸大模型），非核心盈利驱动。  
+
+**3. 研发水平定位**  
+• 绝对值：2024年5.08亿元研发投入在房企中居前  
+• 相对值：0.15%的营收占比低于科技企业，但高于行业均值
+
+需要优化后的效果如下：
+**1. 研发费用占比**  
+2024年万科A研发投入5.08亿元，占营业收入3431.76亿元比重为0.15%，远低于10%阈值。  
+
+**2. 行业属性**  
+**①. 主营业务**  
+2024年报显示公司97.93%收入来自房地产开发，2.07%来自物业服务，申万行业分类为房地产-房地产开发-住宅开发。  
+
+**②. 研发依赖度**  
+  a. 行业对比：2019-2024年万科累计研发费用33.45亿元，占109家房企总研发费用的15.64%，但全行业研发强度普遍低于1%。  
+  b. 技术特征：房地产行业核心竞争要素为土地储备与资金周转，技术投入集中于建筑信息化（如BIM、图纸大模型），非核心盈利驱动。  
+
+**3. 研发水平定位**  
+  ①. 绝对值：2024年5.08亿元研发投入在房企中居前  
+  ②. 相对值：0.15%的营收占比低于科技企业，但高于行业均值
+
+
+如上修改，仍然没有起到格式化的作用，需要继续优化代码：
+如下标识是优化后的1,2,3,4级标题：
+1. 2. 3. 4. 5. 应该是优化后的1级标题
+①. ②. ③. ④. ⑤. 应该是优化后的2级标题
+a. b. c. d. e. 应该是优化后的3级标题
+•  •  •  •  •  Markdown格式符• 作为4级标题
+
+如下示例：
+**一、核心团队成员背景**  
+**1. 辛杰**  
+1966年生，现任董事会主席兼深铁集团董事长。工学学士（沈阳工业大学1988）+工商管理硕士（香港理工大学2005），正高级工程师。历任深圳圣廷苑酒店董事长、天健集团董事长，2017年执掌深铁集团。轨道交通资源与政企协同优势显著。  
+
+**2. 韩慧华**  
+1982年生，执行副总裁兼财务负责人。管理学硕士（江西财经大学2008），注册会计师。2008年加入万科，历任财务内控管理部副总，2020年升任现职。主导财务体系数字化改革，兼任万物云等子公司董事。  
+
+**3. 张海**  
+开发经营事业集团总经理。深耕地产开发，曾率上海区域业绩第一，2022年起统筹集团开发业务。十年区首经验为地产业务输送大量管理人才。  
+
+**二、业务协同性**  
+（1）辛杰的深铁背景强化"轨道+物业"模式资源获取  
+（2）韩慧华财务专业化支撑多元化业务资金管控  
+（3）张海一线开发经验保障住宅主业竞争力
+
+需要做的修改如：
+**一、核心团队成员背景**  为一级标题需要改为**1. 核心团队成员背景** 
+**1. 辛杰**  为二级标题 需要改为 **①. 辛杰**
+（1）为二级标题 需要改为 ①
+
+
+按照如下逻辑更新附件的脚本：
+1. 只需要更新的字段为more字段的内容
+2. 只改【标题行】，其余内容一字不动、行距不变、代码块不动、列表不动。
+3. 识别标题：Markdown ##/，或独立成行且以序号/阿拉伯数据/中文序号开头的短句。
+4. 梳理当前代码的层级，需要按照如下的层级重新替换标题
+	1. 2. 3. 4. 5. 应该是优化后的1级标题
+	①. ②. ③. ④. ⑤. 应该是优化后的2级标题
+	a. b. c. d. e. 应该是优化后的3级标题
+	•  •  •  •  •  Markdown格式符• 作为4级标题
+
+
+修改StudentServiceImpl的generateCompressedShareId，要求如下：
+1. 10位字符的UUID
+3. 生成之前先去student_share_viewer, 和student_share表里查询，如果库里已存在相同的shareId，则重新生成
+
+修改AiLiteratureConfigController的searchByQuery方法，当查询条件query为空的时候，返回库里所有更新时间为当年的记录
+
+
+在 StudentShareViewerController 里添加如下两个接口：
+1.  系统用户接口：
+	1.1 根据用户名称（student.name）， 用户ID(student.id)，用户编码（student.code），用户手机号码（student.mobile）查询student表里ai_source = 0的记录
+	1.2 接口返回 id, code, name, header_url, mobile, unionid, openid_ai
+2. 非系统用户接口
+	1.1 根据用户名称（student.name）， 用户ID(student.id)，用户编码（student.code），用户手机号码（student.mobile）查询student表里ai_source != 0的记录
+	1.2 接口返回 id, code, name, header_url, mobile, unionid, openid_ai
+
+
