@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T17:06:54+08:00",
+  "generated_at": "2026-09-20T17:32:59+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4440,
-  "bytes": 75765101,
-  "copied_or_updated": 7,
-  "unchanged": 4433,
+  "files": 4441,
+  "bytes": 75768787,
+  "copied_or_updated": 5,
+  "unchanged": 4436,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/workspace.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 4852,
-      "sha256": "78726b2b20e40bb4515293fa871c0b7d49ae7067da6ec5fc9f33180c84ad0154"
+      "bytes": 4952,
+      "sha256": "93c00619003c56d03e8f9fa982e065c4fc20ba4444f9535a4f5b17e679d0501f"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -21397,13 +21397,18 @@
     },
     {
       "path": "30_产业研究库/历史与战略研究/00_MOC_历史与战略研究.md",
-      "bytes": 775,
-      "sha256": "eb1d6da7c56038c81c174b4e54a2695aee6b1b84a6efd0bc77ad34d57dc5161d"
+      "bytes": 1112,
+      "sha256": "e8e707ebd7c1489f46a7529b1d2f645f914b15770c0f0fa889938b5b2c4cf3ff"
     },
     {
       "path": "30_产业研究库/历史与战略研究/辽沈战役初期人民解放军编制与主要领导_1948.md",
-      "bytes": 3375,
-      "sha256": "355302f781b3c853dae42bd8826ce8a7f73d10bbdf519460003565f0ca1972ae"
+      "bytes": 4444,
+      "sha256": "f1c18b95c5e7b3aa1bce27081743f1bb8325460ec17bf2bc23a4408d943dabda"
+    },
+    {
+      "path": "30_产业研究库/历史与战略研究/辽沈战役前夜五大战略集团编制图谱_1948.md",
+      "bytes": 2080,
+      "sha256": "56e86c1c40b9cb582a088c64ad3fc0f2d79ae516da4134622369d530c0d51c3f"
     },
     {
       "path": "30_产业研究库/美国CPI与FOMC加息概率核查_2026-09-11.md",
@@ -21722,8 +21727,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 3993,
-      "sha256": "0cbd087d85973009e3e501c33f9324fac9c121a826b3df609a0fa1972917ffa5"
+      "bytes": 4093,
+      "sha256": "6d3ad8ea5f7025c7025b8750f70b4a71725d7710ad780e9f43094403cdbe9be4"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
