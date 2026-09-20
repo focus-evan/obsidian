@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T15:13:37+08:00",
+  "generated_at": "2026-09-20T15:15:22+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
   "files": 4438,
   "bytes": 75760529,
   "copied_or_updated": 0,
   "unchanged": 4438,
-  "removed": 1,
+  "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/workspace.json",
     "00_Inbox/_imported/D_Evan_Files/code_readme/oss-upload-user.txt",
