@@ -1,0 +1,23 @@
+---
+type: moc
+domain: history-strategy
+created: 2026-09-20
+updated: 2026-09-20
+status: active
+tags:
+  - moc/history-strategy
+  - domain/history
+---
+# 历史与战略研究
+
+## 定位
+
+- 以明确时间锚点、组织口径和来源等级整理战争史、军队组织史与战略决策。
+- 将历史事实、编制解释、战役运用和后设判断分开，避免用后来的统一番号倒套早期编制。
+- HTML 主报告保存在 `D:\Evan\html\history-strategy`，知识库内保留同版副本与可检索 Markdown 入口。
+
+## 专题
+
+- [[30_产业研究库/历史与战略研究/辽沈战役初期人民解放军编制与主要领导_1948]]
+  - HTML：[[30_产业研究库/历史与战略研究/辽沈战役初期人民解放军编制与主要领导_1948.html]]
+

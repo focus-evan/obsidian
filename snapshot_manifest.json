@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T15:15:22+08:00",
+  "generated_at": "2026-09-20T17:06:54+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4438,
-  "bytes": 75760529,
-  "copied_or_updated": 0,
-  "unchanged": 4438,
+  "files": 4440,
+  "bytes": 75765101,
+  "copied_or_updated": 7,
+  "unchanged": 4433,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/workspace.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 4746,
-      "sha256": "b6822d61cae3eaba3574f778c461997a4df589c7082d32dcaae3205b06c6934e"
+      "bytes": 4852,
+      "sha256": "78726b2b20e40bb4515293fa871c0b7d49ae7067da6ec5fc9f33180c84ad0154"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -20462,8 +20462,8 @@
     },
     {
       "path": "30_产业研究库/00_MOC_产业研究库.md",
-      "bytes": 665,
-      "sha256": "e5a21c015d547acb3678f2cc3c3d62bb73a6ae4f13a844c98e1be0b0e26006f4"
+      "bytes": 875,
+      "sha256": "c1422aa86819a2e48330dc820b104a5429d3a05b63a64f64e157590fd940283c"
     },
     {
       "path": "30_产业研究库/AI硬件材料与物理AI产业线索_2026-W23.md",
@@ -21396,6 +21396,16 @@
       "sha256": "200352434be54910f1da754690f75a0ffe3675951ce89374f38cc2416594a706"
     },
     {
+      "path": "30_产业研究库/历史与战略研究/00_MOC_历史与战略研究.md",
+      "bytes": 775,
+      "sha256": "eb1d6da7c56038c81c174b4e54a2695aee6b1b84a6efd0bc77ad34d57dc5161d"
+    },
+    {
+      "path": "30_产业研究库/历史与战略研究/辽沈战役初期人民解放军编制与主要领导_1948.md",
+      "bytes": 3375,
+      "sha256": "355302f781b3c853dae42bd8826ce8a7f73d10bbdf519460003565f0ca1972ae"
+    },
+    {
       "path": "30_产业研究库/美国CPI与FOMC加息概率核查_2026-09-11.md",
       "bytes": 1311,
       "sha256": "49da7968b3b7e012fba2d33ab93bf435dd93febfdc914a3a28b2f6b6eca0d944"
@@ -21712,8 +21722,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 3887,
-      "sha256": "790ff0db3a84818321ed8b5fbf73f8ff74912f0556aa05d2865ead5c9cabe40b"
+      "bytes": 3993,
+      "sha256": "0cbd087d85973009e3e501c33f9324fac9c121a826b3df609a0fa1972917ffa5"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",

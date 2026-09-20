@@ -68,7 +68,7 @@ _ops
 
 ## 下一步
 
-1. 用 Obsidian 打开 `D:/Evan/Codes/obsidian/vault`。
+1. 用 Obsidian 打开 `D:/Evan/AI-KnowledgeHub`。
 2. 从 `00_Index` 进入分类索引。
 3. 优先处理 `20_投研方法论`、`10_S老师IP资产`、`40_S5000AI产品库` 三类资产。
 4. 对高价值 PDF、DOCX、PPTX、视频，先生成摘要卡片，再进入 RAG。
