@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T17:32:59+08:00",
+  "generated_at": "2026-09-20T17:42:40+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
   "files": 4441,
-  "bytes": 75768787,
-  "copied_or_updated": 5,
-  "unchanged": 4436,
+  "bytes": 75769368,
+  "copied_or_updated": 2,
+  "unchanged": 4439,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/workspace.json",
@@ -21397,8 +21397,8 @@
     },
     {
       "path": "30_产业研究库/历史与战略研究/00_MOC_历史与战略研究.md",
-      "bytes": 1112,
-      "sha256": "e8e707ebd7c1489f46a7529b1d2f645f914b15770c0f0fa889938b5b2c4cf3ff"
+      "bytes": 1234,
+      "sha256": "88d3bf597558fae98efa388ecf134b25fe8f1c6c262077036595bb97c1f29494"
     },
     {
       "path": "30_产业研究库/历史与战略研究/辽沈战役初期人民解放军编制与主要领导_1948.md",
@@ -21407,8 +21407,8 @@
     },
     {
       "path": "30_产业研究库/历史与战略研究/辽沈战役前夜五大战略集团编制图谱_1948.md",
-      "bytes": 2080,
-      "sha256": "56e86c1c40b9cb582a088c64ad3fc0f2d79ae516da4134622369d530c0d51c3f"
+      "bytes": 2539,
+      "sha256": "d50c014012214645972c437a0a9a44a4cbdb04cbffc01fa0318280b1abe53179"
     },
     {
       "path": "30_产业研究库/美国CPI与FOMC加息概率核查_2026-09-11.md",
