@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T18:14:08+08:00",
+  "generated_at": "2026-09-22T15:58:58+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4441,
-  "bytes": 75770086,
-  "copied_or_updated": 1,
-  "unchanged": 4440,
+  "files": 4448,
+  "bytes": 75800407,
+  "copied_or_updated": 13,
+  "unchanged": 4435,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/workspace.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 4952,
-      "sha256": "93c00619003c56d03e8f9fa982e065c4fc20ba4444f9535a4f5b17e679d0501f"
+      "bytes": 5500,
+      "sha256": "44f9094f4a2379013139ab6f54856fd72fb7026aa937ce54b6f8b1e7607f6048"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -21696,6 +21696,11 @@
       "sha256": "c710c731e56386939c553619dc715505b45593dce9f38043b1edd470c62d66cf"
     },
     {
+      "path": "60_AI工具与工程/李尚龙热点文案与S老师产业创作流程_2026-09-22.md",
+      "bytes": 2371,
+      "sha256": "e16b59a65b00dc3aeb4e13255a93b006437649c7f6f22ca9c5072cf7abbb3849"
+    },
+    {
       "path": "60_AI工具与工程/移动端数据产品冲击力展示原则_2026-09-16.md",
       "bytes": 1116,
       "sha256": "57bd314c199a8f438d8d430d7fa324e5253fa6057e334e4b435301f33876cb78"
@@ -21727,8 +21732,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 4093,
-      "sha256": "6d3ad8ea5f7025c7025b8750f70b4a71725d7710ad780e9f43094403cdbe9be4"
+      "bytes": 4641,
+      "sha256": "c2c83f3bc3074417f5c4b6cae6183ccc8bfb8ae6111fe251ce06ad204d17d703"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -21962,18 +21967,33 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W38_Codex会话台账.md",
-      "bytes": 3347,
-      "sha256": "47abbcfaf89604ea7a6956335abc521f5cf261b4053fbb70695264f48ae6449b"
+      "bytes": 4665,
+      "sha256": "f302bc32a50cc49a80870847a7b2fbcf72eca0ae40cdc95fce4441ae53f58782"
     },
     {
       "path": "80_复盘与版本演化/2026-W38_Codex工作周报.md",
-      "bytes": 9120,
-      "sha256": "ffae85025da759a2d8fc2858c5c94f61534ccdc78176b18a26d55d9aa7f221c8"
+      "bytes": 14114,
+      "sha256": "58a27d0183674c323f04c4ad9cdd087ed77460704d03d8fc73655d2ea54d51c0"
     },
     {
       "path": "80_复盘与版本演化/2026-W38_Codex资产与待办索引.md",
-      "bytes": 3529,
-      "sha256": "f96463a5ec4aa6f63c5de26ea4a1b43f08e98e60103b0e93dc4af32021d09182"
+      "bytes": 5359,
+      "sha256": "f1f442888bf9251c60a28c7887e192ba3e13ec4cf0bd09cbfe90397b6b27e532"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W39_Codex会话台账.md",
+      "bytes": 2567,
+      "sha256": "fbc14fdeb71ca90fc28cd66ea8a9fb0e5468f3f45716c937b5b8f69c0d352b6f"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W39_Codex工作周报.md",
+      "bytes": 7201,
+      "sha256": "864e16bea682801a912ba3e44bdf3b70a6695238a04787cf1a3152a8f8db59a7"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W39_Codex资产与待办索引.md",
+      "bytes": 2112,
+      "sha256": "594cd14b464ae8e786598427c12a5e61705a1a76811cfb76a469d9f8466f413c"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -21984,6 +22004,16 @@
       "path": "80_复盘与版本演化/AI智能投研与自有模型建设方案PPT_2026-09-18.md",
       "bytes": 1835,
       "sha256": "9257ca9c380d5f258f70e35cce2d0d0b92fdf16a9053ce21cb3ef764286c25ea"
+    },
+    {
+      "path": "80_复盘与版本演化/Aurora本地ChatGPT代理部署_2026-09-22.md",
+      "bytes": 1933,
+      "sha256": "6ab373d2e8ce9a63ea70df829f721bcf8d5e653049cf880eccb012c97faade6f"
+    },
+    {
+      "path": "80_复盘与版本演化/Codex自动化迁移与Obsidian公开Git同步_2026-09-20.md",
+      "bytes": 2289,
+      "sha256": "6afddaa8c9c4c3df357f8e55a3400796b63a7e0014c1e4d084900f3455deb402"
     },
     {
       "path": "80_复盘与版本演化/DIM12_500股批次吞吐诊断_2026-09-09.md",
@@ -22054,6 +22084,11 @@
       "path": "80_复盘与版本演化/dify-api-bzsj一二维度吞吐生产优化_2026-09-04.md",
       "bytes": 1108,
       "sha256": "79a7580165e989a8dd30dbc9a033b169f0ae05e1945742114406b593ee1d3e20"
+    },
+    {
+      "path": "80_复盘与版本演化/mgnt-agent-front产业链交互与直播文案生产发布_2026-09-22.md",
+      "bytes": 2054,
+      "sha256": "31cef0d905b06d87a13d014d380e05d9436dc97399c4f040978f9d3116f0f063"
     },
     {
       "path": "80_复盘与版本演化/mgnt-agent-front仓位测算器与资产配置连续发布_2026-09-11_2026-09-13.md",
@@ -22142,8 +22177,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 818,
-      "sha256": "9a2e8cc68c80214cb5962b50e585fb5a9f9bba43fb905479d48b84736bcddd50"
+      "bytes": 1374,
+      "sha256": "f415afb09196817897e1002c4488d68807066ce8b0084bc4a6873b4426ba501b"
     },
     {
       "path": "_ops/external_media_manifest.csv",
