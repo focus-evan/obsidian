@@ -1,0 +1,8 @@
+{
+  "index_method": "local-bm25-char-ngram",
+  "semantic_embeddings": false,
+  "built_at": "2026-09-23T16:27:39+08:00",
+  "source_count": 13,
+  "chunk_count": 73,
+  "chunks_sha256": "1c7d8636fa8528d6c14440b7451cd69aed75fa5b5ae49b9422c01ebacb779626"
+}

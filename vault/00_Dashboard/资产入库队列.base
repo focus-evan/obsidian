@@ -1,0 +1,69 @@
+filters:
+  and:
+    - 'type == "asset-note"'
+properties:
+  category:
+    displayName: 分类
+  asset_type:
+    displayName: 类型
+  summary_status:
+    displayName: 摘要
+  review_status:
+    displayName: 审核
+  rag_status:
+    displayName: RAG
+  feedback_status:
+    displayName: 反馈
+  confidential_level:
+    displayName: 密级
+  imported_at:
+    displayName: 导入时间
+  original_path:
+    displayName: 原始路径
+views:
+  - type: table
+    name: "待摘要"
+    filters:
+      and:
+        - 'summary_status == "pending"'
+    limit: 100
+    order:
+      - file.name
+      - category
+      - asset_type
+      - summary_status
+      - confidential_level
+      - imported_at
+      - original_path
+    sort:
+      - property: imported_at
+        direction: DESC
+  - type: table
+    name: "摘要待审核"
+    filters:
+      and:
+        - 'summary_status == "draft"'
+        - 'review_status != "approved"'
+    limit: 100
+    order:
+      - file.name
+      - category
+      - summary_status
+      - review_status
+      - imported_at
+  - type: table
+    name: "已审核待RAG"
+    filters:
+      and:
+        - 'review_status == "approved"'
+        - 'rag_status != "embedded"'
+        - 'rag_status != "evaluated"'
+        - 'rag_status != "approved"'
+    limit: 100
+    order:
+      - file.name
+      - category
+      - review_status
+      - rag_status
+      - imported_at
+

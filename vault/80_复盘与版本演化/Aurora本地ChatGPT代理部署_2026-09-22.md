@@ -15,6 +15,7 @@ tags:
   - codex/session
   - local-proxy
   - security/credential
+workflow_stage: execution
 ---
 # Aurora本地ChatGPT代理部署
 

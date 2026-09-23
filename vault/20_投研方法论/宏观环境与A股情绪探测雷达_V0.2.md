@@ -15,6 +15,10 @@ tags:
   - investment/a-share-sentiment
   - framework/radar
   - framework/draft
+workflow_stage: review
+review_status: pending
+rag_status: pending
+publish_status: internal
 ---
 # 宏观环境与A股情绪探测雷达 V0.2
 

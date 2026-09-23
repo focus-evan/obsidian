@@ -15,6 +15,7 @@ tags:
   - codex/session
   - automation/migration
   - obsidian/git
+workflow_stage: execution
 ---
 # Codex自动化迁移与Obsidian公开Git同步
 

@@ -11,6 +11,7 @@ deployed: production
 next_action: 观察队列吞吐、失败率和GPT排队时间
 created: 2026-09-06
 updated: 2026-09-06
+workflow_stage: execution
 ---
 # dify-api-bzsj 一二维度吞吐生产优化 2026-09-04
 

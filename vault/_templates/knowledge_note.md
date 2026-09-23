@@ -6,8 +6,14 @@ source_path:
 version: 0.1
 status: draft
 confidence: medium
+workflow_stage: review
+review_status: pending
+evidence_level: medium
+rag_status: pending
+publish_status: internal
 created:
 updated:
+review_after:
 tags:
   - status/draft
 ---
@@ -33,3 +39,8 @@ tags:
 
 ## 待验证
 
+## 审核记录
+
+- 审核人：
+- 审核日期：
+- 结论：

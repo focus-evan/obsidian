@@ -11,6 +11,7 @@ deployed: production-data-updated
 next_action: 修同步逻辑避免每日任务覆盖 listingStatus
 created: 2026-08-31
 updated: 2026-08-31
+workflow_stage: execution
 ---
 # 生产 ai_stock_list 官方清单修正 2026-08-27
 

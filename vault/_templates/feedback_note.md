@@ -7,7 +7,11 @@ related_asset:
 error_type:
 priority: P2
 status: pending
+workflow_stage: feedback
+resolution_status: pending
+eval_added: false
 created:
+updated:
 reviewer:
 tags:
   - feedback/pending
@@ -33,3 +37,9 @@ tags:
 
 - [ ] 是
 - [ ] 否
+
+## 闭环记录
+
+- 修改的知识卡：
+- 修复日期：
+- 验证结果：

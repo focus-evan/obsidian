@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'ba2a92f7c4064e9e'
 asset_type: 'spreadsheet'
 category: '60_AI工具与工程'
@@ -17,16 +18,20 @@ tags:
   - 'asset/spreadsheet'
   - 'domain/ai-engineering'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # ecs_ai-prod-dify_2025-12-18
 
 [[60_AI工具与工程/_imported/D_Evan_Files/devops/ecs_ai-prod-dify_2025-12-18.csv]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=ba2a92f7c4064e9e; title=ecs_ai-prod-dify_2025-12-18; asset_type=spreadsheet; category=60_AI工具与工程; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_ai-prod-dify_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\60_AI工具与工程\_imported\D_Evan_Files\devops\ecs_ai-prod-dify_2025-12-18.csv; relative_source_path=devops\ecs_ai-prod-dify_2025-12-18.csv; extension=.csv; size_bytes=10129; source_last_write_time=2025-12-18T10:41:26; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=ba2a92f7c4064e9e; title=ecs_ai-prod-dify_2025-12-18; asset_type=spreadsheet; category=60_AI工具与工程; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_ai-prod-dify_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\60_AI工具与工程\_imported\D_Evan_Files\devops\ecs_ai-prod-dify_2025-12-18.csv; relative_source_path=devops\ecs_ai-prod-dify_2025-12-18.csv; extension=.csv; size_bytes=10129; source_last_write_time=2025-12-18T10:41:26; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=ba2a92f7c4064e9e; title=ecs_ai-prod-dify_2025-12-18; asset_type=spreadsheet; category=60_AI工具与工程; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_ai-prod-dify_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\60_AI工具与工程\_imported\D_Evan_Files\devops\ecs_ai-prod-dify_2025-12-18.csv; relative_source_path=devops\ecs_ai-prod-dify_2025-12-18.csv; extension=.csv; size_bytes=10129; source_last_write_time=2025-12-18T10:41:26; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=ba2a92f7c4064e9e; title=ecs_ai-prod-dify_2025-12-18; asset_type=spreadsheet; category=60_AI工具与工程; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_ai-prod-dify_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\60_AI工具与工程\_imported\D_Evan_Files\devops\ecs_ai-prod-dify_2025-12-18.csv; relative_source_path=devops\ecs_ai-prod-dify_2025-12-18.csv; extension=.csv; size_bytes=10129; source_last_write_time=2025-12-18T10:41:26; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\devops\ecs_ai-prod-dify_2025-12-18.csv`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\60_AI工具与工程\_imported\D_Evan_Files\devops\ecs_ai-prod-dify_2025-12-18.csv`
+- 类型：`spreadsheet`
+- 分类：`60_AI工具与工程`
 - RAG 状态：待入库
 
 ## 摘要

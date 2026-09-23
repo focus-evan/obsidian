@@ -3,6 +3,7 @@ type: action
 domain:
 project:
 status: pending
+workflow_stage: action
 priority: P2
 source:
 source_session:
@@ -11,6 +12,7 @@ artifact_path:
 due:
 created:
 updated:
+closed_at:
 tags:
   - action/pending
 ---

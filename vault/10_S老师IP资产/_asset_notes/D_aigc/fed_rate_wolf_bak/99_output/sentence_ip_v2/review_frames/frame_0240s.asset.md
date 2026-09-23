@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '34f6720f02ed2759'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # frame_0240s
 
 ![[10_S老师IP资产/_imported/D_aigc/fed_rate_wolf_bak/99_output/sentence_ip_v2/review_frames/frame_0240s.jpg]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=34f6720f02ed2759; title=frame_0240s; asset_type=image; category=10_S老师IP资产; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; relative_source_path=fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; extension=.jpg; size_bytes=189018; source_last_write_time=2026-05-26T17:42:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=34f6720f02ed2759; title=frame_0240s; asset_type=image; category=10_S老师IP资产; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; relative_source_path=fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; extension=.jpg; size_bytes=189018; source_last_write_time=2026-05-26T17:42:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=34f6720f02ed2759; title=frame_0240s; asset_type=image; category=10_S老师IP资产; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; relative_source_path=fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; extension=.jpg; size_bytes=189018; source_last_write_time=2026-05-26T17:42:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=34f6720f02ed2759; title=frame_0240s; asset_type=image; category=10_S老师IP资产; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; relative_source_path=fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg; extension=.jpg; size_bytes=189018; source_last_write_time=2026-05-26T17:42:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_aigc\fed_rate_wolf_bak\99_output\sentence_ip_v2\review_frames\frame_0240s.jpg`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要

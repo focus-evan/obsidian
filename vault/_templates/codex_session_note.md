@@ -3,6 +3,7 @@ type: codex-session
 domain:
 project:
 status:
+workflow_stage: execution
 source_session:
 source_rollout:
 artifact_path:

@@ -7,6 +7,14 @@ status: active
 tags:
   - system/rag
   - architecture
+workflow_stage: validated
+review_status: approved
+rag_status: evaluated
+publish_status: internal
+index_method: local-bm25-char-ngram
+indexed_at: 2026-09-23T16:27:39+08:00
+evaluated_at: 2026-09-23T16:27:40+08:00
+retrieval_hit_rate: 1.0000
 ---
 # RAG Architecture
 
@@ -25,6 +33,29 @@ tags:
   -> user/S老师 correction
   -> feedback writeback
 ```
+
+## 当前已运行的检索层
+
+本地第一阶段检索已经落地：
+
+- 脚本：`_rag/local_rag.py`
+- 方法：中文字符 n-gram + BM25 全文检索
+- 准入条件：`review_status: approved`
+- 索引产物：`_rag/index/knowledge_chunks.jsonl`
+- 评测用例：`_rag/evals/retrieval_cases.jsonl`
+- 最新评测：`_rag/evals/latest_retrieval_eval.md`
+
+运行方式：
+
+```powershell
+$py = "C:\Users\bzsj_\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe"
+& $py "D:\Evan\AI-KnowledgeHub\_rag\local_rag.py" --vault "D:\Evan\AI-KnowledgeHub" build
+& $py "D:\Evan\AI-KnowledgeHub\_rag\local_rag.py" --vault "D:\Evan\AI-KnowledgeHub" evaluate --cases "_rag/evals/retrieval_cases.jsonl"
+& $py "D:\Evan\AI-KnowledgeHub\_rag\local_rag.py" --vault "D:\Evan\AI-KnowledgeHub" search "查询问题" --top-k 5
+```
+
+> [!warning] 能力边界
+> 当前实现是真实可运行的本地全文检索和来源命中评测，但尚未启用语义向量。`rag_status: evaluated` 表示通过当前检索层评测，不代表向量嵌入已完成。
 
 ## 三层知识
 
@@ -54,6 +85,7 @@ tags:
 pending
 summarized
 chunked
+indexed
 embedded
 evaluated
 approved

@@ -10,6 +10,14 @@ properties:
     displayName: 领域
   confidence:
     displayName: 置信度
+  workflow_stage:
+    displayName: 阶段
+  review_status:
+    displayName: 审核
+  rag_status:
+    displayName: RAG
+  publish_status:
+    displayName: 发布
   source:
     displayName: 来源
   updated:
@@ -24,6 +32,10 @@ views:
       - file.name
       - domain
       - confidence
+      - workflow_stage
+      - review_status
+      - rag_status
+      - publish_status
       - status
       - updated
       - review_after

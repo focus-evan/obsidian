@@ -7,6 +7,14 @@ status: active
 tags:
   - system/feedback
   - system/rag
+workflow_stage: validated
+review_status: approved
+rag_status: evaluated
+publish_status: internal
+index_method: local-bm25-char-ngram
+indexed_at: 2026-09-23T16:27:39+08:00
+evaluated_at: 2026-09-23T16:27:40+08:00
+retrieval_hit_rate: 1.0000
 ---
 # Feedback Writeback
 

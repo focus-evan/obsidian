@@ -11,6 +11,7 @@ deployed: false
 next_action: Start future work from e5a8938 clean baseline.
 created: 2026-09-16
 updated: 2026-09-16
+workflow_stage: execution
 ---
 # mgnt-agent-front分支归一与测试站恢复 2026-09-16
 

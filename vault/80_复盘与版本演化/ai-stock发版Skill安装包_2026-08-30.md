@@ -11,6 +11,7 @@ deployed: false
 next_action: 处理根盘空间、lockfile、unhealthy backend 和脚本硬化
 created: 2026-08-31
 updated: 2026-08-31
+workflow_stage: execution
 ---
 # ai-stock 发版 Skill 安装包 2026-08-30
 

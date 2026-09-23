@@ -11,6 +11,7 @@ deployed: true
 next_action: Add server-side access control if private materials should not be public.
 created: 2026-09-10
 updated: 2026-09-10
+workflow_stage: execution
 ---
 # ai-stock-web研究知识库生产发布 2026-09-07
 

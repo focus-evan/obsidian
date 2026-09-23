@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'b5e8393e5443f252'
 asset_type: 'spreadsheet'
 category: '30_产业研究库'
@@ -17,16 +18,20 @@ tags:
   - 'asset/spreadsheet'
   - 'domain/industry'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # storyboard
 
 [[30_产业研究库/_imported/D_aigc/S老师_芯片韬定律/01_storyboard/storyboard.csv]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=b5e8393e5443f252; title=storyboard; asset_type=spreadsheet; category=30_产业研究库; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; relative_source_path=S老师_芯片韬定律\01_storyboard\storyboard.csv; extension=.csv; size_bytes=3738; source_last_write_time=2026-05-29T15:31:24; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=b5e8393e5443f252; title=storyboard; asset_type=spreadsheet; category=30_产业研究库; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; relative_source_path=S老师_芯片韬定律\01_storyboard\storyboard.csv; extension=.csv; size_bytes=3738; source_last_write_time=2026-05-29T15:31:24; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=b5e8393e5443f252; title=storyboard; asset_type=spreadsheet; category=30_产业研究库; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; relative_source_path=S老师_芯片韬定律\01_storyboard\storyboard.csv; extension=.csv; size_bytes=3738; source_last_write_time=2026-05-29T15:31:24; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=b5e8393e5443f252; title=storyboard; asset_type=spreadsheet; category=30_产业研究库; source_label=D_aigc; source_root=D:\aigc; original_path=D:\aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv; relative_source_path=S老师_芯片韬定律\01_storyboard\storyboard.csv; extension=.csv; size_bytes=3738; source_last_write_time=2026-05-29T15:31:24; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_aigc\S老师_芯片韬定律\01_storyboard\storyboard.csv`
+- 类型：`spreadsheet`
+- 分类：`30_产业研究库`
 - RAG 状态：待入库
 
 ## 摘要

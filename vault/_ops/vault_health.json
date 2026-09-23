@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-09-23T16:38:03",
+  "total_files": 7515,
+  "markdown_files": 3037,
+  "typed_notes": 2965,
+  "type_coverage_percent": 97.6,
+  "asset_notes": 2831,
+  "knowledge_objects": 17,
+  "approved_knowledge": 13,
+  "draft_knowledge": 4,
+  "rag_ready": 0,
+  "rag_indexed": 13,
+  "pending_actions": 9,
+  "pending_feedback": 1,
+  "publish_pending": 7,
+  "manifest_rows": 4513,
+  "manifest_pending": 4513,
+  "manifest_indexed": 0,
+  "review_due": 3,
+  "retrieval_eval_cases": 100,
+  "retrieval_hit_rate": 1.0
+}

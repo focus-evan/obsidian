@@ -1,5 +1,8 @@
 {
   "baseFontSize": 16,
   "showViewHeader": true,
-  "cssTheme": ""
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "knowledge-hub-dashboard"
+  ]
 }

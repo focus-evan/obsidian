@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '98846991f7a75aac'
 asset_type: 'spreadsheet'
 category: '50_业务运营增长'
@@ -17,16 +18,20 @@ tags:
   - 'asset/spreadsheet'
   - 'domain/operations'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S的宝藏世界【答疑直通车】
 
 [[50_业务运营增长/_imported/D_Evan_Files/files/S的宝藏世界【答疑直通车】.xlsx]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=98846991f7a75aac; title=S的宝藏世界【答疑直通车】; asset_type=spreadsheet; category=50_业务运营增长; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界【答疑直通车】.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\D_Evan_Files\files\S的宝藏世界【答疑直通车】.xlsx; relative_source_path=files\S的宝藏世界【答疑直通车】.xlsx; extension=.xlsx; size_bytes=361571; source_last_write_time=2026-04-22T14:57:34; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=98846991f7a75aac; title=S的宝藏世界【答疑直通车】; asset_type=spreadsheet; category=50_业务运营增长; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界【答疑直通车】.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\D_Evan_Files\files\S的宝藏世界【答疑直通车】.xlsx; relative_source_path=files\S的宝藏世界【答疑直通车】.xlsx; extension=.xlsx; size_bytes=361571; source_last_write_time=2026-04-22T14:57:34; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=98846991f7a75aac; title=S的宝藏世界【答疑直通车】; asset_type=spreadsheet; category=50_业务运营增长; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界【答疑直通车】.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\D_Evan_Files\files\S的宝藏世界【答疑直通车】.xlsx; relative_source_path=files\S的宝藏世界【答疑直通车】.xlsx; extension=.xlsx; size_bytes=361571; source_last_write_time=2026-04-22T14:57:34; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=98846991f7a75aac; title=S的宝藏世界【答疑直通车】; asset_type=spreadsheet; category=50_业务运营增长; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界【答疑直通车】.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\D_Evan_Files\files\S的宝藏世界【答疑直通车】.xlsx; relative_source_path=files\S的宝藏世界【答疑直通车】.xlsx; extension=.xlsx; size_bytes=361571; source_last_write_time=2026-04-22T14:57:34; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\files\S的宝藏世界【答疑直通车】.xlsx`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\D_Evan_Files\files\S的宝藏世界【答疑直通车】.xlsx`
+- 类型：`spreadsheet`
+- 分类：`50_业务运营增长`
 - RAG 状态：待入库
 
 ## 摘要

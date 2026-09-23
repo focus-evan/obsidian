@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'd46ea447bfc1f662'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S01_C23_IMG_spacex_nrol_85
 
 ![[10_S老师IP资产/_imported/D_Evan_video/spacex/01_hook_ipo/S01_C23_IMG_spacex_nrol_85.jpg]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=d46ea447bfc1f662; title=S01_C23_IMG_spacex_nrol_85; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; relative_source_path=spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; extension=.jpg; size_bytes=1857498; source_last_write_time=2026-05-19T18:25:11; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=d46ea447bfc1f662; title=S01_C23_IMG_spacex_nrol_85; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; relative_source_path=spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; extension=.jpg; size_bytes=1857498; source_last_write_time=2026-05-19T18:25:11; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=d46ea447bfc1f662; title=S01_C23_IMG_spacex_nrol_85; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; relative_source_path=spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; extension=.jpg; size_bytes=1857498; source_last_write_time=2026-05-19T18:25:11; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=d46ea447bfc1f662; title=S01_C23_IMG_spacex_nrol_85; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; relative_source_path=spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg; extension=.jpg; size_bytes=1857498; source_last_write_time=2026-05-19T18:25:11; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\01_hook_ipo\S01_C23_IMG_spacex_nrol_85.jpg`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要

@@ -11,6 +11,7 @@ deployed: true
 next_action: Keep distinguishing regression gate pass from full baseline pass.
 created: 2026-09-10
 updated: 2026-09-10
+workflow_stage: execution
 ---
 # mgnt-agent-front演示脱敏与S100发布 2026-09-07
 

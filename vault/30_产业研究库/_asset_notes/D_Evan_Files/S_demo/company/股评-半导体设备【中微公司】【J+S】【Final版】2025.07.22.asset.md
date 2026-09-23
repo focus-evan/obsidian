@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '91d3d20220971175'
 asset_type: 'presentation'
 category: '30_产业研究库'
@@ -17,16 +18,20 @@ tags:
   - 'asset/presentation'
   - 'domain/industry'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # 股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22
 
 [[30_产业研究库/_imported/D_Evan_Files/S_demo/company/股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=91d3d20220971175; title=股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22; asset_type=presentation; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; relative_source_path=S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; extension=.pptx; size_bytes=71485822; source_last_write_time=2025-07-22T18:45:28; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=91d3d20220971175; title=股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22; asset_type=presentation; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; relative_source_path=S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; extension=.pptx; size_bytes=71485822; source_last_write_time=2025-07-22T18:45:28; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=91d3d20220971175; title=股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22; asset_type=presentation; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; relative_source_path=S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; extension=.pptx; size_bytes=71485822; source_last_write_time=2025-07-22T18:45:28; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=91d3d20220971175; title=股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22; asset_type=presentation; category=30_产业研究库; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; hub_path=D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; relative_source_path=S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx; extension=.pptx; size_bytes=71485822; source_last_write_time=2025-07-22T18:45:28; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\30_产业研究库\_imported\D_Evan_Files\S_demo\company\股评-半导体设备【中微公司】【J+S】【Final版】2025.07.22.pptx`
+- 类型：`presentation`
+- 分类：`30_产业研究库`
 - RAG 状态：待入库
 
 ## 摘要

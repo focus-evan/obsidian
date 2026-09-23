@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'db961b73996bb76a'
 asset_type: 'document'
 category: '80_复盘与版本演化'
@@ -17,16 +18,20 @@ tags:
   - 'asset/document'
   - 'domain/review'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S的宝藏世界AI战略总结与优化
 
 [[80_复盘与版本演化/_imported/D_Evan_Files/files/S的宝藏世界AI战略总结与优化.pdf]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=db961b73996bb76a; title=S的宝藏世界AI战略总结与优化; asset_type=document; category=80_复盘与版本演化; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界AI战略总结与优化.pdf; hub_path=D:\Evan\AI-KnowledgeHub\80_复盘与版本演化\_imported\D_Evan_Files\files\S的宝藏世界AI战略总结与优化.pdf; relative_source_path=files\S的宝藏世界AI战略总结与优化.pdf; extension=.pdf; size_bytes=1809951; source_last_write_time=2026-05-07T10:45:08; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=db961b73996bb76a; title=S的宝藏世界AI战略总结与优化; asset_type=document; category=80_复盘与版本演化; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界AI战略总结与优化.pdf; hub_path=D:\Evan\AI-KnowledgeHub\80_复盘与版本演化\_imported\D_Evan_Files\files\S的宝藏世界AI战略总结与优化.pdf; relative_source_path=files\S的宝藏世界AI战略总结与优化.pdf; extension=.pdf; size_bytes=1809951; source_last_write_time=2026-05-07T10:45:08; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=db961b73996bb76a; title=S的宝藏世界AI战略总结与优化; asset_type=document; category=80_复盘与版本演化; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界AI战略总结与优化.pdf; hub_path=D:\Evan\AI-KnowledgeHub\80_复盘与版本演化\_imported\D_Evan_Files\files\S的宝藏世界AI战略总结与优化.pdf; relative_source_path=files\S的宝藏世界AI战略总结与优化.pdf; extension=.pdf; size_bytes=1809951; source_last_write_time=2026-05-07T10:45:08; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=db961b73996bb76a; title=S的宝藏世界AI战略总结与优化; asset_type=document; category=80_复盘与版本演化; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\files\S的宝藏世界AI战略总结与优化.pdf; hub_path=D:\Evan\AI-KnowledgeHub\80_复盘与版本演化\_imported\D_Evan_Files\files\S的宝藏世界AI战略总结与优化.pdf; relative_source_path=files\S的宝藏世界AI战略总结与优化.pdf; extension=.pdf; size_bytes=1809951; source_last_write_time=2026-05-07T10:45:08; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\files\S的宝藏世界AI战略总结与优化.pdf`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\80_复盘与版本演化\_imported\D_Evan_Files\files\S的宝藏世界AI战略总结与优化.pdf`
+- 类型：`document`
+- 分类：`80_复盘与版本演化`
 - RAG 状态：待入库
 
 ## 摘要

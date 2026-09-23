@@ -1,0 +1,79 @@
+filters:
+  or:
+    - 'type == "report-asset"'
+    - 'type == "feedback"'
+properties:
+  domain:
+    displayName: 领域
+  project:
+    displayName: 项目
+  status:
+    displayName: 状态
+  publish_status:
+    displayName: 发布
+  published_url:
+    displayName: 线上链接
+  validation:
+    displayName: 验证
+  content_hash:
+    displayName: 内容哈希
+  feedback_status:
+    displayName: 反馈
+  error_type:
+    displayName: 错误类型
+  resolution_status:
+    displayName: 修复状态
+  eval_added:
+    displayName: 已进评测集
+  updated:
+    displayName: 更新
+views:
+  - type: table
+    name: "报告待发布核验"
+    filters:
+      and:
+        - 'type == "report-asset"'
+        - 'publish_status != "published"'
+        - 'publish_status != "unchanged"'
+        - 'publish_status != "not-required"'
+    limit: 100
+    order:
+      - file.name
+      - project
+      - status
+      - publish_status
+      - validation
+      - published_url
+      - content_hash
+      - updated
+  - type: table
+    name: "反馈待处理"
+    filters:
+      and:
+        - 'type == "feedback"'
+        - 'resolution_status != "resolved"'
+    limit: 100
+    order:
+      - file.name
+      - domain
+      - error_type
+      - status
+      - resolution_status
+      - eval_added
+      - updated
+  - type: table
+    name: "已完成闭环"
+    filters:
+      or:
+        - 'publish_status == "published"'
+        - 'publish_status == "unchanged"'
+        - 'resolution_status == "resolved"'
+    limit: 100
+    order:
+      - file.name
+      - type
+      - publish_status
+      - resolution_status
+      - eval_added
+      - updated
+

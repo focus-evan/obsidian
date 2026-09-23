@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'c62c4bf4190fc1cf'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # test_colorkey_0045
 
 ![[10_S老师IP资产/_imported/D_Evan_video/zhuyiming/output/ip_v6_work/test_colorkey_0045.png]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=c62c4bf4190fc1cf; title=test_colorkey_0045; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; relative_source_path=zhuyiming\output\ip_v6_work\test_colorkey_0045.png; extension=.png; size_bytes=2855991; source_last_write_time=2026-05-25T19:35:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=c62c4bf4190fc1cf; title=test_colorkey_0045; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; relative_source_path=zhuyiming\output\ip_v6_work\test_colorkey_0045.png; extension=.png; size_bytes=2855991; source_last_write_time=2026-05-25T19:35:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=c62c4bf4190fc1cf; title=test_colorkey_0045; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; relative_source_path=zhuyiming\output\ip_v6_work\test_colorkey_0045.png; extension=.png; size_bytes=2855991; source_last_write_time=2026-05-25T19:35:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=c62c4bf4190fc1cf; title=test_colorkey_0045; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png; relative_source_path=zhuyiming\output\ip_v6_work\test_colorkey_0045.png; extension=.png; size_bytes=2855991; source_last_write_time=2026-05-25T19:35:20; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\ip_v6_work\test_colorkey_0045.png`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要

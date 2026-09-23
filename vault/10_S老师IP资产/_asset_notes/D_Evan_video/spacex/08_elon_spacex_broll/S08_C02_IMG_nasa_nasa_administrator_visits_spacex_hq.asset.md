@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'b1bdf5a240bf394e'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq
 
 ![[10_S老师IP资产/_imported/D_Evan_video/spacex/08_elon_spacex_broll/S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=b1bdf5a240bf394e; title=S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; relative_source_path=spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; extension=.jpg; size_bytes=146812; source_last_write_time=2026-05-19T18:16:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=b1bdf5a240bf394e; title=S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; relative_source_path=spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; extension=.jpg; size_bytes=146812; source_last_write_time=2026-05-19T18:16:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=b1bdf5a240bf394e; title=S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; relative_source_path=spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; extension=.jpg; size_bytes=146812; source_last_write_time=2026-05-19T18:16:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=b1bdf5a240bf394e; title=S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; relative_source_path=spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg; extension=.jpg; size_bytes=146812; source_last_write_time=2026-05-19T18:16:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\08_elon_spacex_broll\S08_C02_IMG_nasa_nasa_administrator_visits_spacex_hq.jpg`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要

@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '1caa97f396e49bb8'
 asset_type: 'spreadsheet'
 category: '70_数据与系统'
@@ -17,16 +18,20 @@ tags:
   - 'asset/spreadsheet'
   - 'domain/data-system'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # data_schema
 
 [[70_数据与系统/_imported/D_Evan_Files/S_demo/五张表/data_schema.xlsx]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=1caa97f396e49bb8; title=data_schema; asset_type=spreadsheet; category=70_数据与系统; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\五张表\data_schema.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\70_数据与系统\_imported\D_Evan_Files\S_demo\五张表\data_schema.xlsx; relative_source_path=S_demo\五张表\data_schema.xlsx; extension=.xlsx; size_bytes=39779; source_last_write_time=2025-12-02T16:24:44; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=1caa97f396e49bb8; title=data_schema; asset_type=spreadsheet; category=70_数据与系统; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\五张表\data_schema.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\70_数据与系统\_imported\D_Evan_Files\S_demo\五张表\data_schema.xlsx; relative_source_path=S_demo\五张表\data_schema.xlsx; extension=.xlsx; size_bytes=39779; source_last_write_time=2025-12-02T16:24:44; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=1caa97f396e49bb8; title=data_schema; asset_type=spreadsheet; category=70_数据与系统; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\五张表\data_schema.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\70_数据与系统\_imported\D_Evan_Files\S_demo\五张表\data_schema.xlsx; relative_source_path=S_demo\五张表\data_schema.xlsx; extension=.xlsx; size_bytes=39779; source_last_write_time=2025-12-02T16:24:44; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=1caa97f396e49bb8; title=data_schema; asset_type=spreadsheet; category=70_数据与系统; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\五张表\data_schema.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\70_数据与系统\_imported\D_Evan_Files\S_demo\五张表\data_schema.xlsx; relative_source_path=S_demo\五张表\data_schema.xlsx; extension=.xlsx; size_bytes=39779; source_last_write_time=2025-12-02T16:24:44; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\S_demo\五张表\data_schema.xlsx`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\70_数据与系统\_imported\D_Evan_Files\S_demo\五张表\data_schema.xlsx`
+- 类型：`spreadsheet`
+- 分类：`70_数据与系统`
 - RAG 状态：待入库
 
 ## 摘要

@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'b2bd61decaf895c5'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S09_C01_IMG_nasa_insight_on_the_surface_of_mars
 
 ![[10_S老师IP资产/_imported/D_Evan_video/spacex/09_concept_mars_network_finance/S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=b2bd61decaf895c5; title=S09_C01_IMG_nasa_insight_on_the_surface_of_mars; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; relative_source_path=spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; extension=.jpg; size_bytes=269323; source_last_write_time=2026-05-19T18:20:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=b2bd61decaf895c5; title=S09_C01_IMG_nasa_insight_on_the_surface_of_mars; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; relative_source_path=spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; extension=.jpg; size_bytes=269323; source_last_write_time=2026-05-19T18:20:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=b2bd61decaf895c5; title=S09_C01_IMG_nasa_insight_on_the_surface_of_mars; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; relative_source_path=spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; extension=.jpg; size_bytes=269323; source_last_write_time=2026-05-19T18:20:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=b2bd61decaf895c5; title=S09_C01_IMG_nasa_insight_on_the_surface_of_mars; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; relative_source_path=spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg; extension=.jpg; size_bytes=269323; source_last_write_time=2026-05-19T18:20:04; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\09_concept_mars_network_finance\S09_C01_IMG_nasa_insight_on_the_surface_of_mars.jpg`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要

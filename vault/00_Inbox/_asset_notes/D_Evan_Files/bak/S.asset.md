@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '09244d1ebe73d0b8'
 asset_type: 'document'
 category: '00_Inbox'
@@ -17,16 +18,20 @@ tags:
   - 'asset/document'
   - 'domain/inbox'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S
 
 [[00_Inbox/_imported/D_Evan_Files/bak/S.xmind]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=09244d1ebe73d0b8; title=S; asset_type=document; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\bak\S.xmind; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\bak\S.xmind; relative_source_path=bak\S.xmind; extension=.xmind; size_bytes=177578; source_last_write_time=2025-08-05T11:36:01; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=09244d1ebe73d0b8; title=S; asset_type=document; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\bak\S.xmind; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\bak\S.xmind; relative_source_path=bak\S.xmind; extension=.xmind; size_bytes=177578; source_last_write_time=2025-08-05T11:36:01; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=09244d1ebe73d0b8; title=S; asset_type=document; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\bak\S.xmind; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\bak\S.xmind; relative_source_path=bak\S.xmind; extension=.xmind; size_bytes=177578; source_last_write_time=2025-08-05T11:36:01; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=09244d1ebe73d0b8; title=S; asset_type=document; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\bak\S.xmind; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\bak\S.xmind; relative_source_path=bak\S.xmind; extension=.xmind; size_bytes=177578; source_last_write_time=2025-08-05T11:36:01; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\bak\S.xmind`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\bak\S.xmind`
+- 类型：`document`
+- 分类：`00_Inbox`
 - RAG 状态：待入库
 
 ## 摘要

@@ -1,7 +1,7 @@
 ---
 type: vault-home
 domain: knowledge-hub
-version: 0.1
+version: 0.2
 created: 2026-05-30
 status: active
 tags:
@@ -12,6 +12,9 @@ tags:
 # AI-KnowledgeHub
 
 这是公司 AI 金融 IP 与个人投研系统的 Obsidian 主知识库。
+
+> [!tip] 统一入口
+> 打开 [[00_开始这里]]。它会把行动、资产入库、知识审核、RAG、发布和反馈串成一条完整路径。
 
 ## 使用原则
 
@@ -24,6 +27,9 @@ tags:
 
 ## 入口
 
+- [[00_开始这里]]
+- [[00_Dashboard/00_操作台]]
+- [[00_Dashboard/知识库健康度]]
 - [[00_Index]]
 - [[10_S老师IP资产/00_MOC_S老师IP资产]]
 - [[20_投研方法论/00_MOC_投研方法论]]

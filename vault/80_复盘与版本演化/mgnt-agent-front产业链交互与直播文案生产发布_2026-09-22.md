@@ -15,6 +15,7 @@ tags:
   - codex/session
   - frontend/production
   - mgnt-agent-front
+workflow_stage: execution
 ---
 # mgnt-agent-front产业链交互与直播文案生产发布
 

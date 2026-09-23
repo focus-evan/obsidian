@@ -7,6 +7,14 @@ status: active
 tags:
   - runbook
   - system/operations
+workflow_stage: validated
+review_status: approved
+rag_status: evaluated
+publish_status: internal
+index_method: local-bm25-char-ngram
+indexed_at: 2026-09-23T16:27:39+08:00
+evaluated_at: 2026-09-23T16:27:40+08:00
+retrieval_hit_rate: 1.0000
 ---
 # Operations Runbook
 
@@ -17,6 +25,12 @@ tags:
 ```text
 D:/Evan/AI-KnowledgeHub
 ```
+
+打开后优先进入：
+
+- `00_开始这里.md`
+- `00_Dashboard/00_操作台.md`
+- `00_Dashboard/知识库健康度.md`
 
 ## 增量导入
 
@@ -41,6 +55,16 @@ powershell -ExecutionPolicy Bypass -File "D:\Evan\AI-KnowledgeHub\_ops\scripts\i
 3. 摘要卡片补充标签、来源、适用场景。
 4. 审核后将 `status` 从 `draft` 改为 `approved`。
 5. RAG 入库后将 manifest 中的 `rag_status` 更新为 `embedded` 或 `approved`。
+
+完整状态规则见：
+
+- [[_ops/知识闭环运行规则]]
+
+刷新健康度：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "D:\Evan\AI-KnowledgeHub\_ops\scripts\update_vault_health.ps1"
+```
 
 ## 每周维护
 

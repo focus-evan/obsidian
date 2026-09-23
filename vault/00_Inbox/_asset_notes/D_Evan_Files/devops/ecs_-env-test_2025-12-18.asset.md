@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'aa67e7bacc17329d'
 asset_type: 'spreadsheet'
 category: '00_Inbox'
@@ -17,16 +18,20 @@ tags:
   - 'asset/spreadsheet'
   - 'domain/inbox'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # ecs_-env-test_2025-12-18
 
 [[00_Inbox/_imported/D_Evan_Files/devops/ecs_-env-test_2025-12-18.csv]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=aa67e7bacc17329d; title=ecs_-env-test_2025-12-18; asset_type=spreadsheet; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_-env-test_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\devops\ecs_-env-test_2025-12-18.csv; relative_source_path=devops\ecs_-env-test_2025-12-18.csv; extension=.csv; size_bytes=10881; source_last_write_time=2025-12-18T10:35:38; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=aa67e7bacc17329d; title=ecs_-env-test_2025-12-18; asset_type=spreadsheet; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_-env-test_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\devops\ecs_-env-test_2025-12-18.csv; relative_source_path=devops\ecs_-env-test_2025-12-18.csv; extension=.csv; size_bytes=10881; source_last_write_time=2025-12-18T10:35:38; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=aa67e7bacc17329d; title=ecs_-env-test_2025-12-18; asset_type=spreadsheet; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_-env-test_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\devops\ecs_-env-test_2025-12-18.csv; relative_source_path=devops\ecs_-env-test_2025-12-18.csv; extension=.csv; size_bytes=10881; source_last_write_time=2025-12-18T10:35:38; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=aa67e7bacc17329d; title=ecs_-env-test_2025-12-18; asset_type=spreadsheet; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\devops\ecs_-env-test_2025-12-18.csv; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\devops\ecs_-env-test_2025-12-18.csv; relative_source_path=devops\ecs_-env-test_2025-12-18.csv; extension=.csv; size_bytes=10881; source_last_write_time=2025-12-18T10:35:38; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\devops\ecs_-env-test_2025-12-18.csv`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\devops\ecs_-env-test_2025-12-18.csv`
+- 类型：`spreadsheet`
+- 分类：`00_Inbox`
 - RAG 状态：待入库
 
 ## 摘要

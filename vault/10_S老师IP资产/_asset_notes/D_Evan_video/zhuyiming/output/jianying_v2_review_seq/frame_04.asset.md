@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'ae26f222ce417d6c'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # frame_04
 
 ![[10_S老师IP资产/_imported/D_Evan_video/zhuyiming/output/jianying_v2_review_seq/frame_04.jpg]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=ae26f222ce417d6c; title=frame_04; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; relative_source_path=zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; extension=.jpg; size_bytes=11170; source_last_write_time=2026-05-23T22:34:55; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=ae26f222ce417d6c; title=frame_04; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; relative_source_path=zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; extension=.jpg; size_bytes=11170; source_last_write_time=2026-05-23T22:34:55; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=ae26f222ce417d6c; title=frame_04; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; relative_source_path=zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; extension=.jpg; size_bytes=11170; source_last_write_time=2026-05-23T22:34:55; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=ae26f222ce417d6c; title=frame_04; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; relative_source_path=zhuyiming\output\jianying_v2_review_seq\frame_04.jpg; extension=.jpg; size_bytes=11170; source_last_write_time=2026-05-23T22:34:55; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\zhuyiming\output\jianying_v2_review_seq\frame_04.jpg`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要

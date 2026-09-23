@@ -1,23 +1,31 @@
 ---
 type: moc
 domain: knowledge-hub
-version: 0.1
+version: 0.2
 created: 2026-05-30
 status: active
 tags:
   - hub/index
   - moc/root
 ---
-# 00 Index
+# 完整目录
+
+> [!tip] 推荐入口
+> 日常使用请从 [[00_开始这里|AI知识中枢]] 开始；这里保留完整目录和系统入口。
 
 ## 操作台
 
+- [[00_开始这里|AI知识中枢]]
 - [[00_Dashboard/00_操作台]]
+- [[00_Dashboard/知识库健康度]]
 - [[00_Dashboard/今日待办.base]]
 - [[00_Dashboard/Codex任务看板.base]]
 - [[00_Dashboard/报告资产库.base]]
 - [[00_Dashboard/工程发布看板.base]]
 - [[00_Dashboard/知识卡片库.base]]
+- [[00_Dashboard/资产入库队列.base]]
+- [[00_Dashboard/知识闭环.base]]
+- [[00_Dashboard/发布与反馈.base]]
 
 ## 公司业务飞轮
 
@@ -38,6 +46,7 @@ tags:
 - [[_rag/RAG_Architecture]]
 - [[_rag/Feedback_Writeback]]
 - [[_rag/Evaluation_Set]]
+- [[_ops/知识闭环运行规则]]
 - [[_ops/Operations_Runbook]]
 
 ## 常用清单

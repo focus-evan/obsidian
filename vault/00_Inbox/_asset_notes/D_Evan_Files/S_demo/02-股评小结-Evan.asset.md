@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '73d3b9e1c817ec23'
 asset_type: 'presentation'
 category: '00_Inbox'
@@ -17,16 +18,20 @@ tags:
   - 'asset/presentation'
   - 'domain/inbox'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # 02-股评小结-Evan
 
 [[00_Inbox/_imported/D_Evan_Files/S_demo/02-股评小结-Evan.pptx]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=73d3b9e1c817ec23; title=02-股评小结-Evan; asset_type=presentation; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\02-股评小结-Evan.pptx; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\S_demo\02-股评小结-Evan.pptx; relative_source_path=S_demo\02-股评小结-Evan.pptx; extension=.pptx; size_bytes=2383134; source_last_write_time=2025-10-27T16:01:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=73d3b9e1c817ec23; title=02-股评小结-Evan; asset_type=presentation; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\02-股评小结-Evan.pptx; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\S_demo\02-股评小结-Evan.pptx; relative_source_path=S_demo\02-股评小结-Evan.pptx; extension=.pptx; size_bytes=2383134; source_last_write_time=2025-10-27T16:01:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=73d3b9e1c817ec23; title=02-股评小结-Evan; asset_type=presentation; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\02-股评小结-Evan.pptx; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\S_demo\02-股评小结-Evan.pptx; relative_source_path=S_demo\02-股评小结-Evan.pptx; extension=.pptx; size_bytes=2383134; source_last_write_time=2025-10-27T16:01:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=73d3b9e1c817ec23; title=02-股评小结-Evan; asset_type=presentation; category=00_Inbox; source_label=D_Evan_Files; source_root=D:\Evan\Files; original_path=D:\Evan\Files\S_demo\02-股评小结-Evan.pptx; hub_path=D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\S_demo\02-股评小结-Evan.pptx; relative_source_path=S_demo\02-股评小结-Evan.pptx; extension=.pptx; size_bytes=2383134; source_last_write_time=2025-10-27T16:01:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\Files\S_demo\02-股评小结-Evan.pptx`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\00_Inbox\_imported\D_Evan_Files\S_demo\02-股评小结-Evan.pptx`
+- 类型：`presentation`
+- 分类：`00_Inbox`
 - RAG 状态：待入库
 
 ## 摘要

@@ -1,0 +1,87 @@
+filters:
+  or:
+    - 'type == "knowledge-note"'
+    - 'type == "process"'
+    - 'type == "runbook"'
+    - 'type == "architecture"'
+    - 'type == "investment-framework"'
+properties:
+  domain:
+    displayName: 领域
+  workflow_stage:
+    displayName: 阶段
+  review_status:
+    displayName: 审核
+  confidence:
+    displayName: 置信度
+  evidence_level:
+    displayName: 证据等级
+  rag_status:
+    displayName: RAG
+  publish_status:
+    displayName: 发布
+  review_after:
+    displayName: 复查日期
+  updated:
+    displayName: 更新
+  source:
+    displayName: 来源
+views:
+  - type: table
+    name: "待审核"
+    filters:
+      and:
+        - 'review_status != "approved"'
+    limit: 100
+    order:
+      - file.name
+      - domain
+      - workflow_stage
+      - review_status
+      - confidence
+      - evidence_level
+      - source
+      - updated
+    sort:
+      - property: updated
+        direction: DESC
+  - type: table
+    name: "已批准待RAG"
+    filters:
+      and:
+        - 'review_status == "approved"'
+        - 'rag_status != "embedded"'
+        - 'rag_status != "evaluated"'
+        - 'rag_status != "approved"'
+    limit: 100
+    order:
+      - file.name
+      - domain
+      - confidence
+      - rag_status
+      - source
+      - updated
+  - type: table
+    name: "复查日程"
+    order:
+      - file.name
+      - domain
+      - review_after
+      - confidence
+      - review_status
+      - updated
+    sort:
+      - property: review_after
+        direction: ASC
+  - type: table
+    name: "全部知识对象"
+    limit: 200
+    order:
+      - file.name
+      - domain
+      - workflow_stage
+      - review_status
+      - rag_status
+      - publish_status
+      - updated
+

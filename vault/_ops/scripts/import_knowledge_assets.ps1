@@ -7,6 +7,20 @@ $ErrorActionPreference = "Stop"
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 $importedAt = (Get-Date).ToString("s")
+$manifestCsv = Join-Path $HubRoot "_ops\asset_manifest.csv"
+$manifestJsonl = Join-Path $HubRoot "_ops\asset_manifest.jsonl"
+$errorsCsv = Join-Path $HubRoot "_ops\import_errors.csv"
+
+# Preserve workflow state across incremental imports. Importing source files must
+# never reset an already reviewed asset to pending or erase feedback decisions.
+$existingRecordsById = @{}
+if (Test-Path -LiteralPath $manifestCsv) {
+    foreach ($existingRecord in (Import-Csv -LiteralPath $manifestCsv)) {
+        if ($existingRecord.asset_id) {
+            $existingRecordsById[$existingRecord.asset_id] = $existingRecord
+        }
+    }
+}
 
 $sourceSpecs = @(
     @{ Root = "D:\Evan\Files"; Label = "D_Evan_Files"; IncludeImages = $false },
@@ -180,6 +194,7 @@ function New-AssetNoteText {
 
     return @"
 ---
+type: 'asset-note'
 asset_id: '$($Record.asset_id)'
 asset_type: '$($Record.asset_type)'
 category: '$($Record.category)'
@@ -191,9 +206,13 @@ extension: '$($Record.extension)'
 size_bytes: $($Record.size_bytes)
 source_last_write_time: '$($Record.source_last_write_time)'
 imported_at: '$($Record.imported_at)'
-rag_status: 'pending'
-feedback_status: 'none'
-confidential_level: 'internal'
+status: 'imported'
+workflow_stage: 'intake'
+summary_status: 'pending'
+review_status: 'pending'
+rag_status: '$($Record.rag_status)'
+feedback_status: '$($Record.feedback_status)'
+confidential_level: '$($Record.confidential_level)'
 tags:
   - '$assetTag'
   - '$domainTag'
@@ -204,10 +223,10 @@ tags:
 $embedLine
 
 ## 资产信息
-- 原始路径：`$($Record.original_path)`
-- 知识库路径：`$($Record.hub_path)`
-- 类型：`$($Record.asset_type)`
-- 分类：`$($Record.category)`
+- 原始路径：$($Record.original_path)
+- 知识库路径：$($Record.hub_path)
+- 类型：$($Record.asset_type)
+- 分类：$($Record.category)
 - RAG 状态：待入库
 
 ## 摘要
@@ -277,6 +296,14 @@ foreach ($spec in $sourceSpecs) {
             }
 
             $assetId = Get-PathId -Text "$($file.FullName)|$($file.Length)|$($file.LastWriteTimeUtc.Ticks)"
+            $previousRecord = $null
+            if ($existingRecordsById.ContainsKey($assetId)) {
+                $previousRecord = $existingRecordsById[$assetId]
+            }
+            $recordImportedAt = if ($previousRecord -and $previousRecord.imported_at) { $previousRecord.imported_at } else { $importedAt }
+            $recordRagStatus = if ($previousRecord -and $previousRecord.rag_status) { $previousRecord.rag_status } else { "pending" }
+            $recordFeedbackStatus = if ($previousRecord -and $previousRecord.feedback_status) { $previousRecord.feedback_status } else { "none" }
+            $recordConfidentialLevel = if ($previousRecord -and $previousRecord.confidential_level) { $previousRecord.confidential_level } else { "internal" }
             $record = [pscustomobject]@{
                 asset_id = $assetId
                 title = $file.BaseName
@@ -290,10 +317,10 @@ foreach ($spec in $sourceSpecs) {
                 extension = $ext
                 size_bytes = $file.Length
                 source_last_write_time = $file.LastWriteTime.ToString("s")
-                imported_at = $importedAt
-                rag_status = "pending"
-                feedback_status = "none"
-                confidential_level = "internal"
+                imported_at = $recordImportedAt
+                rag_status = $recordRagStatus
+                feedback_status = $recordFeedbackStatus
+                confidential_level = $recordConfidentialLevel
             }
             $records.Add($record)
 
@@ -306,7 +333,9 @@ foreach ($spec in $sourceSpecs) {
                 $notePath = Join-Path $noteDir ("$($file.BaseName).asset.md")
                 $vaultRel = Get-RelativePathFromRoot -Root $HubRoot -Path $destPath
                 $vaultRel = $vaultRel -replace "\\", "/"
-                if (-not $DryRun) {
+                # Asset notes become manually curated knowledge objects after
+                # creation. Never overwrite an existing note during re-import.
+                if (-not $DryRun -and -not (Test-Path -LiteralPath $notePath)) {
                     $noteText = New-AssetNoteText -Record $record -VaultRelativePath $vaultRel
                     Set-Content -LiteralPath $notePath -Value $noteText -Encoding UTF8
                 }
@@ -320,10 +349,6 @@ foreach ($spec in $sourceSpecs) {
         }
     }
 }
-
-$manifestCsv = Join-Path $HubRoot "_ops\asset_manifest.csv"
-$manifestJsonl = Join-Path $HubRoot "_ops\asset_manifest.jsonl"
-$errorsCsv = Join-Path $HubRoot "_ops\import_errors.csv"
 
 if (-not $DryRun) {
     $records | Sort-Object category, source_label, original_path | Export-Csv -LiteralPath $manifestCsv -NoTypeInformation -Encoding UTF8

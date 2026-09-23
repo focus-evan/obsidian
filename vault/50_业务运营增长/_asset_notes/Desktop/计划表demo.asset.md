@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: '95e58fad23e23b56'
 asset_type: 'spreadsheet'
 category: '50_业务运营增长'
@@ -17,16 +18,20 @@ tags:
   - 'asset/spreadsheet'
   - 'domain/operations'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # 计划表demo
 
 [[50_业务运营增长/_imported/Desktop/计划表demo.xlsx]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=95e58fad23e23b56; title=计划表demo; asset_type=spreadsheet; category=50_业务运营增长; source_label=Desktop; source_root=C:\Users\bzsj_\Desktop; original_path=C:\Users\bzsj_\Desktop\计划表demo.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\Desktop\计划表demo.xlsx; relative_source_path=计划表demo.xlsx; extension=.xlsx; size_bytes=10411; source_last_write_time=2026-05-14T10:33:27; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=95e58fad23e23b56; title=计划表demo; asset_type=spreadsheet; category=50_业务运营增长; source_label=Desktop; source_root=C:\Users\bzsj_\Desktop; original_path=C:\Users\bzsj_\Desktop\计划表demo.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\Desktop\计划表demo.xlsx; relative_source_path=计划表demo.xlsx; extension=.xlsx; size_bytes=10411; source_last_write_time=2026-05-14T10:33:27; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=95e58fad23e23b56; title=计划表demo; asset_type=spreadsheet; category=50_业务运营增长; source_label=Desktop; source_root=C:\Users\bzsj_\Desktop; original_path=C:\Users\bzsj_\Desktop\计划表demo.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\Desktop\计划表demo.xlsx; relative_source_path=计划表demo.xlsx; extension=.xlsx; size_bytes=10411; source_last_write_time=2026-05-14T10:33:27; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=95e58fad23e23b56; title=计划表demo; asset_type=spreadsheet; category=50_业务运营增长; source_label=Desktop; source_root=C:\Users\bzsj_\Desktop; original_path=C:\Users\bzsj_\Desktop\计划表demo.xlsx; hub_path=D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\Desktop\计划表demo.xlsx; relative_source_path=计划表demo.xlsx; extension=.xlsx; size_bytes=10411; source_last_write_time=2026-05-14T10:33:27; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`C:\Users\bzsj_\Desktop\计划表demo.xlsx`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\50_业务运营增长\_imported\Desktop\计划表demo.xlsx`
+- 类型：`spreadsheet`
+- 分类：`50_业务运营增长`
 - RAG 状态：待入库
 
 ## 摘要

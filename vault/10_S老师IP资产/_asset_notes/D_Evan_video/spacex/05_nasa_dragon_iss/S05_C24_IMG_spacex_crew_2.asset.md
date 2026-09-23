@@ -1,4 +1,5 @@
-﻿---
+---
+type: asset-note
 asset_id: 'b763722ec5cd0f67'
 asset_type: 'image'
 category: '10_S老师IP资产'
@@ -17,16 +18,20 @@ tags:
   - 'asset/image'
   - 'domain/ip'
   - 'status/pending-summary'
+status: imported
+workflow_stage: intake
+summary_status: pending
+review_status: pending
 ---
 # S05_C24_IMG_spacex_crew_2
 
 ![[10_S老师IP资产/_imported/D_Evan_video/spacex/05_nasa_dragon_iss/S05_C24_IMG_spacex_crew_2.jpg]]
 
 ## 资产信息
-- 原始路径：$(@{asset_id=b763722ec5cd0f67; title=S05_C24_IMG_spacex_crew_2; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; relative_source_path=spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; extension=.jpg; size_bytes=1959812; source_last_write_time=2026-05-19T18:25:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.original_path)
-- 知识库路径：$(@{asset_id=b763722ec5cd0f67; title=S05_C24_IMG_spacex_crew_2; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; relative_source_path=spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; extension=.jpg; size_bytes=1959812; source_last_write_time=2026-05-19T18:25:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.hub_path)
-- 类型：$(@{asset_id=b763722ec5cd0f67; title=S05_C24_IMG_spacex_crew_2; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; relative_source_path=spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; extension=.jpg; size_bytes=1959812; source_last_write_time=2026-05-19T18:25:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.asset_type)
-- 分类：$(@{asset_id=b763722ec5cd0f67; title=S05_C24_IMG_spacex_crew_2; asset_type=image; category=10_S老师IP资产; source_label=D_Evan_video; source_root=D:\Evan\video; original_path=D:\Evan\video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; hub_path=D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; relative_source_path=spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg; extension=.jpg; size_bytes=1959812; source_last_write_time=2026-05-19T18:25:16; imported_at=2026-05-30T10:20:16; rag_status=pending; feedback_status=none; confidential_level=internal}.category)
+- 原始路径：`D:\Evan\video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg`
+- 知识库路径：`D:\Evan\AI-KnowledgeHub\10_S老师IP资产\_imported\D_Evan_video\spacex\05_nasa_dragon_iss\S05_C24_IMG_spacex_crew_2.jpg`
+- 类型：`image`
+- 分类：`10_S老师IP资产`
 - RAG 状态：待入库
 
 ## 摘要
