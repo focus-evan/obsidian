@@ -1,5 +1,8 @@
 filters:
-  or:
+  and:
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - or:
     - type == "knowledge-note"
     - type == "process"
     - type == "runbook"
@@ -25,21 +28,21 @@ properties:
   review_after:
     displayName: 复查
 views:
-  - type: table
-    name: 知识卡
-    order:
-      - file.name
-      - domain
-      - confidence
-      - workflow_stage
-      - review_status
-      - rag_status
-      - publish_status
-      - status
-      - updated
-      - review_after
-      - source
-    sort:
-      - property: updated
-        direction: DESC
-    limit: 100
+- type: table
+  name: 知识卡
+  order:
+  - file.name
+  - domain
+  - confidence
+  - workflow_stage
+  - review_status
+  - rag_status
+  - publish_status
+  - status
+  - updated
+  - review_after
+  - source
+  sort:
+  - property: updated
+    direction: DESC
+  limit: 100

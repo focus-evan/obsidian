@@ -1,5 +1,8 @@
 filters:
-  or:
+  and:
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - or:
     - type == "report-asset"
     - type == "feedback"
 properties:
@@ -28,51 +31,51 @@ properties:
   updated:
     displayName: 更新
 views:
-  - type: table
-    name: 报告待发布核验
-    filters:
-      and:
-        - type == "report-asset"
-        - publish_status != "published"
-        - publish_status != "unchanged"
-        - publish_status != "not-required"
-    order:
-      - file.name
-      - project
-      - status
-      - publish_status
-      - validation
-      - published_url
-      - content_hash
-      - updated
-    limit: 100
-  - type: table
-    name: 反馈待处理
-    filters:
-      and:
-        - type == "feedback"
-        - resolution_status != "resolved"
-    order:
-      - file.name
-      - domain
-      - error_type
-      - status
-      - resolution_status
-      - eval_added
-      - updated
-    limit: 100
-  - type: table
-    name: 已完成闭环
-    filters:
-      or:
-        - publish_status == "published"
-        - publish_status == "unchanged"
-        - resolution_status == "resolved"
-    order:
-      - file.name
-      - type
-      - publish_status
-      - resolution_status
-      - eval_added
-      - updated
-    limit: 100
+- type: table
+  name: 报告待发布核验
+  filters:
+    and:
+    - type == "report-asset"
+    - publish_status != "published"
+    - publish_status != "unchanged"
+    - publish_status != "not-required"
+  order:
+  - file.name
+  - project
+  - status
+  - publish_status
+  - validation
+  - published_url
+  - content_hash
+  - updated
+  limit: 100
+- type: table
+  name: 反馈待处理
+  filters:
+    and:
+    - type == "feedback"
+    - resolution_status != "resolved"
+  order:
+  - file.name
+  - domain
+  - error_type
+  - status
+  - resolution_status
+  - eval_added
+  - updated
+  limit: 100
+- type: table
+  name: 已完成闭环
+  filters:
+    or:
+    - publish_status == "published"
+    - publish_status == "unchanged"
+    - resolution_status == "resolved"
+  order:
+  - file.name
+  - type
+  - publish_status
+  - resolution_status
+  - eval_added
+  - updated
+  limit: 100

@@ -3,6 +3,7 @@
   "showViewHeader": true,
   "cssTheme": "",
   "enabledCssSnippets": [
-    "knowledge-hub-dashboard"
+    "knowledge-hub-dashboard",
+    "reading-desk"
   ]
 }

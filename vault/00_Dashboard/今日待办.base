@@ -1,7 +1,9 @@
 filters:
   and:
-    - type == "action"
-    - status != "done"
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - type == "action"
+  - '!["done", "completed", "complete", "cancelled", "canceled", "closed"].contains(status)'
 properties:
   priority:
     displayName: 优先级
@@ -16,30 +18,44 @@ properties:
   source:
     displayName: 来源
 views:
-  - type: table
-    name: 未完成行动
-    order:
-      - file.name
-      - priority
-      - status
-      - domain
-      - project
-      - due
-      - source
-    sort:
-      - property: priority
-        direction: ASC
-      - property: due
-        direction: ASC
-  - type: table
-    name: P0/P1
-    filters:
-      or:
-        - priority == "P0"
-        - priority == "P1"
-    order:
-      - file.name
-      - priority
-      - status
-      - project
-      - due
+- type: table
+  name: 今日到期与逾期
+  filters:
+    and:
+    - due
+    - date(due) < today() + "1d"
+  order:
+  - file.name
+  - due
+  - priority
+  - project
+  sort:
+  - property: due
+    direction: ASC
+- type: table
+  name: 全部未完成
+  order:
+  - file.name
+  - priority
+  - status
+  - domain
+  - project
+  - due
+  - source
+  sort:
+  - property: priority
+    direction: ASC
+  - property: due
+    direction: ASC
+- type: table
+  name: P0/P1
+  filters:
+    or:
+    - priority == "P0"
+    - priority == "P1"
+  order:
+  - file.name
+  - priority
+  - status
+  - project
+  - due

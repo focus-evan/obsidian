@@ -1,10 +1,12 @@
 {
   "attachmentFolderPath": "_attachments",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
   "spellcheck": false,
   "promptDelete": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "newFileFolderPath": "01_个人空间/01_随记",
+  "readableLineLength": true
 }

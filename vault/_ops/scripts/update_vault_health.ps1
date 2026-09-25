@@ -9,7 +9,11 @@ $today = (Get-Date).ToString("yyyy-MM-dd")
 $now = (Get-Date).ToString("s")
 
 $allFiles = Get-ChildItem -LiteralPath $HubRoot -Recurse -File -Force -ErrorAction SilentlyContinue
-$markdownFiles = $allFiles | Where-Object Extension -eq ".md"
+$markdownFiles = $allFiles | Where-Object {
+    $_.Extension -eq ".md" -and
+    -not $_.FullName.Substring($HubRoot.Length + 1).Replace("\", "/").StartsWith("01_个人空间/") -and
+    -not $_.FullName.Substring($HubRoot.Length + 1).Replace("\", "/").StartsWith("_templates/")
+}
 $manifestPath = Join-Path $HubRoot "_ops\asset_manifest.csv"
 $manifestRows = if (Test-Path -LiteralPath $manifestPath) { @(Import-Csv -LiteralPath $manifestPath) } else { @() }
 $evalPath = Join-Path $HubRoot "_rag\evals\latest_retrieval_eval.json"
@@ -89,6 +93,7 @@ tags:
 # 知识库健康度
 
 > [!info] 自动快照
+> 统计仅覆盖后台资料，排除个人空间和模板；无需为个人随记补属性。
 > 生成时间：$now。该页由 `_ops/scripts/update_vault_health.ps1` 生成。
 
 ## 一眼判断

@@ -58,6 +58,8 @@ def main() -> int:
     approved_knowledge = 0
     for path in markdown_files:
         text = path.read_text(encoding="utf-8-sig", errors="strict")
+        if path.relative_to(vault).parts[0] in {"01_个人空间", "_templates"}:
+            continue
         if "\ufffd" in text:
             errors.append(f"replacement character: {path.relative_to(vault)}")
         frontmatter, _ = split_frontmatter(text)

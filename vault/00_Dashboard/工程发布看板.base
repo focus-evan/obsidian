@@ -1,5 +1,8 @@
 filters:
   and:
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - and:
     - type == "codex-session"
     - domain == "engineering"
 properties:
@@ -18,17 +21,17 @@ properties:
   next_action:
     displayName: 后续
 views:
-  - type: table
-    name: 工程任务
-    order:
-      - file.name
-      - status
-      - project
-      - commit
-      - branch
-      - validation
-      - deployed
-      - next_action
-    sort:
-      - property: updated
-        direction: DESC
+- type: table
+  name: 工程任务
+  order:
+  - file.name
+  - status
+  - project
+  - commit
+  - branch
+  - validation
+  - deployed
+  - next_action
+  sort:
+  - property: updated
+    direction: DESC

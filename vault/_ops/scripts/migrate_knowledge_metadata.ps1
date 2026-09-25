@@ -41,6 +41,8 @@ $files = Get-ChildItem -LiteralPath $HubRoot -Recurse -Filter "*.md" -File -Forc
     Where-Object { $_.FullName -notlike "$HubRoot\.obsidian\*" }
 
 foreach ($file in $files) {
+    $personalRelative = $file.FullName.Substring($HubRoot.Length + 1).Replace("\", "/")
+    if ($personalRelative.StartsWith("01_个人空间/") -or $personalRelative.StartsWith("_templates/")) { continue }
     $text = [System.IO.File]::ReadAllText($file.FullName)
     $match = [regex]::Match($text, "\A---\r?\n(?<fm>.*?)\r?\n---\r?\n(?<body>[\s\S]*)\z", [System.Text.RegularExpressions.RegexOptions]::Singleline)
     if (-not $match.Success) { continue }

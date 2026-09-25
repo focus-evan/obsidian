@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T15:39:50+08:00",
+  "generated_at": "2026-09-25T23:54:55+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4469,
-  "bytes": 70464318,
-  "copied_or_updated": 17,
-  "unchanged": 4452,
+  "files": 4475,
+  "bytes": 70465040,
+  "copied_or_updated": 27,
+  "unchanged": 4448,
   "removed": 0,
   "excluded_sensitive_paths": [
+    ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
     "00_Inbox/_imported/D_Evan_Files/code_readme/oss-upload-user.txt",
     "00_Inbox/_imported/D_Evan_Files/devops/nacos-integration/SOLUTION_OVERVIEW.md",
@@ -17,23 +18,29 @@
   ],
   "excluded_sensitive_prefixes": [
     "00_Inbox/_imported/D_Evan_Files/optimization/",
+    "01_个人空间/",
     "60_AI工具与工程/_imported/D_Evan_Files/optimization/"
   ],
   "entries": [
     {
       "path": ".obsidian/app.json",
-      "bytes": 238,
-      "sha256": "8197fb3bac39bea5af55ebd377fb07e4fdb33d593ecb710b55c67d28e9629a32"
+      "bytes": 319,
+      "sha256": "65d69c5045a9849695bf1678d0d1128c8e862ecc26ec301fa5bd7921138cb915"
     },
     {
       "path": ".obsidian/appearance.json",
-      "bytes": 129,
-      "sha256": "df770a3632e01cef8edf6634e404e4abae3e68e97dfcaee91680fb1a36ad51fe"
+      "bytes": 149,
+      "sha256": "1f8db0ba6b22ed143fb29d8472d07ebc9c7c81effe729b90b35e6e3950b0482e"
     },
     {
       "path": ".obsidian/core-plugins.json",
-      "bytes": 700,
-      "sha256": "7682a63c9ce5ee96dd82aa01f023a919b68fec969adb217b6b937718dc419b28"
+      "bytes": 699,
+      "sha256": "d43aef462823903598338386bf96a39007defd6e811e66a8adf49f15a4603904"
+    },
+    {
+      "path": ".obsidian/daily-notes.json",
+      "bytes": 125,
+      "sha256": "b976646d639be556f3b1b99bb23bd8b521a5a32cd3463265497182c74be31f40"
     },
     {
       "path": ".obsidian/graph.json",
@@ -52,53 +59,53 @@
     },
     {
       "path": "00_Dashboard/00_操作台.md",
-      "bytes": 1345,
-      "sha256": "9a254225eda69b744e5da2dc9d00ce625fc9c0fed461771b619ad4dc0ab69890"
+      "bytes": 1088,
+      "sha256": "ed72589a0f15f3bd17c551fb8da75a21dd23708e9ba84dc679e771b136191172"
     },
     {
       "path": "00_Dashboard/Codex任务看板.base",
-      "bytes": 783,
-      "sha256": "def82bcffd7d95734ad56e2e59279e0a49ca479302e06a9cb8015fcef10918e9"
+      "bytes": 889,
+      "sha256": "af5329f2e3a55dfad1a7b186833a6b8fb590345944dcbf9d6d28fb50bbc6cf57"
     },
     {
       "path": "00_Dashboard/今日待办.base",
-      "bytes": 752,
-      "sha256": "257f01dc6996141f2192f7d43b39861b334c291ab13c5ecc96bb6281a4a954e7"
+      "bytes": 1013,
+      "sha256": "8e749f04de7ca8223de9b7e9969cd7d3812b5b19365405be30d75854f15872d4"
     },
     {
       "path": "00_Dashboard/发布与反馈.base",
-      "bytes": 1607,
-      "sha256": "34063079e05c7153f3bebf5d45f86e80dcc8211ac202306389b2f25f612dfb3c"
+      "bytes": 1535,
+      "sha256": "4ee4590918f6ca6deba116ea7ff64283d2f34010505640dbbd02b3860cab3bbb"
     },
     {
       "path": "00_Dashboard/工程发布看板.base",
-      "bytes": 593,
-      "sha256": "a8e62a2483d5e102c43e9ad7ba543d45e0c92fbeaed920dad36f614e9e24e26b"
+      "bytes": 629,
+      "sha256": "7285a033b9896d99bdac705473642dc7e3fae35e90e2bb43040593b33879ebda"
     },
     {
       "path": "00_Dashboard/报告资产库.base",
-      "bytes": 1039,
-      "sha256": "5463848f4d140f2cbf3e60ccd1b4d2c1db172e2285391b6f3c8dddfb087d5d2f"
+      "bytes": 1027,
+      "sha256": "8bad6ed8039ac5bfb73462e0b9336f1c0e692207cc26c9876c1d41811b196498"
     },
     {
       "path": "00_Dashboard/知识卡片库.base",
-      "bytes": 819,
-      "sha256": "d3b6974a711d4f818495723c6b268f674b0d917eb19b6e987b1f0b040faf1f47"
+      "bytes": 841,
+      "sha256": "a4ce719d7cadfb5eed42f2e96bc352ff24a76a3c43beb083ae4af00cd0334dae"
     },
     {
       "path": "00_Dashboard/知识库健康度.md",
-      "bytes": 1807,
-      "sha256": "5b1aa8fe574933352970c38d10d3b7d528853324795d63b6bf4953685cd80bcb"
+      "bytes": 1909,
+      "sha256": "4afbcc57dc11311793984ea2e24682efefaed32036a6d1bcd578701602307acc"
     },
     {
       "path": "00_Dashboard/知识闭环.base",
-      "bytes": 1682,
-      "sha256": "02a04c148cd76e5204d4132e9cb44734ed854522d04e62ed475bed27fae7f6a7"
+      "bytes": 1580,
+      "sha256": "826435d783be5a3f799861aa95dfa550a1f078e1375effb5dbf81b5414265176"
     },
     {
       "path": "00_Dashboard/资产入库队列.base",
-      "bytes": 1367,
-      "sha256": "16981b697345ffa2ec624c193aaa881a9888700a329680b37692fe6b0c5046a8"
+      "bytes": 1309,
+      "sha256": "38da6869f9f8d68cb465b5c881278afbcfa4b30d659231238a8cc71be2d41eac"
     },
     {
       "path": "00_Inbox/S5PK演示角色小结标的脱敏待完成_2026-09-13.md",
@@ -1572,13 +1579,13 @@
     },
     {
       "path": "00_Index.md",
-      "bytes": 1528,
-      "sha256": "1e1737a0d6942d8fc1cfa7b9806a436ae11644f10c54b375b0c22bfc98e0228e"
+      "bytes": 1545,
+      "sha256": "937fc066bc9f25a648064f79bb51e49bfc98ba54284f03a7776da0f407eaf511"
     },
     {
       "path": "00_开始这里.md",
-      "bytes": 3037,
-      "sha256": "a7f110f02b2c2675c100a4ac22b1f7be0e0372734a4e0c386d1efc2cb8d8b247"
+      "bytes": 392,
+      "sha256": "e20b4cfb207234da13fc8f615df04420b929c642e9a8c0c427a6a8ce94c9c82d"
     },
     {
       "path": "10_S老师IP资产/00_MOC_S老师IP资产.md",
@@ -22196,9 +22203,14 @@
       "sha256": "18e657a7ce70f16b0e6e15183f8daa733ecf79ea56f7e5ff565fded93d6300b2"
     },
     {
+      "path": "AGENTS.md",
+      "bytes": 389,
+      "sha256": "d80bc5918c75dc18aa15b089e1f07fe6a6fe844ceb85f7e491db26be6f00f23b"
+    },
+    {
       "path": "README.md",
-      "bytes": 2523,
-      "sha256": "8ab7283907dd9b655afba3decff537a1cc00ba334fe07421378eeedf9a2ead2a"
+      "bytes": 2659,
+      "sha256": "9e8a9d4fe3520591bbdfb444313dbfe6fb74c061d77fea72389f84ab30503176"
     },
     {
       "path": "_ops/Import_Summary.md",
@@ -22257,8 +22269,8 @@
     },
     {
       "path": "_ops/scripts/migrate_knowledge_metadata.ps1",
-      "bytes": 6774,
-      "sha256": "d69ecd85216878bae9f9003dcd265905204b54cbf109845e76d4426df4653637"
+      "bytes": 6981,
+      "sha256": "6ad74389afd39e155fdae024c76105244d8c42b6c8e8ef271113b810ce5431dd"
     },
     {
       "path": "_ops/scripts/remove_media_mirrors.py",
@@ -22267,18 +22279,23 @@
     },
     {
       "path": "_ops/scripts/update_vault_health.ps1",
-      "bytes": 7041,
-      "sha256": "9bda3c1508fae59a8f9cb5dfe9091ec8f025b4177fc34f529b9338a52d8be56f"
+      "bytes": 7355,
+      "sha256": "32c80ac65d13d6b7d6d20da22e6c01035c7767418ad08b4f4ffb306696808d65"
     },
     {
       "path": "_ops/scripts/validate_knowledge_hub.py",
-      "bytes": 6048,
-      "sha256": "6f042976095888f89b8d6a34fc3daf05c55a9bfcf674fa56d909358bf303f8ce"
+      "bytes": 6151,
+      "sha256": "2afca48a7270768bee218a62ce0345b6b9d77d887227f40806c25806e1b376d8"
     },
     {
       "path": "_ops/vault_health.json",
       "bytes": 540,
-      "sha256": "aa1ac8f50fefa131d456a8b16cd41a564a1ecbc834a0d2a9b4ecbd78181fb350"
+      "sha256": "8ff5dffed5df0c8f395f8e5bfa9d90f6d6cc9c537ad256b567202e78a77e1a0c"
+    },
+    {
+      "path": "_ops/个人阅读与同步边界.md",
+      "bytes": 1604,
+      "sha256": "588670c01020695b2b9042cf166843e16e1614f3c262a86f187a4226726afcb0"
     },
     {
       "path": "_ops/知识闭环运行规则.md",
@@ -22332,8 +22349,8 @@
     },
     {
       "path": "_rag/local_rag.py",
-      "bytes": 12040,
-      "sha256": "bb2ffbc69c67b44211c17eebf9aeb0cce11ebe222050ff3ab4c7754c641f9abc"
+      "bytes": 12116,
+      "sha256": "faf5210e74ed08d299217c1939b3435e1b074ead1a137c01b7949bfb345036bb"
     },
     {
       "path": "_templates/action_note.md",
@@ -22364,6 +22381,21 @@
       "path": "_templates/report_asset_note.md",
       "bytes": 476,
       "sha256": "15085a23373649fc9ed6dabec9e681e59c242f1bd82233bb1889c067c5e21628"
+    },
+    {
+      "path": "_templates/长期问题.md",
+      "bytes": 127,
+      "sha256": "56346a0b7426bd32d5153f3c2cd461ecbe330ec82ed2bb17669fa6d876187a00"
+    },
+    {
+      "path": "_templates/阅读随记.md",
+      "bytes": 89,
+      "sha256": "9843ee17b3e9f5b20ab3e9e9889c5901a243337f1d5adae33c878b3aa082768e"
+    },
+    {
+      "path": "_templates/随记.md",
+      "bytes": 54,
+      "sha256": "6dd4460c8beea0ed75e70f25819fac5ff009a225a135009acd190da92b29faff"
     }
   ]
 }

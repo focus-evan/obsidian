@@ -115,7 +115,7 @@ def chunk_note(relative_path: str, body: str, max_chars: int = 1200) -> list[dic
 def approved_sources(vault: Path) -> list[Path]:
     result: list[Path] = []
     for path in vault.rglob("*.md"):
-        if ".obsidian" in path.parts:
+        if any(part in {".obsidian", "01_个人空间", "_templates"} for part in path.relative_to(vault).parts):
             continue
         text = path.read_text(encoding="utf-8-sig", errors="replace")
         props, _ = parse_frontmatter(text)

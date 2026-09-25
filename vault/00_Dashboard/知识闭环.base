@@ -1,5 +1,8 @@
 filters:
-  or:
+  and:
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - or:
     - type == "knowledge-note"
     - type == "process"
     - type == "runbook"
@@ -27,60 +30,60 @@ properties:
   source:
     displayName: 来源
 views:
-  - type: table
-    name: 待审核
-    filters:
-      and:
-        - review_status != "approved"
-    order:
-      - file.name
-      - domain
-      - workflow_stage
-      - review_status
-      - confidence
-      - evidence_level
-      - source
-      - updated
-    sort:
-      - property: updated
-        direction: DESC
-    limit: 100
-  - type: table
-    name: 已批准待RAG
-    filters:
-      and:
-        - review_status == "approved"
-        - rag_status != "embedded"
-        - rag_status != "evaluated"
-        - rag_status != "approved"
-    order:
-      - file.name
-      - domain
-      - confidence
-      - rag_status
-      - source
-      - updated
-    limit: 100
-  - type: table
-    name: 复查日程
-    order:
-      - file.name
-      - domain
-      - review_after
-      - confidence
-      - review_status
-      - updated
-    sort:
-      - property: review_after
-        direction: ASC
-  - type: table
-    name: 全部知识对象
-    order:
-      - file.name
-      - domain
-      - workflow_stage
-      - review_status
-      - rag_status
-      - publish_status
-      - updated
-    limit: 200
+- type: table
+  name: 待审核
+  filters:
+    and:
+    - review_status != "approved"
+  order:
+  - file.name
+  - domain
+  - workflow_stage
+  - review_status
+  - confidence
+  - evidence_level
+  - source
+  - updated
+  sort:
+  - property: updated
+    direction: DESC
+  limit: 100
+- type: table
+  name: 已批准待RAG
+  filters:
+    and:
+    - review_status == "approved"
+    - rag_status != "embedded"
+    - rag_status != "evaluated"
+    - rag_status != "approved"
+  order:
+  - file.name
+  - domain
+  - confidence
+  - rag_status
+  - source
+  - updated
+  limit: 100
+- type: table
+  name: 复查日程
+  order:
+  - file.name
+  - domain
+  - review_after
+  - confidence
+  - review_status
+  - updated
+  sort:
+  - property: review_after
+    direction: ASC
+- type: table
+  name: 全部知识对象
+  order:
+  - file.name
+  - domain
+  - workflow_stage
+  - review_status
+  - rag_status
+  - publish_status
+  - updated
+  limit: 200

@@ -1,5 +1,8 @@
 filters:
   and:
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - and:
     - type == "codex-session"
 properties:
   status:
@@ -19,28 +22,28 @@ properties:
   next_action:
     displayName: 后续
 views:
-  - type: table
-    name: 最近任务
-    order:
-      - file.name
-      - status
-      - domain
-      - project
-      - commit
-      - updated
-      - next_action
-    sort:
-      - property: updated
-        direction: DESC
-    limit: 50
-  - type: table
-    name: 未闭环
-    filters:
-      and:
-        - status != "done"
-    order:
-      - file.name
-      - status
-      - domain
-      - project
-      - next_action
+- type: table
+  name: 进行中与待核实
+  filters:
+    and:
+    - '!["done", "completed", "complete", "cancelled", "canceled", "closed", "archived"].contains(status)'
+  order:
+  - file.name
+  - status
+  - domain
+  - project
+  - next_action
+- type: table
+  name: 最近工作记录
+  order:
+  - file.name
+  - status
+  - domain
+  - project
+  - commit
+  - updated
+  - next_action
+  sort:
+  - property: updated
+    direction: DESC
+  limit: 50

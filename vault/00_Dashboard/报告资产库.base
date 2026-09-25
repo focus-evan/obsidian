@@ -1,5 +1,8 @@
 filters:
   and:
+  - '!file.inFolder("_templates")'
+  - '!file.inFolder("01_个人空间")'
+  - and:
     - type == "report-asset"
 properties:
   status:
@@ -25,32 +28,32 @@ properties:
   next_action:
     displayName: 后续
 views:
-  - type: table
-    name: 全部报告
-    order:
-      - file.name
-      - report_date
-      - status
-      - domain
-      - project
-      - artifact_path
-      - validation
-      - publish_status
-      - published_url
-      - content_hash
-      - feedback_status
-      - next_action
-    sort:
-      - property: report_date
-        direction: DESC
-    limit: 100
-  - type: table
-    name: 需修复
-    filters:
-      and:
-        - status != "done"
-    order:
-      - file.name
-      - status
-      - artifact_path
-      - next_action
+- type: table
+  name: 全部报告
+  order:
+  - file.name
+  - report_date
+  - status
+  - domain
+  - project
+  - artifact_path
+  - validation
+  - publish_status
+  - published_url
+  - content_hash
+  - feedback_status
+  - next_action
+  sort:
+  - property: report_date
+    direction: DESC
+  limit: 100
+- type: table
+  name: 需修复
+  filters:
+    and:
+    - status != "done"
+  order:
+  - file.name
+  - status
+  - artifact_path
+  - next_action
