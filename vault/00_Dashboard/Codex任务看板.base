@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'type == "codex-session"'
+    - type == "codex-session"
 properties:
   status:
     displayName: 状态
@@ -20,8 +20,7 @@ properties:
     displayName: 后续
 views:
   - type: table
-    name: "最近任务"
-    limit: 50
+    name: 最近任务
     order:
       - file.name
       - status
@@ -33,11 +32,12 @@ views:
     sort:
       - property: updated
         direction: DESC
+    limit: 50
   - type: table
-    name: "未闭环"
+    name: 未闭环
     filters:
       and:
-        - 'status != "done"'
+        - status != "done"
     order:
       - file.name
       - status

@@ -1,7 +1,7 @@
 filters:
   and:
-    - 'type == "codex-session"'
-    - 'domain == "engineering"'
+    - type == "codex-session"
+    - domain == "engineering"
 properties:
   status:
     displayName: 状态
@@ -19,7 +19,7 @@ properties:
     displayName: 后续
 views:
   - type: table
-    name: "工程任务"
+    name: 工程任务
     order:
       - file.name
       - status

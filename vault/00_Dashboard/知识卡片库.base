@@ -1,8 +1,8 @@
 filters:
   or:
-    - 'type == "knowledge-note"'
-    - 'type == "process"'
-    - 'type == "runbook"'
+    - type == "knowledge-note"
+    - type == "process"
+    - type == "runbook"
 properties:
   status:
     displayName: 状态
@@ -26,8 +26,7 @@ properties:
     displayName: 复查
 views:
   - type: table
-    name: "知识卡"
-    limit: 100
+    name: 知识卡
     order:
       - file.name
       - domain
@@ -43,3 +42,4 @@ views:
     sort:
       - property: updated
         direction: DESC
+    limit: 100

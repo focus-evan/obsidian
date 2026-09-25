@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-23T16:48:28+08:00",
+  "generated_at": "2026-09-25T15:39:50+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4467,
-  "bytes": 70453300,
-  "copied_or_updated": 8,
-  "unchanged": 4459,
+  "files": 4469,
+  "bytes": 70464318,
+  "copied_or_updated": 17,
+  "unchanged": 4452,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/workspace.json",
@@ -27,13 +27,18 @@
     },
     {
       "path": ".obsidian/appearance.json",
-      "bytes": 130,
-      "sha256": "c9766f67e517b68f5abaea9005bcc11cd9b51be8fc027f37784e741f2e7a4f28"
+      "bytes": 129,
+      "sha256": "df770a3632e01cef8edf6634e404e4abae3e68e97dfcaee91680fb1a36ad51fe"
     },
     {
       "path": ".obsidian/core-plugins.json",
       "bytes": 700,
       "sha256": "7682a63c9ce5ee96dd82aa01f023a919b68fec969adb217b6b937718dc419b28"
+    },
+    {
+      "path": ".obsidian/graph.json",
+      "bytes": 494,
+      "sha256": "969396aec27e51d0dfe2d0f03f137c00bc49c376cb9cf8c0ad776bff4b1b9d2c"
     },
     {
       "path": ".obsidian/templates.json",
@@ -42,8 +47,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 5655,
-      "sha256": "051c40b8fc25d565ad80021b6acbc4592cd1e55e576fafd6cca1e2d539a21289"
+      "bytes": 5748,
+      "sha256": "8f46e5048d4201470e639faa4bc324a230a5b9246ebc678c74d05408f03ac559"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -52,33 +57,33 @@
     },
     {
       "path": "00_Dashboard/Codex任务看板.base",
-      "bytes": 791,
-      "sha256": "2b9f0efba5ec69a363a204a19aafa8401a4faa4fe43944f045d3c03a7bdc5c52"
+      "bytes": 783,
+      "sha256": "def82bcffd7d95734ad56e2e59279e0a49ca479302e06a9cb8015fcef10918e9"
     },
     {
       "path": "00_Dashboard/今日待办.base",
-      "bytes": 764,
-      "sha256": "4cdc594af93f3c6b409f7ee2b4301ab42b3bcf77acad7a4efbb8b0230a46c229"
+      "bytes": 752,
+      "sha256": "257f01dc6996141f2192f7d43b39861b334c291ab13c5ecc96bb6281a4a954e7"
     },
     {
       "path": "00_Dashboard/发布与反馈.base",
-      "bytes": 1636,
-      "sha256": "bd28ae08b044e32562f649e2b29319c87653342d646f920b74f6cccf94356be3"
+      "bytes": 1607,
+      "sha256": "34063079e05c7153f3bebf5d45f86e80dcc8211ac202306389b2f25f612dfb3c"
     },
     {
       "path": "00_Dashboard/工程发布看板.base",
-      "bytes": 599,
-      "sha256": "714e99a55fcad679ff1b973ad25c1613d74ef4d262b91dfd2835486ab2807d5f"
+      "bytes": 593,
+      "sha256": "a8e62a2483d5e102c43e9ad7ba543d45e0c92fbeaed920dad36f614e9e24e26b"
     },
     {
       "path": "00_Dashboard/报告资产库.base",
-      "bytes": 1047,
-      "sha256": "b6a006960dad5c96b1c342682fe8796b682581a2f7024a4c5ca643f05628cac1"
+      "bytes": 1039,
+      "sha256": "5463848f4d140f2cbf3e60ccd1b4d2c1db172e2285391b6f3c8dddfb087d5d2f"
     },
     {
       "path": "00_Dashboard/知识卡片库.base",
-      "bytes": 827,
-      "sha256": "204bd4be976a9ef42d28fb64022372c6a1e202c7e9840391be20e53385967c43"
+      "bytes": 819,
+      "sha256": "d3b6974a711d4f818495723c6b268f674b0d917eb19b6e987b1f0b040faf1f47"
     },
     {
       "path": "00_Dashboard/知识库健康度.md",
@@ -87,13 +92,13 @@
     },
     {
       "path": "00_Dashboard/知识闭环.base",
-      "bytes": 1711,
-      "sha256": "24a13c2e07864fee7514e208180e9ff0734989407a56d49795841a6bb8480aab"
+      "bytes": 1682,
+      "sha256": "02a04c148cd76e5204d4132e9cb44734ed854522d04e62ed475bed27fae7f6a7"
     },
     {
       "path": "00_Dashboard/资产入库队列.base",
-      "bytes": 1390,
-      "sha256": "3d40b8095476fe386bd11736a51519381de641045080b21a387b971aa48a0687"
+      "bytes": 1367,
+      "sha256": "16981b697345ffa2ec624c193aaa881a9888700a329680b37692fe6b0c5046a8"
     },
     {
       "path": "00_Inbox/S5PK演示角色小结标的脱敏待完成_2026-09-13.md",
@@ -21757,8 +21762,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 4796,
-      "sha256": "720e141c56521f31e50e72db22699273f4f89c050a3e16d30aeda36f88566b2b"
+      "bytes": 4889,
+      "sha256": "f5827833c8554fffd924228c189498f7183bec228876daecceeda0f6978a5c14"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22007,18 +22012,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W39_Codex会话台账.md",
-      "bytes": 4324,
-      "sha256": "9fd9f2f130378beb18b3ed4050166f97c55af5e25e6ebebe076be632a0d573dc"
+      "bytes": 5206,
+      "sha256": "c343253f829955592a4b5c7773ec036a4d82b0bcd9bc098f79a2e7af494aad48"
     },
     {
       "path": "80_复盘与版本演化/2026-W39_Codex工作周报.md",
-      "bytes": 11253,
-      "sha256": "67787cd856a0c01afd90f7b8e76f6307a10d4147d97fbb6c6d6baf4df89884e9"
+      "bytes": 15417,
+      "sha256": "272ae086ffe6dba7851cb990c427e54c47187d6adc6340992acf040516fac19e"
     },
     {
       "path": "80_复盘与版本演化/2026-W39_Codex资产与待办索引.md",
-      "bytes": 4084,
-      "sha256": "0812206e09fcf207620376b8ef89fa863d88fb3542e289832b396f2f1bf0865e"
+      "bytes": 5805,
+      "sha256": "78e16bc80fcd80241ba7c55df849fe3044475f6e3e8d78ab91a5724f9fcb43c6"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22114,6 +22119,11 @@
       "path": "80_复盘与版本演化/ai-stock发版Skill安装包_2026-08-30.md",
       "bytes": 984,
       "sha256": "500148a222181aa1cf02ebfc02bb5db64d89afd2e86aa7cb72162a095c5cc715"
+    },
+    {
+      "path": "80_复盘与版本演化/ai-stock情绪催化自适应战法审计与上线_2026-09-24.md",
+      "bytes": 3132,
+      "sha256": "6120ea54a1e8b7350c6a32e6afb10d0952c339335dd962581a9373b7458f2658"
     },
     {
       "path": "80_复盘与版本演化/dify-api-bzsj一二维度吞吐生产优化_2026-09-04.md",
@@ -22212,8 +22222,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 171,
-      "sha256": "7e6be9fdf84f8e5a1c5db3ca2d86b3584a088a2d0872c356089a629f5426ab44"
+      "bytes": 734,
+      "sha256": "9f34a8d3a40f7b4da130fc925334ce45bc5fe6418205bca32125d4658bfdbaac"
     },
     {
       "path": "_ops/external_media_manifest.csv",

@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'type == "asset-note"'
+    - type == "asset-note"
 properties:
   category:
     displayName: 分类
@@ -22,11 +22,10 @@ properties:
     displayName: 原始路径
 views:
   - type: table
-    name: "待摘要"
+    name: 待摘要
     filters:
       and:
-        - 'summary_status == "pending"'
-    limit: 100
+        - summary_status == "pending"
     order:
       - file.name
       - category
@@ -38,32 +37,32 @@ views:
     sort:
       - property: imported_at
         direction: DESC
+    limit: 100
   - type: table
-    name: "摘要待审核"
+    name: 摘要待审核
     filters:
       and:
-        - 'summary_status == "draft"'
-        - 'review_status != "approved"'
-    limit: 100
+        - summary_status == "draft"
+        - review_status != "approved"
     order:
       - file.name
       - category
       - summary_status
       - review_status
       - imported_at
+    limit: 100
   - type: table
-    name: "已审核待RAG"
+    name: 已审核待RAG
     filters:
       and:
-        - 'review_status == "approved"'
-        - 'rag_status != "embedded"'
-        - 'rag_status != "evaluated"'
-        - 'rag_status != "approved"'
-    limit: 100
+        - review_status == "approved"
+        - rag_status != "embedded"
+        - rag_status != "evaluated"
+        - rag_status != "approved"
     order:
       - file.name
       - category
       - review_status
       - rag_status
       - imported_at
-
+    limit: 100

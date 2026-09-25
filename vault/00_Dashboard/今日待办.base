@@ -1,7 +1,7 @@
 filters:
   and:
-    - 'type == "action"'
-    - 'status != "done"'
+    - type == "action"
+    - status != "done"
 properties:
   priority:
     displayName: 优先级
@@ -17,7 +17,7 @@ properties:
     displayName: 来源
 views:
   - type: table
-    name: "未完成行动"
+    name: 未完成行动
     order:
       - file.name
       - priority
@@ -32,11 +32,11 @@ views:
       - property: due
         direction: ASC
   - type: table
-    name: "P0/P1"
+    name: P0/P1
     filters:
       or:
-        - 'priority == "P0"'
-        - 'priority == "P1"'
+        - priority == "P0"
+        - priority == "P1"
     order:
       - file.name
       - priority

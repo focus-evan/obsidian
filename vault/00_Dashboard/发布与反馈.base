@@ -1,7 +1,7 @@
 filters:
   or:
-    - 'type == "report-asset"'
-    - 'type == "feedback"'
+    - type == "report-asset"
+    - type == "feedback"
 properties:
   domain:
     displayName: 领域
@@ -29,14 +29,13 @@ properties:
     displayName: 更新
 views:
   - type: table
-    name: "报告待发布核验"
+    name: 报告待发布核验
     filters:
       and:
-        - 'type == "report-asset"'
-        - 'publish_status != "published"'
-        - 'publish_status != "unchanged"'
-        - 'publish_status != "not-required"'
-    limit: 100
+        - type == "report-asset"
+        - publish_status != "published"
+        - publish_status != "unchanged"
+        - publish_status != "not-required"
     order:
       - file.name
       - project
@@ -46,13 +45,13 @@ views:
       - published_url
       - content_hash
       - updated
+    limit: 100
   - type: table
-    name: "反馈待处理"
+    name: 反馈待处理
     filters:
       and:
-        - 'type == "feedback"'
-        - 'resolution_status != "resolved"'
-    limit: 100
+        - type == "feedback"
+        - resolution_status != "resolved"
     order:
       - file.name
       - domain
@@ -61,14 +60,14 @@ views:
       - resolution_status
       - eval_added
       - updated
+    limit: 100
   - type: table
-    name: "已完成闭环"
+    name: 已完成闭环
     filters:
       or:
-        - 'publish_status == "published"'
-        - 'publish_status == "unchanged"'
-        - 'resolution_status == "resolved"'
-    limit: 100
+        - publish_status == "published"
+        - publish_status == "unchanged"
+        - resolution_status == "resolved"
     order:
       - file.name
       - type
@@ -76,4 +75,4 @@ views:
       - resolution_status
       - eval_added
       - updated
-
+    limit: 100

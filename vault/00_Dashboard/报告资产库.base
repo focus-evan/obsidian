@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'type == "report-asset"'
+    - type == "report-asset"
 properties:
   status:
     displayName: 状态
@@ -26,8 +26,7 @@ properties:
     displayName: 后续
 views:
   - type: table
-    name: "全部报告"
-    limit: 100
+    name: 全部报告
     order:
       - file.name
       - report_date
@@ -44,11 +43,12 @@ views:
     sort:
       - property: report_date
         direction: DESC
+    limit: 100
   - type: table
-    name: "需修复"
+    name: 需修复
     filters:
       and:
-        - 'status != "done"'
+        - status != "done"
     order:
       - file.name
       - status

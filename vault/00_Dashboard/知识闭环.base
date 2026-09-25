@@ -1,10 +1,10 @@
 filters:
   or:
-    - 'type == "knowledge-note"'
-    - 'type == "process"'
-    - 'type == "runbook"'
-    - 'type == "architecture"'
-    - 'type == "investment-framework"'
+    - type == "knowledge-note"
+    - type == "process"
+    - type == "runbook"
+    - type == "architecture"
+    - type == "investment-framework"
 properties:
   domain:
     displayName: 领域
@@ -28,11 +28,10 @@ properties:
     displayName: 来源
 views:
   - type: table
-    name: "待审核"
+    name: 待审核
     filters:
       and:
-        - 'review_status != "approved"'
-    limit: 100
+        - review_status != "approved"
     order:
       - file.name
       - domain
@@ -45,15 +44,15 @@ views:
     sort:
       - property: updated
         direction: DESC
+    limit: 100
   - type: table
-    name: "已批准待RAG"
+    name: 已批准待RAG
     filters:
       and:
-        - 'review_status == "approved"'
-        - 'rag_status != "embedded"'
-        - 'rag_status != "evaluated"'
-        - 'rag_status != "approved"'
-    limit: 100
+        - review_status == "approved"
+        - rag_status != "embedded"
+        - rag_status != "evaluated"
+        - rag_status != "approved"
     order:
       - file.name
       - domain
@@ -61,8 +60,9 @@ views:
       - rag_status
       - source
       - updated
+    limit: 100
   - type: table
-    name: "复查日程"
+    name: 复查日程
     order:
       - file.name
       - domain
@@ -74,8 +74,7 @@ views:
       - property: review_after
         direction: ASC
   - type: table
-    name: "全部知识对象"
-    limit: 200
+    name: 全部知识对象
     order:
       - file.name
       - domain
@@ -84,4 +83,4 @@ views:
       - rag_status
       - publish_status
       - updated
-
+    limit: 200
