@@ -34,6 +34,7 @@ ALLOWED_EXTENSIONS = {
 }
 
 EXCLUDED_RELATIVE_PATHS = {
+    ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
     "00_Inbox/_imported/D_Evan_Files/optimization/login_enhancement_summary.md",
     "00_Inbox/_imported/D_Evan_Files/optimization/qmt_integration_plan.md",
@@ -42,6 +43,7 @@ EXCLUDED_RELATIVE_PATHS = {
 }
 
 EXCLUDED_PREFIXES = {
+    "01_个人空间/",
     "00_Inbox/_imported/D_Evan_Files/optimization/",
     "60_AI工具与工程/_imported/D_Evan_Files/optimization/",
 }

@@ -34,3 +34,7 @@ Thumbs.db
 
 # Push remains disabled until the remote is confirmed private.
 .allow-remote-push
+
+# Personal writing and reading selections stay local.
+vault/01_个人空间/
+vault/.obsidian/bookmarks.json
