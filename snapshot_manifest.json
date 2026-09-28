@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T23:54:55+08:00",
+  "generated_at": "2026-09-28T15:43:22+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4475,
-  "bytes": 70465040,
-  "copied_or_updated": 27,
-  "unchanged": 4448,
-  "removed": 0,
+  "files": 4479,
+  "bytes": 70483698,
+  "copied_or_updated": 12,
+  "unchanged": 4467,
+  "removed": 1,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 5748,
-      "sha256": "8f46e5048d4201470e639faa4bc324a230a5b9246ebc678c74d05408f03ac559"
+      "bytes": 6008,
+      "sha256": "feba9e9a49a5ab5c7a5fdea3af17ab9fd7bdad1b3de8f757df0bc02f3c2ecb66"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -64,13 +64,13 @@
     },
     {
       "path": "00_Dashboard/Codex任务看板.base",
-      "bytes": 889,
-      "sha256": "af5329f2e3a55dfad1a7b186833a6b8fb590345944dcbf9d6d28fb50bbc6cf57"
+      "bytes": 979,
+      "sha256": "9c20f20da2a24632158965ebac4710c7daf7bdd4eae70f1c64737fb9c5a3823f"
     },
     {
       "path": "00_Dashboard/今日待办.base",
-      "bytes": 1013,
-      "sha256": "8e749f04de7ca8223de9b7e9969cd7d3812b5b19365405be30d75854f15872d4"
+      "bytes": 1155,
+      "sha256": "16520eead5532b7f47725e1e8997f00ad5f87a352b0c61194fa13e6c2f2f6be5"
     },
     {
       "path": "00_Dashboard/发布与反馈.base",
@@ -1551,6 +1551,11 @@
       "path": "00_Inbox/修复宏观雷达latest入口_2026-08-23.md",
       "bytes": 1232,
       "sha256": "d1dadaa89ec7c8dc351894c2059fc5320059d06e9998608198e3006e37d9cb41"
+    },
+    {
+      "path": "00_Inbox/发布ai-stock每日重点情报_2026-09-28.md",
+      "bytes": 1139,
+      "sha256": "ee993fd17ee8f9dd82bcff1c6f9c520b0f264956dada99f4a3c144ee83550285"
     },
     {
       "path": "00_Inbox/发布前核对mgnt体验提交_2026-08-23.md",
@@ -21728,6 +21733,11 @@
       "sha256": "7d7b3507312063158ffa52eeae433d4817bb4e7b8df5f156587d54219f45d7d4"
     },
     {
+      "path": "60_AI工具与工程/中文声音复刻选型与豆包接入_2026-09-28.md",
+      "bytes": 1777,
+      "sha256": "29d197da55165a45e5cb67356d8acd05f513b70790bf2d7b4cf6ea819c01b6e0"
+    },
+    {
       "path": "60_AI工具与工程/内容流水线选题裁决规则_2026-09-03.md",
       "bytes": 1154,
       "sha256": "39a50c591159c58e6178184aaa4a27c66d180c2ba5aec0bb73f32033c74860f9"
@@ -21769,8 +21779,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 4889,
-      "sha256": "f5827833c8554fffd924228c189498f7183bec228876daecceeda0f6978a5c14"
+      "bytes": 5149,
+      "sha256": "b7d1d2813a4f32c21db84f99c4471009df61f67a1b69ab52a922267e5ff1b9a1"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22019,18 +22029,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W39_Codex会话台账.md",
-      "bytes": 5206,
-      "sha256": "c343253f829955592a4b5c7773ec036a4d82b0bcd9bc098f79a2e7af494aad48"
+      "bytes": 6800,
+      "sha256": "9ed52457eb6ad5be91eeee15cae89f0b6b1b27d3535254639fa6811ed3623237"
     },
     {
       "path": "80_复盘与版本演化/2026-W39_Codex工作周报.md",
-      "bytes": 15417,
-      "sha256": "272ae086ffe6dba7851cb990c427e54c47187d6adc6340992acf040516fac19e"
+      "bytes": 21201,
+      "sha256": "9c568c4418390c37c4a535b4f66070b9a67bc91cd9e7ad196ab54afb52b35524"
     },
     {
       "path": "80_复盘与版本演化/2026-W39_Codex资产与待办索引.md",
-      "bytes": 5805,
-      "sha256": "78e16bc80fcd80241ba7c55df849fe3044475f6e3e8d78ab91a5724f9fcb43c6"
+      "bytes": 7742,
+      "sha256": "5899f809d046e4f291d7540b12ae8db96c39f613f9edb3606275d29a53e9373a"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22133,6 +22143,11 @@
       "sha256": "6120ea54a1e8b7350c6a32e6afb10d0952c339335dd962581a9373b7458f2658"
     },
     {
+      "path": "80_复盘与版本演化/ai-stock每日重点情报本地开发_2026-09-28.md",
+      "bytes": 2329,
+      "sha256": "29b47ec41a6d4778a9136d16632fe8faeef362ef95e57367abf7c0b44aa18b88"
+    },
+    {
       "path": "80_复盘与版本演化/dify-api-bzsj一二维度吞吐生产优化_2026-09-04.md",
       "bytes": 1134,
       "sha256": "f9f15e698a4112045a15e2e5e125d73e99e1849829f2c1c37603570d95364ae3"
@@ -22166,6 +22181,11 @@
       "path": "80_复盘与版本演化/s-ai-agent_S老师AGI审查_2026-09-07.md",
       "bytes": 1526,
       "sha256": "919c9b788681005064a2b2d029c4f1603aad16d2c5f4349e1de55c418da20b09"
+    },
+    {
+      "path": "80_复盘与版本演化/s-ai-agent素材库语义切片与产业标签生产发布_2026-09-28.md",
+      "bytes": 3021,
+      "sha256": "9bac2932ac88c6fdb3bad34f5ded8b5777285697278b987be06fded853525e1d"
     },
     {
       "path": "80_复盘与版本演化/个人持仓复盘_2026-06-07.md",
@@ -22234,8 +22254,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 734,
-      "sha256": "9f34a8d3a40f7b4da130fc925334ce45bc5fe6418205bca32125d4658bfdbaac"
+      "bytes": 1059,
+      "sha256": "0fa1703d3a25c812c32b2a6769f76e25e457ff9b400f73feafca8a2316d97672"
     },
     {
       "path": "_ops/external_media_manifest.csv",
