@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T15:43:22+08:00",
+  "generated_at": "2026-10-02T22:36:35+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4479,
-  "bytes": 70483698,
+  "files": 4486,
+  "bytes": 70506267,
   "copied_or_updated": 12,
-  "unchanged": 4467,
-  "removed": 1,
+  "unchanged": 4474,
+  "removed": 2,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 6008,
-      "sha256": "feba9e9a49a5ab5c7a5fdea3af17ab9fd7bdad1b3de8f757df0bc02f3c2ecb66"
+      "bytes": 6536,
+      "sha256": "755ce02cca0c30c6b41677ca536ca1cdb4c59d722f49edf0f4ae73386f5302f2"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1554,13 +1554,18 @@
     },
     {
       "path": "00_Inbox/发布ai-stock每日重点情报_2026-09-28.md",
-      "bytes": 1139,
-      "sha256": "ee993fd17ee8f9dd82bcff1c6f9c520b0f264956dada99f4a3c144ee83550285"
+      "bytes": 1256,
+      "sha256": "7337279f6115a7409bb1a928612c56f1ba066dd699fd55df0344e5a64c133bd5"
     },
     {
       "path": "00_Inbox/发布前核对mgnt体验提交_2026-08-23.md",
       "bytes": 1061,
       "sha256": "ee042bd2d87c613caa819be402dd47c8d6ddfd1c4b371f842561481690a908a7"
+    },
+    {
+      "path": "00_Inbox/替换邓普顿视频生成素材为真实素材_2026-09-29.md",
+      "bytes": 848,
+      "sha256": "b25214a6c304d31b896d7c886a1b53a113f82e6526bb198c8a6e8f97a75eb6d1"
     },
     {
       "path": "00_Inbox/核对AI-Stock主分支自动部署_2026-09-05.md",
@@ -21733,6 +21738,11 @@
       "sha256": "7d7b3507312063158ffa52eeae433d4817bb4e7b8df5f156587d54219f45d7d4"
     },
     {
+      "path": "60_AI工具与工程/上海AI投研方法论直播平台合规与技术边界_2026-09-29.md",
+      "bytes": 2098,
+      "sha256": "6d2d2e739ca670c935bd6f79df5edece901382de8f527c6249c35066bceca918"
+    },
+    {
       "path": "60_AI工具与工程/中文声音复刻选型与豆包接入_2026-09-28.md",
       "bytes": 1777,
       "sha256": "29d197da55165a45e5cb67356d8acd05f513b70790bf2d7b4cf6ea819c01b6e0"
@@ -21779,8 +21789,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 5149,
-      "sha256": "b7d1d2813a4f32c21db84f99c4471009df61f67a1b69ab52a922267e5ff1b9a1"
+      "bytes": 5677,
+      "sha256": "7d2f9ac3ff6afce60ba8a916dccb8fe7ef3707f51f55e2a1f2800270f0943dd6"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22043,6 +22053,21 @@
       "sha256": "5899f809d046e4f291d7540b12ae8db96c39f613f9edb3606275d29a53e9373a"
     },
     {
+      "path": "80_复盘与版本演化/2026-W40_Codex会话台账.md",
+      "bytes": 3185,
+      "sha256": "f7db55d34abbfa925fec64ac44fa9e66c556d8ad8f3aea31a2597ee18d163ea7"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W40_Codex工作周报.md",
+      "bytes": 8412,
+      "sha256": "0dfdc4af2358e2dfd7fcca8d7756825648a562c634753b47c08fbae825b72742"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W40_Codex资产与待办索引.md",
+      "bytes": 2474,
+      "sha256": "3e8c0b4adfba6743521d5a083c14ac203cf43844f833319d2bb7f0c62ef94f5d"
+    },
+    {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
       "bytes": 1277,
       "sha256": "fb8a5af93cd34f6d96ead69deb41024887d3a3240d406b801a06cb2a3764f7c7"
@@ -22056,6 +22081,11 @@
       "path": "80_复盘与版本演化/Aurora本地ChatGPT代理部署_2026-09-22.md",
       "bytes": 1959,
       "sha256": "a6ef3fd79b685598e676f40c9bd995df36aa4a18202788ac0950dde7bb4001b6"
+    },
+    {
+      "path": "80_复盘与版本演化/A股NCAV严格口径筛选_2026-09-28.md",
+      "bytes": 1804,
+      "sha256": "e9969309a42520b0ecf1d29ab57fa6877c23adf73d61a0e2e559347966d524cc"
     },
     {
       "path": "80_复盘与版本演化/A股四战法与V231自动投研运行_2026-09-23.md",
@@ -22144,8 +22174,8 @@
     },
     {
       "path": "80_复盘与版本演化/ai-stock每日重点情报本地开发_2026-09-28.md",
-      "bytes": 2329,
-      "sha256": "29b47ec41a6d4778a9136d16632fe8faeef362ef95e57367abf7c0b44aa18b88"
+      "bytes": 2905,
+      "sha256": "8c3081113ae59f3a8590f07b2d29324003c4916552cb33f7e239d29e652209bc"
     },
     {
       "path": "80_复盘与版本演化/dify-api-bzsj一二维度吞吐生产优化_2026-09-04.md",
@@ -22213,6 +22243,11 @@
       "sha256": "45352cdfc2db84ef1aece3cb9405c406079e389b9296f50e8451e876f26f9f46"
     },
     {
+      "path": "80_复盘与版本演化/邓普顿1939逆向投资视频参考成片_2026-09-29.md",
+      "bytes": 1787,
+      "sha256": "aa6fedc08cfb21978fa62f7a5946d897527e28f762a53b42524cdab8987c1f44"
+    },
+    {
       "path": "80_复盘与版本演化/预黄埔管理独立模块修复发布_2026-09-12.md",
       "bytes": 1457,
       "sha256": "dd47f44ecc97a3caa1c4d20710d26800ba3a59c657eb02ef94defb1ade2ee05e"
@@ -22254,8 +22289,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1059,
-      "sha256": "0fa1703d3a25c812c32b2a6769f76e25e457ff9b400f73feafca8a2316d97672"
+      "bytes": 1271,
+      "sha256": "de1c5d06196e637eafbfc4810498b266fa8b26bf2abda37d9ad0d9eee3140cd8"
     },
     {
       "path": "_ops/external_media_manifest.csv",
