@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T22:36:35+08:00",
+  "generated_at": "2026-10-06T11:58:18+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4486,
-  "bytes": 70506267,
-  "copied_or_updated": 12,
-  "unchanged": 4474,
-  "removed": 2,
+  "files": 4494,
+  "bytes": 70536667,
+  "copied_or_updated": 14,
+  "unchanged": 4480,
+  "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 6536,
-      "sha256": "755ce02cca0c30c6b41677ca536ca1cdb4c59d722f49edf0f4ae73386f5302f2"
+      "bytes": 7194,
+      "sha256": "83d1ecddff0069cccae82287d72557707f8d7fa1c42734ffb31309347572cd0d"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1561,6 +1561,11 @@
       "path": "00_Inbox/发布前核对mgnt体验提交_2026-08-23.md",
       "bytes": 1061,
       "sha256": "ee042bd2d87c613caa819be402dd47c8d6ddfd1c4b371f842561481690a908a7"
+    },
+    {
+      "path": "00_Inbox/接入S5000AI三季报业绩预告_2026-10-04.md",
+      "bytes": 984,
+      "sha256": "113f6d5f03cc9f8fbe4608dd4f58c68c330a9e82dff0bead03b0b31be819678e"
     },
     {
       "path": "00_Inbox/替换邓普顿视频生成素材为真实素材_2026-09-29.md",
@@ -20518,6 +20523,11 @@
       "sha256": "ac5ded410c5d8a5a1fdb56394e0e7a25241536a83d25ce9913a4ba43602ed933"
     },
     {
+      "path": "30_产业研究库/FCC光模块限制影响边界_2026-10-03.md",
+      "bytes": 1433,
+      "sha256": "fe4ca84f8c6892d2b95f292c531ea8ad1d7ac8bcbd55f0a6139a788413f8cca5"
+    },
+    {
       "path": "30_产业研究库/_asset_notes/D_Evan_Files/S_demo/company/文献-半导体设备【中微公司】2025.04.20.asset.md",
       "bytes": 1779,
       "sha256": "67d110b7821e7cd07b19d558b4eafec8f9c2aaaa8b18591d059d27fa4d0c7cca"
@@ -21789,8 +21799,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 5677,
-      "sha256": "7d2f9ac3ff6afce60ba8a916dccb8fe7ef3707f51f55e2a1f2800270f0943dd6"
+      "bytes": 6335,
+      "sha256": "33f9a3d7a6c8baebeb067237e14bbbf344aed2a7456be8c71e9ddebc5897c634"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22054,18 +22064,33 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W40_Codex会话台账.md",
-      "bytes": 3185,
-      "sha256": "f7db55d34abbfa925fec64ac44fa9e66c556d8ad8f3aea31a2597ee18d163ea7"
+      "bytes": 7535,
+      "sha256": "38f6a1c20e2f857205667915f2d237a80bfb02c998bf748adbc38d94fe5e0caa"
     },
     {
       "path": "80_复盘与版本演化/2026-W40_Codex工作周报.md",
-      "bytes": 8412,
-      "sha256": "0dfdc4af2358e2dfd7fcca8d7756825648a562c634753b47c08fbae825b72742"
+      "bytes": 16800,
+      "sha256": "440430f2829621a57b9d2f6ba2063d998bc8c82f20da30eb3f27c7a7439226f0"
     },
     {
       "path": "80_复盘与版本演化/2026-W40_Codex资产与待办索引.md",
-      "bytes": 2474,
-      "sha256": "3e8c0b4adfba6743521d5a083c14ac203cf43844f833319d2bb7f0c62ef94f5d"
+      "bytes": 4407,
+      "sha256": "800271a9fafabb628f7310e7b84eefa0cb255f178397954db6d530c26a7d56aa"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W41_Codex会话台账.md",
+      "bytes": 1104,
+      "sha256": "f7412e865edcbaa7793dbe32efc7f4800dfb62372c63642f63c171ad9c52d35d"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W41_Codex工作周报.md",
+      "bytes": 3160,
+      "sha256": "ce665984a5ca9cd977a27613411d3260af3e0d90457be7d3d3c9771901c7e8b1"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W41_Codex资产与待办索引.md",
+      "bytes": 1054,
+      "sha256": "12e0a8e7e9b4bcd06ef5b65520cf43b113d5e8d49ccd40f52842b8fca619ffce"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22118,9 +22143,19 @@
       "sha256": "cfd0037e267fe7986864479b8eeb308ac3fada9e02f92916873556ac5addd7c9"
     },
     {
+      "path": "80_复盘与版本演化/RDS学习历史表归档清空_2026-10-04.md",
+      "bytes": 1899,
+      "sha256": "e6d896255e6acd068b5ead460f360214f09766986bd808684b034e9c7dd0fc9c"
+    },
+    {
       "path": "80_复盘与版本演化/S100发布阻断修复_2026-08-27.md",
       "bytes": 851,
       "sha256": "a65089d252092756b866a8756b8a22954e08537402b64b998192c29900fbeddf"
+    },
+    {
+      "path": "80_复盘与版本演化/S老师四场景语料组织与投研方法论_2026-10-04.md",
+      "bytes": 1769,
+      "sha256": "64a757aa37329fdf79246a07101b5e648bb1f7bb7dd12a774e81421c1f95b174"
     },
     {
       "path": "80_复盘与版本演化/S老师方法论HTML资产_2026-09-02.md",
@@ -22161,6 +22196,11 @@
       "path": "80_复盘与版本演化/ai-stock-web研究知识库生产发布_2026-09-07.md",
       "bytes": 1677,
       "sha256": "f528e423d39bbbba25e8a344b795f1efc43b886f4dc299dbb23646f795c4d3d7"
+    },
+    {
+      "path": "80_复盘与版本演化/ai-stock产业分析影子股与研究工作台生产治理_2026-10-03_to_2026-10-05.md",
+      "bytes": 2820,
+      "sha256": "8176a776ef4ba9c2a7814d7d0cfb5a93b28d98dba304a288698ea7f793660924"
     },
     {
       "path": "80_复盘与版本演化/ai-stock发版Skill安装包_2026-08-30.md",
@@ -22289,8 +22329,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1271,
-      "sha256": "de1c5d06196e637eafbfc4810498b266fa8b26bf2abda37d9ad0d9eee3140cd8"
+      "bytes": 1461,
+      "sha256": "832040bf02ef442ddeed221fc34603fe2cdf7c28d98164d060582bf5e21ad5d4"
     },
     {
       "path": "_ops/external_media_manifest.csv",
