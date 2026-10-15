@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T11:53:53+08:00",
+  "generated_at": "2026-10-15T11:57:11+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4502,
-  "bytes": 70567777,
-  "copied_or_updated": 13,
-  "unchanged": 4489,
-  "removed": 0,
+  "files": 4511,
+  "bytes": 70597595,
+  "copied_or_updated": 12,
+  "unchanged": 4499,
+  "removed": 3,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 7833,
-      "sha256": "3d13a43aa38b278927c301816c26f95f250719ce53c3158b061faf1af93463d4"
+      "bytes": 8553,
+      "sha256": "89af9a07506bbc272df5dd79266f8b2376a716baf6c17340e01354b70ad61af2"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -21819,8 +21819,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 6974,
-      "sha256": "a6ef07f8eecc87ca7596d0c54333976bf29ded885437d48504e3639aa9c8086d"
+      "bytes": 7694,
+      "sha256": "c02145262330d0adfaa85785c2d7bf763f38ab4d4fd83154966925a83c9ef36c"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22113,6 +22113,21 @@
       "sha256": "bcef8f27b9db7f0fd7f27ecf42015bc3574e31a9526bdd47f50bb9d4eef1c3f1"
     },
     {
+      "path": "80_复盘与版本演化/2026-W42_Codex会话台账.md",
+      "bytes": 4509,
+      "sha256": "565637ff03cbfa491f67b6b89cba172734c259dae08f26f70f129242fef6f60f"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W42_Codex工作周报.md",
+      "bytes": 8513,
+      "sha256": "20a00c788da2db232da3ac3ebca5f828bc0a5915843e19a60e9b47f7537c5fe1"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W42_Codex资产与待办索引.md",
+      "bytes": 3227,
+      "sha256": "ab15439cf1fe0166d3c036faced5c75d56598b964c2a5778d518c6f4925c049e"
+    },
+    {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
       "bytes": 1277,
       "sha256": "fb8a5af93cd34f6d96ead69deb41024887d3a3240d406b801a06cb2a3764f7c7"
@@ -22183,6 +22198,11 @@
       "sha256": "66ebc0d4b66f048bc0efea79c8954ad71fecd05e17cff829bf628e525909b7c7"
     },
     {
+      "path": "80_复盘与版本演化/S5000PC_502恢复与systemd托管_2026-10-15.md",
+      "bytes": 2039,
+      "sha256": "3337d9b755c345361d97908e0d8337d3f0b649a0c244f12572717bfbe342fe87"
+    },
+    {
       "path": "80_复盘与版本演化/S老师四场景语料组织与投研方法论_2026-10-04.md",
       "bytes": 1769,
       "sha256": "64a757aa37329fdf79246a07101b5e648bb1f7bb7dd12a774e81421c1f95b174"
@@ -22226,6 +22246,11 @@
       "path": "80_复盘与版本演化/ai-stock-web研究知识库生产发布_2026-09-07.md",
       "bytes": 1677,
       "sha256": "f528e423d39bbbba25e8a344b795f1efc43b886f4dc299dbb23646f795c4d3d7"
+    },
+    {
+      "path": "80_复盘与版本演化/ai-stock个股研究与模拟交易治理_2026-10-13_to_2026-10-14.md",
+      "bytes": 2393,
+      "sha256": "0cefc9957d44a967f76984a69d2879f0524f5a69a9f13a9bd49de08db86c0056"
     },
     {
       "path": "80_复盘与版本演化/ai-stock产业分析影子股与研究工作台生产治理_2026-10-03_to_2026-10-05.md",
@@ -22283,6 +22308,16 @@
       "sha256": "ac7e1c1c4c8efc577a98b82c62fd9604cd5673913c3d1f0824e603121a82499a"
     },
     {
+      "path": "80_复盘与版本演化/mgnt账号安全功能本地开发_2026-10-14.md",
+      "bytes": 1789,
+      "sha256": "aba5cfc26fc43c7bfcfa9baf6f63c4e74710f9c182202ded22fec7540f231298"
+    },
+    {
+      "path": "80_复盘与版本演化/mgnt身份权限与深链生产治理_2026-10-14.md",
+      "bytes": 2025,
+      "sha256": "12e9751f000742671dc1fc4c2428ca57cdb7158564b4c6d6e423f1eb9025eb55"
+    },
+    {
       "path": "80_复盘与版本演化/s-ai-agent_S老师AGI审查_2026-09-07.md",
       "bytes": 1526,
       "sha256": "919c9b788681005064a2b2d029c4f1603aad16d2c5f4349e1de55c418da20b09"
@@ -22316,6 +22351,16 @@
       "path": "80_复盘与版本演化/生产ai_stock_list官方清单修正_2026-08-27.md",
       "bytes": 903,
       "sha256": "45352cdfc2db84ef1aece3cb9405c406079e389b9296f50e8451e876f26f9f46"
+    },
+    {
+      "path": "80_复盘与版本演化/第一性原理学员工具与作业治理生产发布_2026-10-13_to_2026-10-15.md",
+      "bytes": 2248,
+      "sha256": "270270de9b3df14a5e2ac10440ef731a7bc97e8232114ed1db75faa18eac9f73"
+    },
+    {
+      "path": "80_复盘与版本演化/财富困惑诊断卡55位学员汇总_2026-10-13.md",
+      "bytes": 1703,
+      "sha256": "bb4dd907284663239253cdc8fec166269237d70b7ce4d3abc58f811092f9188b"
     },
     {
       "path": "80_复盘与版本演化/邓普顿1939逆向投资视频参考成片_2026-09-29.md",
@@ -22369,8 +22414,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1397,
-      "sha256": "da80af405cda68affdf7f93d9f6f4f87a4d76c12cea1f4d01997828c7246f04b"
+      "bytes": 1329,
+      "sha256": "8dd810d3ff8402cf8a4d2f223631330775a4c2e9793527c879ee0344fde2c640"
     },
     {
       "path": "_ops/external_media_manifest.csv",
