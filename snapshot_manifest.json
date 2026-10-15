@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T11:57:11+08:00",
+  "generated_at": "2026-10-15T12:00:55+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4511,
-  "bytes": 70597595,
-  "copied_or_updated": 12,
-  "unchanged": 4499,
-  "removed": 3,
+  "files": 4514,
+  "bytes": 70612265,
+  "copied_or_updated": 9,
+  "unchanged": 4505,
+  "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 8553,
-      "sha256": "89af9a07506bbc272df5dd79266f8b2376a716baf6c17340e01354b70ad61af2"
+      "bytes": 8808,
+      "sha256": "168dd0afd2f1685d860535ef420b2a9ad4d376c54c8adff9b453188ad67da3b6"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -21819,8 +21819,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 7694,
-      "sha256": "c02145262330d0adfaa85785c2d7bf763f38ab4d4fd83154966925a83c9ef36c"
+      "bytes": 7949,
+      "sha256": "f86d2c97488b9356f3c9b30bb11ddad83d93665c14406e51cc24e30f085b8b58"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22114,18 +22114,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W42_Codex会话台账.md",
-      "bytes": 4509,
-      "sha256": "565637ff03cbfa491f67b6b89cba172734c259dae08f26f70f129242fef6f60f"
+      "bytes": 7241,
+      "sha256": "313ffd683ac303fcc31dc4bc39d11e840ca62766caf94cf0c87eb0f7718f820f"
     },
     {
       "path": "80_复盘与版本演化/2026-W42_Codex工作周报.md",
-      "bytes": 8513,
-      "sha256": "20a00c788da2db232da3ac3ebca5f828bc0a5915843e19a60e9b47f7537c5fe1"
+      "bytes": 12767,
+      "sha256": "d12c108987945689e1b7bbc8d26d6cd242c7ce40fcf6bbd071b1b6850f016c12"
     },
     {
       "path": "80_复盘与版本演化/2026-W42_Codex资产与待办索引.md",
-      "bytes": 3227,
-      "sha256": "ab15439cf1fe0166d3c036faced5c75d56598b964c2a5778d518c6f4925c049e"
+      "bytes": 4376,
+      "sha256": "ef377cbfeb03ad7b3a547c2275de8d3ff42d4b9cf45574e5364ab042e807033a"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22176,6 +22176,11 @@
       "path": "80_复盘与版本演化/HTML报告根目录迁移_2026-08-31.md",
       "bytes": 936,
       "sha256": "79b27b77811e7581ebdad4fa2d223f26a42f3ff05d0831d1f7729e8d713d46b6"
+    },
+    {
+      "path": "80_复盘与版本演化/IP分镜素材Skill与主题素材包_2026-10-13_to_2026-10-14.md",
+      "bytes": 1741,
+      "sha256": "47b3e42e6f78b0559715f582ff550c63025b8ea786e2ab2cd2f5c2b4cb724b88"
     },
     {
       "path": "80_复盘与版本演化/Obsidian知识闭环与友好入口_2026-09-23.md",
@@ -22348,6 +22353,11 @@
       "sha256": "e53f4c3510e8ff38a0601daf3b0cfb53ae859dce6f6f1a73958f988f7e678351"
     },
     {
+      "path": "80_复盘与版本演化/抖音五账号语料同步迁移_2026-10-14.md",
+      "bytes": 1818,
+      "sha256": "8a938a325a0c38172fc00bfa76dcfffddb507a1bb7464cfe7c69db366f4a97a7"
+    },
+    {
       "path": "80_复盘与版本演化/生产ai_stock_list官方清单修正_2026-08-27.md",
       "bytes": 903,
       "sha256": "45352cdfc2db84ef1aece3cb9405c406079e389b9296f50e8451e876f26f9f46"
@@ -22356,6 +22366,11 @@
       "path": "80_复盘与版本演化/第一性原理学员工具与作业治理生产发布_2026-10-13_to_2026-10-15.md",
       "bytes": 2248,
       "sha256": "270270de9b3df14a5e2ac10440ef731a7bc97e8232114ed1db75faa18eac9f73"
+    },
+    {
+      "path": "80_复盘与版本演化/素材检索与补齐工作流生产发布_2026-10-13.md",
+      "bytes": 2112,
+      "sha256": "88c98c4fe386a8308e8cce57066c0f879eb81a7aa4681b7f1ba20b33d01b4bf4"
     },
     {
       "path": "80_复盘与版本演化/财富困惑诊断卡55位学员汇总_2026-10-13.md",
@@ -22414,8 +22429,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1329,
-      "sha256": "8dd810d3ff8402cf8a4d2f223631330775a4c2e9793527c879ee0344fde2c640"
+      "bytes": 1683,
+      "sha256": "d6017a53e3bea51f437dfaf7925f75a765727f30d5739b74831cdf6f4f505a26"
     },
     {
       "path": "_ops/external_media_manifest.csv",
