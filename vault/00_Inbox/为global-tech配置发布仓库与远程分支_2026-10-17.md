@@ -8,7 +8,7 @@ source: automation publication guard
 source_session: 01a0bd77-8ada-74d0-97c5-27bf7962ef63
 artifact_path: D:\Evan\html\global-tech-radar
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-18
 tags:
   - action/pending
   - deployment/git-first
@@ -17,7 +17,7 @@ tags:
 
 ## 待完成
 
-- 为 `D:\Evan\html\global-tech-radar` 明确源代码/内容仓库、远程和发布分支。
+- 为 `D:\Evan\html\global-tech-radar` 明确源代码或内容仓库、远程和发布分支。
 - 将报告生成器与必要配置提交并推送，核验远程包含该提交。
 - 从已推送的确定 commit 构建和发布，记录 commit、内容中心结果与回滚点。
 
@@ -29,3 +29,7 @@ tags:
 
 - 发布说明包含仓库、远程分支和提交号。
 - 公网目录与该 commit 构建产物一致，且保留可用回滚版本。
+
+## 本机核对边界
+
+- 本行动项从公开同步仓库提交 `91f97b7` 合并回主知识库；来源主机目录与自动化状态本轮未重新验收。

@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T12:00:55+08:00",
+  "generated_at": "2026-10-18T18:05:05+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4514,
-  "bytes": 70612265,
-  "copied_or_updated": 9,
-  "unchanged": 4505,
-  "removed": 0,
+  "files": 4523,
+  "bytes": 70643727,
+  "copied_or_updated": 16,
+  "unchanged": 4507,
+  "removed": 1,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
     ".obsidian/workspace.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 8808,
-      "sha256": "168dd0afd2f1685d860535ef420b2a9ad4d376c54c8adff9b453188ad67da3b6"
+      "bytes": 9594,
+      "sha256": "943172035cfc14eea43b153d5860d2b80045ceb10c99ded1f5897b62f22c9e03"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1541,6 +1541,11 @@
       "path": "00_Inbox/_imported/Documents/ai_stock_list_structure.md",
       "bytes": 3269,
       "sha256": "6d5bfb55fe490634777dbc85430cfc91c5852f14d818eb65eab8a2542a7191e1"
+    },
+    {
+      "path": "00_Inbox/为global-tech配置发布仓库与远程分支_2026-10-17.md",
+      "bytes": 1151,
+      "sha256": "79fa5c71b32770004ef5cb97b79cca1cbf174d8b514e8263fa510d35952256ac"
     },
     {
       "path": "00_Inbox/云盘高使用率安全清理_2026-09-17.md",
@@ -21778,6 +21783,11 @@
       "sha256": "29d197da55165a45e5cb67356d8acd05f513b70790bf2d7b4cf6ea819c01b6e0"
     },
     {
+      "path": "60_AI工具与工程/中文数字人口播转换最小修改原则_2026-10-15.md",
+      "bytes": 1528,
+      "sha256": "4eaeb4783fffa092290a54d62cca74b6ce8d026658055bc9d2d0cd28891a10cc"
+    },
+    {
       "path": "60_AI工具与工程/内容流水线选题裁决规则_2026-09-03.md",
       "bytes": 1154,
       "sha256": "39a50c591159c58e6178184aaa4a27c66d180c2ba5aec0bb73f32033c74860f9"
@@ -21819,8 +21829,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 7949,
-      "sha256": "f86d2c97488b9356f3c9b30bb11ddad83d93665c14406e51cc24e30f085b8b58"
+      "bytes": 8735,
+      "sha256": "e7764f062c81ace86c45218df18412056e18c5b6e8a2f500ddf5bc7488add8d8"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22114,18 +22124,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W42_Codex会话台账.md",
-      "bytes": 7241,
-      "sha256": "313ffd683ac303fcc31dc4bc39d11e840ca62766caf94cf0c87eb0f7718f820f"
+      "bytes": 11282,
+      "sha256": "8885111fb46c96d0e64c058970584d5e16bb0fb70542776336dd94d1fbe9be9c"
     },
     {
       "path": "80_复盘与版本演化/2026-W42_Codex工作周报.md",
-      "bytes": 12767,
-      "sha256": "d12c108987945689e1b7bbc8d26d6cd242c7ce40fcf6bbd071b1b6850f016c12"
+      "bytes": 19007,
+      "sha256": "f8733ae11289476c43c7de99be882465a8bb32bdb74ff02462229de29f2d730d"
     },
     {
       "path": "80_复盘与版本演化/2026-W42_Codex资产与待办索引.md",
-      "bytes": 4376,
-      "sha256": "ef377cbfeb03ad7b3a547c2275de8d3ff42d4b9cf45574e5364ab042e807033a"
+      "bytes": 6695,
+      "sha256": "68ee3a1d74cde030d765e34847d7255e7559d730517be756c5f4f222d7fb6c5b"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22223,6 +22233,11 @@
       "sha256": "2ccafcb058cd8b48b51f16650f1f40c938c4c3eabadf52884d43389a30170d35"
     },
     {
+      "path": "80_复盘与版本演化/Windows_Codex_Git扫描卡顿修复_2026-10-15.md",
+      "bytes": 2028,
+      "sha256": "1aaec66224ae490ae3be6c4e067c3703f08a0d1cf79cd0aef83f8c708e7c846e"
+    },
+    {
       "path": "80_复盘与版本演化/_asset_notes/D_Evan_Files/files/S的宝藏世界AI战略总结与优化.asset.md",
       "bytes": 1663,
       "sha256": "d5003a491e8c7dfea2acb9153c2efecbf2b73ee2bf366e3d49a7b00786ef4cc8"
@@ -22268,6 +22283,11 @@
       "sha256": "500148a222181aa1cf02ebfc02bb5db64d89afd2e86aa7cb72162a095c5cc715"
     },
     {
+      "path": "80_复盘与版本演化/ai-stock当日买卖与卖出盈亏展示生产发布_2026-10-16.md",
+      "bytes": 2184,
+      "sha256": "394d53415153d8fe386597b70c2720bcc16e1a7b6387f239f220524dbe8dc74f"
+    },
+    {
       "path": "80_复盘与版本演化/ai-stock情绪催化自适应战法审计与上线_2026-09-24.md",
       "bytes": 3132,
       "sha256": "6120ea54a1e8b7350c6a32e6afb10d0952c339335dd962581a9373b7458f2658"
@@ -22281,6 +22301,11 @@
       "path": "80_复盘与版本演化/ai-stock每日重点情报本地开发_2026-09-28.md",
       "bytes": 2905,
       "sha256": "8c3081113ae59f3a8590f07b2d29324003c4916552cb33f7e239d29e652209bc"
+    },
+    {
+      "path": "80_复盘与版本演化/ai-stock解套策略与全局到价提醒_2026-10-16.md",
+      "bytes": 1666,
+      "sha256": "55571b9b76b40c09149d73a80a58cf6ac35c6042119c897851bb216864c2b519"
     },
     {
       "path": "80_复盘与版本演化/dify-api-bzsj一二维度吞吐生产优化_2026-09-04.md",
@@ -22313,9 +22338,14 @@
       "sha256": "ac7e1c1c4c8efc577a98b82c62fd9604cd5673913c3d1f0824e603121a82499a"
     },
     {
-      "path": "80_复盘与版本演化/mgnt账号安全功能本地开发_2026-10-14.md",
-      "bytes": 1789,
-      "sha256": "aba5cfc26fc43c7bfcfa9baf6f63c4e74710f9c182202ded22fec7540f231298"
+      "path": "80_复盘与版本演化/mgnt新增用户与学员账号关联生产发布_2026-10-16_to_2026-10-17.md",
+      "bytes": 2541,
+      "sha256": "30264f82bd225008638552687a0811af8a74dbf903c5a00ef612cb43c231d95d"
+    },
+    {
+      "path": "80_复盘与版本演化/mgnt账号安全功能生产发布_2026-10-14.md",
+      "bytes": 2441,
+      "sha256": "ebfb6d974e16de83ea364e6b4fc9fecf0e79bbd560c665dbc463cd44d27301e5"
     },
     {
       "path": "80_复盘与版本演化/mgnt身份权限与深链生产治理_2026-10-14.md",
@@ -22348,6 +22378,11 @@
       "sha256": "f160ac7e6f4f335b879a348bcfc13e89918c2ac114e798a5c13a55cb85fa4509"
     },
     {
+      "path": "80_复盘与版本演化/分镜素材查找与粗剪质检Skill升级_2026-10-16.md",
+      "bytes": 2217,
+      "sha256": "e1a126501a48f26436a305e595b6d8ed5b738a00a8c7b54354de999e138fe31e"
+    },
+    {
       "path": "80_复盘与版本演化/宏观雷达latest入口缺失诊断_2026-08-23.md",
       "bytes": 1142,
       "sha256": "e53f4c3510e8ff38a0601daf3b0cfb53ae859dce6f6f1a73958f988f7e678351"
@@ -22368,9 +22403,19 @@
       "sha256": "270270de9b3df14a5e2ac10440ef731a7bc97e8232114ed1db75faa18eac9f73"
     },
     {
+      "path": "80_复盘与版本演化/素材检索UI与素材包生产入库_2026-10-16.md",
+      "bytes": 1620,
+      "sha256": "49d316224f04288c3e5c341292d65dc142eda76ef51007e50ce52aee0ee407ce"
+    },
+    {
       "path": "80_复盘与版本演化/素材检索与补齐工作流生产发布_2026-10-13.md",
       "bytes": 2112,
       "sha256": "88c98c4fe386a8308e8cce57066c0f879eb81a7aa4681b7f1ba20b33d01b4bf4"
+    },
+    {
+      "path": "80_复盘与版本演化/视频号便携包与抖音日刷恢复_2026-10-16_to_2026-10-17.md",
+      "bytes": 1585,
+      "sha256": "576983b0ba9ea3b897943b8dbcb1885397acf50818946ba369b81b21e46ecf7a"
     },
     {
       "path": "80_复盘与版本演化/财富困惑诊断卡55位学员汇总_2026-10-13.md",
@@ -22429,8 +22474,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1683,
-      "sha256": "d6017a53e3bea51f437dfaf7925f75a765727f30d5739b74831cdf6f4f505a26"
+      "bytes": 1801,
+      "sha256": "3ae3e4c92b2740f8e15a84c5d99aade4d1c7ad73ee83e16c351a33d59fb3aa05"
     },
     {
       "path": "_ops/external_media_manifest.csv",
