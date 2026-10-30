@@ -8,7 +8,7 @@ source: automation publication guard
 source_session: 01a0bd77-8ada-74d0-97c5-27bf7962ef63
 artifact_path: D:\Evan\html\global-tech-radar
 created: 2026-10-17
-updated: 2026-10-29
+updated: 2026-10-30
 tags:
   - action/pending
   - deployment/git-first
@@ -24,7 +24,7 @@ tags:
 ## 当前阻塞
 
 - 2026-10-16 12:00、2026-10-17 06:00/12:00 报告已生成校验，但因未配置 Git 仓库及远程分支而未上线。
-- 截至2026-10-29，`global_tech_radar_20261028_0600/1200.html` 与 `global_tech_radar_20261029_0600/1200.html` 仍只在本地完成；报告目录、`D:\Evan\html` 与发布器目录均没有约定Git仓库和远程分支，因此继续停止上线。
+- 公开同步提交 `d84fc2f` 记录：截至2026-10-29，28–29日的四轮报告仍只完成本地生成校验，发布目录未配置约定Git仓库和远程分支，仍未上线。
 
 ## 验收标准
 
