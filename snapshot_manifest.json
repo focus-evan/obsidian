@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T18:05:07+08:00",
+  "generated_at": "2026-11-03T10:43:36+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4553,
-  "bytes": 70753236,
-  "copied_or_updated": 15,
-  "unchanged": 4538,
+  "files": 4561,
+  "bytes": 70777809,
+  "copied_or_updated": 14,
+  "unchanged": 4547,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 12072,
-      "sha256": "6b312ca0bed2f4776bad2572de75405add2f6f70688f81d518721ace0b0abbfc"
+      "bytes": 12859,
+      "sha256": "aa6fd0a6591927ef3c3dc26865ade680293425629f5f64d1927b6ea3e910ed51"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1551,6 +1551,11 @@
       "path": "00_Inbox/云盘高使用率安全清理_2026-09-17.md",
       "bytes": 1636,
       "sha256": "3df90fd878fa068b5c7a818f8748d3145c1221c0018fe04bc8c58c66b0499b73"
+    },
+    {
+      "path": "00_Inbox/修复五维小结三节点模型路由配置_2026-11-01.md",
+      "bytes": 1272,
+      "sha256": "a2cc79cf57f9ffb102611435b0449848f1a18f74265b53531be0e94a8268793d"
     },
     {
       "path": "00_Inbox/修复宏观雷达latest入口_2026-08-23.md",
@@ -21844,8 +21849,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 11213,
-      "sha256": "173e422f91cfdc30ba354a52a0ac5d95d2ac7846c8102c6ba0e8f45ade9307b0"
+      "bytes": 12000,
+      "sha256": "0c2884d3692bbf998e93095a39233e1f4f6327397a8db3dfef13a2f9ba15e47e"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22169,18 +22174,33 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W44_Codex会话台账.md",
-      "bytes": 8333,
-      "sha256": "401eb60faa552b5f323f284a43c10c1c0f4ad549f7fe486df865a97522da833d"
+      "bytes": 9785,
+      "sha256": "3f6df8b0e224316fd26cb96fb4ce009ae43114151281639d71f2f6157d828ee4"
     },
     {
       "path": "80_复盘与版本演化/2026-W44_Codex工作周报.md",
-      "bytes": 12436,
-      "sha256": "c898f883e9e433c00a1867c255d6db9c4c8960a627776cae215694fc9896f4a0"
+      "bytes": 16852,
+      "sha256": "a297f36a319acd4c961ee82f158b3d6138909267f1d46550fd8783c81edde7d8"
     },
     {
       "path": "80_复盘与版本演化/2026-W44_Codex资产与待办索引.md",
-      "bytes": 4546,
-      "sha256": "f86744a6abd275bcedb82f91b6b35d531502b56a12e1be958eb2dfaf4cfb1415"
+      "bytes": 5542,
+      "sha256": "fe90db88d7ad5f8ed1d84e8025785f80486d8480063d3f4a16d9b4f4a5cbddd8"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W45_Codex会话台账.md",
+      "bytes": 1500,
+      "sha256": "3dd836bcdddef1e2f805fcd28a1acae5b8b7bc1476635222e6a1989c2f05aa39"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W45_Codex工作周报.md",
+      "bytes": 4837,
+      "sha256": "0cb9da9815c67228b2a1d8b6c1f8b11b86d174183e176c4d62e85d84a06bd36c"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W45_Codex资产与待办索引.md",
+      "bytes": 1741,
+      "sha256": "03ca632006441fa3d07ace3f0686a3841846c46d9716188cae1bfb19c3fe007e"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22261,6 +22281,16 @@
       "path": "80_复盘与版本演化/S5000AI兆易创新A_H数据污染修复_2026-10-09.md",
       "bytes": 1777,
       "sha256": "66ebc0d4b66f048bc0efea79c8954ad71fecd05e17cff829bf628e525909b7c7"
+    },
+    {
+      "path": "80_复盘与版本演化/S5000AI报告与资产配置表格生产发布_2026-11-02.md",
+      "bytes": 1713,
+      "sha256": "184e18d8c5b6a8df0eec4a337885170cca83d91e7825e16d40364be7e3a263f9"
+    },
+    {
+      "path": "80_复盘与版本演化/S5000AI财报数据与币种修复_2026-11-01_to_2026-11-02.md",
+      "bytes": 1909,
+      "sha256": "fa2713beb8ba84dc8b5408c02c90af37bb818766dab2d551a176b89b82b5119a"
     },
     {
       "path": "80_复盘与版本演化/S5000PC_502恢复与systemd托管_2026-10-15.md",
@@ -22468,6 +22498,11 @@
       "sha256": "8c33ab15913aa7697910d09250c814d0a6ad9bb867fc5e0a4528dd0b1724073d"
     },
     {
+      "path": "80_复盘与版本演化/宝藏GPT首页与资产配置用户值生产发布_2026-10-31.md",
+      "bytes": 1818,
+      "sha256": "fd2bdeef712f5b8fdd34f9bbf98ee8a60c9cacf218f0fcc9f2fecc941a39c308"
+    },
+    {
       "path": "80_复盘与版本演化/抖音五账号语料同步迁移_2026-10-14.md",
       "bytes": 1818,
       "sha256": "8a938a325a0c38172fc00bfa76dcfffddb507a1bb7464cfe7c69db366f4a97a7"
@@ -22588,6 +22623,11 @@
       "sha256": "31afea21cb045ebba58b910f0f059849f7e562943f0afb4fa98de048d424156b"
     },
     {
+      "path": "80_复盘与版本演化/黄埔25期三季报覆盖只读审计_2026-11-02.md",
+      "bytes": 1500,
+      "sha256": "ea6ee34f5c99a128399677f0f4e5f4605b3b6375fe1443335c57caf729ca87cd"
+    },
+    {
       "path": "80_复盘与版本演化/黄埔课堂语料分类重写_2026-09-07.md",
       "bytes": 1209,
       "sha256": "18e657a7ce70f16b0e6e15183f8daa733ecf79ea56f7e5ff565fded93d6300b2"
@@ -22624,8 +22664,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1637,
-      "sha256": "30dd8b20d1ff2cb019661b67e0ce1b61fa77e3103c70efd9c7da461c7fd366d4"
+      "bytes": 1482,
+      "sha256": "771b31c1c3ff9ada26c4ad58545a92690a3b0b9ce7d04ac68b56da46f52753c0"
     },
     {
       "path": "_ops/external_media_manifest.csv",
