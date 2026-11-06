@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T10:43:36+08:00",
+  "generated_at": "2026-11-06T10:47:47+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4561,
-  "bytes": 70777809,
-  "copied_or_updated": 14,
-  "unchanged": 4547,
+  "files": 4566,
+  "bytes": 70800558,
+  "copied_or_updated": 12,
+  "unchanged": 4554,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 12859,
-      "sha256": "aa6fd0a6591927ef3c3dc26865ade680293425629f5f64d1927b6ea3e910ed51"
+      "bytes": 13262,
+      "sha256": "8f773ecaed80b9b3606e44c8c269a98561a01a58dc6ec58639da0f860b00263a"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1581,6 +1581,11 @@
       "path": "00_Inbox/发布近下限镜头合并并重切商业航天视频_2026-10-08.md",
       "bytes": 955,
       "sha256": "1c45cfbbc36ac22900743279372f02a1ca4182fd3aabdf9ba51e0a424accaa93"
+    },
+    {
+      "path": "00_Inbox/审计飞书作业误触发同步_2026-11-05.md",
+      "bytes": 1417,
+      "sha256": "964403a8399d307976c5cc0eb73a67b31d67d408d50b9e586eee04ae949dcde3"
     },
     {
       "path": "00_Inbox/开发Artgrid浏览器录播素材服务_2026-10-09.md",
@@ -21849,8 +21854,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 12000,
-      "sha256": "0c2884d3692bbf998e93095a39233e1f4f6327397a8db3dfef13a2f9ba15e47e"
+      "bytes": 12403,
+      "sha256": "d9c7462a454bcde705a7111a48e3c97e8eb775cd4ee1ff7b3c1c2824755c208b"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22189,18 +22194,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W45_Codex会话台账.md",
-      "bytes": 1500,
-      "sha256": "3dd836bcdddef1e2f805fcd28a1acae5b8b7bc1476635222e6a1989c2f05aa39"
+      "bytes": 4823,
+      "sha256": "26758cc39761ad36129f956639a160a4e9fad933ac7dd2f2f4cf17de95265d7b"
     },
     {
       "path": "80_复盘与版本演化/2026-W45_Codex工作周报.md",
-      "bytes": 4837,
-      "sha256": "0cb9da9815c67228b2a1d8b6c1f8b11b86d174183e176c4d62e85d84a06bd36c"
+      "bytes": 11334,
+      "sha256": "ab774d3920118ed766364ce65232c4acaa9c13843b7f25fb3e7b4f24effbf577"
     },
     {
       "path": "80_复盘与版本演化/2026-W45_Codex资产与待办索引.md",
-      "bytes": 1741,
-      "sha256": "03ca632006441fa3d07ace3f0686a3841846c46d9716188cae1bfb19c3fe007e"
+      "bytes": 3259,
+      "sha256": "836bcae10f55f80f1778f289aaa5bb05c314f61d9985ceb2045952baacc03bae"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22276,6 +22281,11 @@
       "path": "80_复盘与版本演化/S100发布阻断修复_2026-08-27.md",
       "bytes": 851,
       "sha256": "a65089d252092756b866a8756b8a22954e08537402b64b998192c29900fbeddf"
+    },
+    {
+      "path": "80_复盘与版本演化/S5000AI与教练版界面生产更新_2026-11-05.md",
+      "bytes": 2316,
+      "sha256": "a923d0cb0df77cbe3b9b0d0a4960f6bf3d409316c83599a7d19b387d50a5693c"
     },
     {
       "path": "80_复盘与版本演化/S5000AI兆易创新A_H数据污染修复_2026-10-09.md",
@@ -22473,6 +22483,16 @@
       "sha256": "3e4d1e75b7498e6f637d73952797e94f03a00f07671e0749691a7abe726f6b50"
     },
     {
+      "path": "80_复盘与版本演化/五年安全边际与PE历史生产演化_2026-11-04_to_2026-11-05.md",
+      "bytes": 2420,
+      "sha256": "b3c312ef20053061561f27e02385a90d6d8f7fb9df40ea124ca51d7e5c9adee4"
+    },
+    {
+      "path": "80_复盘与版本演化/全市场S100两期基金重仓生产发布_2026-11-04.md",
+      "bytes": 2006,
+      "sha256": "f2deda8e90642f3a45de16f502a031204511d5ea508e76af0eb3b40fedb0ee95"
+    },
+    {
       "path": "80_复盘与版本演化/六问六分科技持仓诊断_2026-09-02.md",
       "bytes": 1115,
       "sha256": "f160ac7e6f4f335b879a348bcfc13e89918c2ac114e798a5c13a55cb85fa4509"
@@ -22489,13 +22509,18 @@
     },
     {
       "path": "80_复盘与版本演化/宝藏AI上下文用量与藏经阁本地开发_2026-10-28_to_2026-10-29.md",
-      "bytes": 1942,
-      "sha256": "d1522922a47fe9612c22fa088b5f4e04df0f12b5a281107a623b4c8af6438f23"
+      "bytes": 2632,
+      "sha256": "e9db78555cb2f1e260f881c02f03ce3c75cb288c2250180258c162961b4490e1"
     },
     {
       "path": "80_复盘与版本演化/宝藏AI单一最终答复生产修复_2026-10-29.md",
       "bytes": 1799,
       "sha256": "8c33ab15913aa7697910d09250c814d0a6ad9bb867fc5e0a4528dd0b1724073d"
+    },
+    {
+      "path": "80_复盘与版本演化/宝藏GPT聊天内业务生产发布_2026-11-06.md",
+      "bytes": 1925,
+      "sha256": "50e6b2e812bd1c45c0bc060d739d11dc4a38c6ee030a62a78fa286e09b765543"
     },
     {
       "path": "80_复盘与版本演化/宝藏GPT首页与资产配置用户值生产发布_2026-10-31.md",
@@ -22664,8 +22689,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1482,
-      "sha256": "771b31c1c3ff9ada26c4ad58545a92690a3b0b9ce7d04ac68b56da46f52753c0"
+      "bytes": 1313,
+      "sha256": "229d533276610eb9d81a7780ff5890fcda30cf832c06227822dffb59c67ddff1"
     },
     {
       "path": "_ops/external_media_manifest.csv",
