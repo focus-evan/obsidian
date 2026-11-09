@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T10:47:47+08:00",
+  "generated_at": "2026-11-09T10:47:04+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4566,
-  "bytes": 70800558,
+  "files": 4572,
+  "bytes": 70821496,
   "copied_or_updated": 12,
-  "unchanged": 4554,
+  "unchanged": 4560,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 13262,
-      "sha256": "8f773ecaed80b9b3606e44c8c269a98561a01a58dc6ec58639da0f860b00263a"
+      "bytes": 13734,
+      "sha256": "a6312ba021bbbf652072b65e1af6dfa0c2eeb3458c5584f07f9979b166747fa1"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -21854,8 +21854,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 12403,
-      "sha256": "d9c7462a454bcde705a7111a48e3c97e8eb775cd4ee1ff7b3c1c2824755c208b"
+      "bytes": 12875,
+      "sha256": "a269cdc8b5d04edbd4fabd6a0e16288cae4506bf681f2b5573be296f35f74e79"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22194,18 +22194,33 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W45_Codex会话台账.md",
-      "bytes": 4823,
-      "sha256": "26758cc39761ad36129f956639a160a4e9fad933ac7dd2f2f4cf17de95265d7b"
+      "bytes": 7727,
+      "sha256": "7fd9ca80f2511a30b770d3796890cf3ae94e462740bd178954ff4752cdc6377f"
     },
     {
       "path": "80_复盘与版本演化/2026-W45_Codex工作周报.md",
-      "bytes": 11334,
-      "sha256": "ab774d3920118ed766364ce65232c4acaa9c13843b7f25fb3e7b4f24effbf577"
+      "bytes": 17198,
+      "sha256": "e24577f06327f10b1fabcfc95460bb412612f25ebe2c295343c328ede9dac073"
     },
     {
       "path": "80_复盘与版本演化/2026-W45_Codex资产与待办索引.md",
-      "bytes": 3259,
-      "sha256": "836bcae10f55f80f1778f289aaa5bb05c314f61d9985ceb2045952baacc03bae"
+      "bytes": 4524,
+      "sha256": "a98ffe65b5be59cbdfeca3ec7583b496eb5f604687796ed40ec856dd6606e24e"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W46_Codex会话台账.md",
+      "bytes": 664,
+      "sha256": "f0c151bc48c0b011477d29bbeba8c8102832d8e66fe1214184cda417e1520511"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W46_Codex工作周报.md",
+      "bytes": 1553,
+      "sha256": "d372625f3a9e8579843172ea67cfe7b489e45cfdfa36904c811c2aa929b98f9c"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W46_Codex资产与待办索引.md",
+      "bytes": 721,
+      "sha256": "785df4f63b4a0f4b2045266d8623a77aeb2c52255c2f10c8718e6bcd0ed23dd2"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22518,6 +22533,16 @@
       "sha256": "8c33ab15913aa7697910d09250c814d0a6ad9bb867fc5e0a4528dd0b1724073d"
     },
     {
+      "path": "80_复盘与版本演化/宝藏GPT业务卡片与10X报告直达_2026-11-07_to_2026-11-08.md",
+      "bytes": 2289,
+      "sha256": "d879a74750c3458c66e1505ee1ac29fda18bacaa81a65c71bb403a6ef5cfe3e3"
+    },
+    {
+      "path": "80_复盘与版本演化/宝藏GPT流式答复与权限问答生产发布_2026-11-07.md",
+      "bytes": 2503,
+      "sha256": "df079b124f3116627234fe91e79adc3666d7e638437781a5afaa7b86d6e5e82a"
+    },
+    {
       "path": "80_复盘与版本演化/宝藏GPT聊天内业务生产发布_2026-11-06.md",
       "bytes": 1925,
       "sha256": "50e6b2e812bd1c45c0bc060d739d11dc4a38c6ee030a62a78fa286e09b765543"
@@ -22618,6 +22643,11 @@
       "sha256": "c632a8bb31f8e92f62aafa6bb6824a55626fbca4b2002b76b7b7e47a9cb2bcff"
     },
     {
+      "path": "80_复盘与版本演化/账号管理角色筛选与临时分支治理_2026-11-07.md",
+      "bytes": 2280,
+      "sha256": "40987dcc6c1f648479b39d31c5c39afc9c92c303c933c2d8793fc8219ca38f31"
+    },
+    {
       "path": "80_复盘与版本演化/资产配置基础数据生产发布_2026-10-21.md",
       "bytes": 1888,
       "sha256": "36442bf987412b07099cbab069ba92902d38bc5ff5078d3b79851ed49175eef6"
@@ -22689,8 +22719,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1313,
-      "sha256": "229d533276610eb9d81a7780ff5890fcda30cf832c06227822dffb59c67ddff1"
+      "bytes": 1264,
+      "sha256": "2295d3750ae702fce6837bfc71ab970b1ec793e3f2e75ada0e6271c27e32db78"
     },
     {
       "path": "_ops/external_media_manifest.csv",
