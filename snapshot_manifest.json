@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T10:47:04+08:00",
+  "generated_at": "2026-11-12T10:46:22+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4572,
-  "bytes": 70821496,
-  "copied_or_updated": 12,
-  "unchanged": 4560,
+  "files": 4577,
+  "bytes": 70840555,
+  "copied_or_updated": 11,
+  "unchanged": 4566,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 13734,
-      "sha256": "a6312ba021bbbf652072b65e1af6dfa0c2eeb3458c5584f07f9979b166747fa1"
+      "bytes": 14173,
+      "sha256": "6c5082a3ddbc4ec81d28873e8e3aebdd4666225c882202185036edf5f0615e50"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -21854,8 +21854,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 12875,
-      "sha256": "a269cdc8b5d04edbd4fabd6a0e16288cae4506bf681f2b5573be296f35f74e79"
+      "bytes": 13314,
+      "sha256": "c9139195466ad5458504b27f22c95c5f520abdec4d6aefa17fafb65179eb9544"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22209,18 +22209,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W46_Codex会话台账.md",
-      "bytes": 664,
-      "sha256": "f0c151bc48c0b011477d29bbeba8c8102832d8e66fe1214184cda417e1520511"
+      "bytes": 3319,
+      "sha256": "9374f0dc43d095942bcfb753a5c6397dfec676184e15c24cf142893cb1814ba8"
     },
     {
       "path": "80_复盘与版本演化/2026-W46_Codex工作周报.md",
-      "bytes": 1553,
-      "sha256": "d372625f3a9e8579843172ea67cfe7b489e45cfdfa36904c811c2aa929b98f9c"
+      "bytes": 6671,
+      "sha256": "a4a6ba7dfbba481ffae949fc8b122b9943c2d2d97b310493f4fa31c85638afd6"
     },
     {
       "path": "80_复盘与版本演化/2026-W46_Codex资产与待办索引.md",
-      "bytes": 721,
-      "sha256": "785df4f63b4a0f4b2045266d8623a77aeb2c52255c2f10c8718e6bcd0ed23dd2"
+      "bytes": 2530,
+      "sha256": "2e9be2cfad73c10096e2e00784216a8d8c75ee65b2c1c9bed898cbe47000dd80"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22331,6 +22331,11 @@
       "path": "80_复盘与版本演化/S老师方法论HTML资产_2026-09-02.md",
       "bytes": 1149,
       "sha256": "72693d6b6eb207b88b09a2d2e8ea050daa66abe5e10c14ff9609986b5f7480bd"
+    },
+    {
+      "path": "80_复盘与版本演化/S量化五维PK不限家公司生产发布_2026-11-10.md",
+      "bytes": 1603,
+      "sha256": "aa40ef5a76132591f25ea3f7b42493ba02648e6a07d198ba63635134c700b712"
     },
     {
       "path": "80_复盘与版本演化/W34_mgnt体验提交汇总_2026-08-23.md",
@@ -22518,6 +22523,11 @@
       "sha256": "e1a126501a48f26436a305e595b6d8ed5b738a00a8c7b54354de999e138fe31e"
     },
     {
+      "path": "80_复盘与版本演化/学员资产配置自选与流程生产发布_2026-11-10_to_2026-11-11.md",
+      "bytes": 2140,
+      "sha256": "f92d6f73af9da11046f53c8e31ba3a68cac505b7e733e2707074885ba5bd2f33"
+    },
+    {
       "path": "80_复盘与版本演化/宏观雷达latest入口缺失诊断_2026-08-23.md",
       "bytes": 1142,
       "sha256": "e53f4c3510e8ff38a0601daf3b0cfb53ae859dce6f6f1a73958f988f7e678351"
@@ -22531,6 +22541,11 @@
       "path": "80_复盘与版本演化/宝藏AI单一最终答复生产修复_2026-10-29.md",
       "bytes": 1799,
       "sha256": "8c33ab15913aa7697910d09250c814d0a6ad9bb867fc5e0a4528dd0b1724073d"
+    },
+    {
+      "path": "80_复盘与版本演化/宝藏GPT_Demo资产配置脱敏查询发布_2026-11-11.md",
+      "bytes": 1664,
+      "sha256": "72192204927aa9744e9f7fb171ec783e4f03f84ee860d8be57a067395603948d"
     },
     {
       "path": "80_复盘与版本演化/宝藏GPT业务卡片与10X报告直达_2026-11-07_to_2026-11-08.md",
@@ -22623,6 +22638,11 @@
       "sha256": "88c98c4fe386a8308e8cce57066c0f879eb81a7aa4681b7f1ba20b33d01b4bf4"
     },
     {
+      "path": "80_复盘与版本演化/联讯仪器S5000AI数据与日期修复_2026-11-10.md",
+      "bytes": 1933,
+      "sha256": "97ee9de09f48d952f77944c26941040845086801858130a84c440460405ae5b3"
+    },
+    {
       "path": "80_复盘与版本演化/视频号便携包与抖音日刷恢复_2026-10-16_to_2026-10-17.md",
       "bytes": 1585,
       "sha256": "576983b0ba9ea3b897943b8dbcb1885397acf50818946ba369b81b21e46ecf7a"
@@ -22651,6 +22671,11 @@
       "path": "80_复盘与版本演化/资产配置基础数据生产发布_2026-10-21.md",
       "bytes": 1888,
       "sha256": "36442bf987412b07099cbab069ba92902d38bc5ff5078d3b79851ed49175eef6"
+    },
+    {
+      "path": "80_复盘与版本演化/走得更远科技产业投资分享PPT_2026-11-11.md",
+      "bytes": 1311,
+      "sha256": "5a0d51787430daa4112078ae346b876d6aebeed3cd4c4dd33fad62326662f7e7"
     },
     {
       "path": "80_复盘与版本演化/邓普顿1939逆向投资视频参考成片_2026-09-29.md",
@@ -22719,8 +22744,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1264,
-      "sha256": "2295d3750ae702fce6837bfc71ab970b1ec793e3f2e75ada0e6271c27e32db78"
+      "bytes": 1212,
+      "sha256": "157510954654ba649d56ffc6b9e45bb0e6ac2de100020a8aef14883519319d20"
     },
     {
       "path": "_ops/external_media_manifest.csv",
