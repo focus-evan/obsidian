@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T07:12:47+08:00",
+  "generated_at": "2026-11-19T10:02:54+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4579,
-  "bytes": 70849684,
-  "copied_or_updated": 8,
-  "unchanged": 4571,
+  "files": 4585,
+  "bytes": 70864543,
+  "copied_or_updated": 9,
+  "unchanged": 4576,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 14326,
-      "sha256": "095da96a0ae849fedf0332ee4a73e32a204413445942cb75cef07b32e494527c"
+      "bytes": 14754,
+      "sha256": "9118945eae47fc687538921917fcded199280f82b3fb5517f79fcd34f55a267e"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1621,6 +1621,11 @@
       "path": "00_Inbox/核对AI-Stock主分支自动部署_2026-09-05.md",
       "bytes": 647,
       "sha256": "86175c8f207b361226682e35372c025e101844db6298be2b55c27ec54f23840b"
+    },
+    {
+      "path": "00_Inbox/核对S老师本地HTML发布边界_2026-11-19.md",
+      "bytes": 1614,
+      "sha256": "f8c04f3b23cbc36d62a38ccc4f28e2b11ba2662c593e25d57f5710bfcbdb8689"
     },
     {
       "path": "00_Inbox/补完中信期货席位一年回测_2026-08-23.md",
@@ -21864,8 +21869,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 13467,
-      "sha256": "0b3661b1531ee99eeb232f99d0617e756890dcc23dffd552ecc041fb40b7e4fe"
+      "bytes": 13895,
+      "sha256": "74f20da2799cbaf01fc2cf580b50889270a0fa39478481044a18b6a378ea25c5"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22233,6 +22238,21 @@
       "sha256": "dc58e2fc4d8ffeeec989fb86ca6e94cfd0000b64abaff7305aeda124d9812417"
     },
     {
+      "path": "80_复盘与版本演化/2026-W47_Codex会话台账.md",
+      "bytes": 2172,
+      "sha256": "5a1209871c554b52270f70fb9e01a7ab5404181957a6271606f50b16467d5880"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W47_Codex工作周报.md",
+      "bytes": 4415,
+      "sha256": "81ae593a8e6573ef2f4fbe1203abe5fe7a2a98114d84a6bc96eaf8721a0adab0"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W47_Codex资产与待办索引.md",
+      "bytes": 2152,
+      "sha256": "23ceb5ddfdd34e57f3024d16a697622165498117e952890ea1723c2d43c52c65"
+    },
+    {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
       "bytes": 1277,
       "sha256": "fb8a5af93cd34f6d96ead69deb41024887d3a3240d406b801a06cb2a3764f7c7"
@@ -22341,6 +22361,16 @@
       "path": "80_复盘与版本演化/S老师方法论HTML资产_2026-09-02.md",
       "bytes": 1149,
       "sha256": "72693d6b6eb207b88b09a2d2e8ea050daa66abe5e10c14ff9609986b5f7480bd"
+    },
+    {
+      "path": "80_复盘与版本演化/S老师视频试剪与三库本地交付_2026-11-17.md",
+      "bytes": 1800,
+      "sha256": "bafc6ef4c3bebdb6977474cff3a8133fa71bdf5b34965aa618a124cceb3d85b5"
+    },
+    {
+      "path": "80_复盘与版本演化/S老师语料索引与本地浏览页更新_2026-11-18.md",
+      "bytes": 1739,
+      "sha256": "bae490cbadb6ebc93f80e8adca6183cc7d8b7086ec229e55262963a12b0319b1"
     },
     {
       "path": "80_复盘与版本演化/S量化五维PK不限家公司生产发布_2026-11-10.md",
@@ -22754,8 +22784,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 827,
-      "sha256": "40ef2a690ee28b847c4ea2d184b382676bfef168456fc2906a1bd1c14d9d0fdb"
+      "bytes": 938,
+      "sha256": "b880641b2fd4fb1ff4be77328e1c4c07021cd2d354d97bce3ed316d26bc6f8a8"
     },
     {
       "path": "_ops/external_media_manifest.csv",
