@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T10:02:54+08:00",
+  "generated_at": "2026-11-22T10:00:45+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4585,
-  "bytes": 70864543,
-  "copied_or_updated": 9,
-  "unchanged": 4576,
+  "files": 4588,
+  "bytes": 70878660,
+  "copied_or_updated": 10,
+  "unchanged": 4578,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 14754,
-      "sha256": "9118945eae47fc687538921917fcded199280f82b3fb5517f79fcd34f55a267e"
+      "bytes": 15003,
+      "sha256": "416a528a959332fe7f87ceab3d882981ee406bc884f6ee9ff016d401b0ea298f"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1584,8 +1584,8 @@
     },
     {
       "path": "00_Inbox/完成Chrome_Edge_飞书安全缓存清理_2026-11-13.md",
-      "bytes": 1545,
-      "sha256": "41b4518bf365c6d2ab3718e8e21a2f680107f633afe6894630f531ee27cf081d"
+      "bytes": 2417,
+      "sha256": "3d6e9c62eb37cc02ac5c66d7cd0a0381eb693ba47c15dfbea51216cea1223b7f"
     },
     {
       "path": "00_Inbox/审计飞书作业误触发同步_2026-11-05.md",
@@ -1626,6 +1626,11 @@
       "path": "00_Inbox/核对S老师本地HTML发布边界_2026-11-19.md",
       "bytes": 1614,
       "sha256": "f8c04f3b23cbc36d62a38ccc4f28e2b11ba2662c593e25d57f5710bfcbdb8689"
+    },
+    {
+      "path": "00_Inbox/核查高反差成语04-08素材包缺失_2026-11-22.md",
+      "bytes": 1250,
+      "sha256": "614d313a35d448eef70feae102785bcbbafa68a3da61837b749595e73c172e6b"
     },
     {
       "path": "00_Inbox/补完中信期货席位一年回测_2026-08-23.md",
@@ -21869,8 +21874,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 13895,
-      "sha256": "74f20da2799cbaf01fc2cf580b50889270a0fa39478481044a18b6a378ea25c5"
+      "bytes": 14144,
+      "sha256": "799106249443c353076863928273e2203462b364d436fbb2643b2bc01ac3d81c"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22239,18 +22244,18 @@
     },
     {
       "path": "80_复盘与版本演化/2026-W47_Codex会话台账.md",
-      "bytes": 2172,
-      "sha256": "5a1209871c554b52270f70fb9e01a7ab5404181957a6271606f50b16467d5880"
+      "bytes": 3941,
+      "sha256": "01279c80beb2bfa763e22e07440aec84cb861a9b6bcb2afa4820239cbccc64f5"
     },
     {
       "path": "80_复盘与版本演化/2026-W47_Codex工作周报.md",
-      "bytes": 4415,
-      "sha256": "81ae593a8e6573ef2f4fbe1203abe5fe7a2a98114d84a6bc96eaf8721a0adab0"
+      "bytes": 9301,
+      "sha256": "923d2e35d039a2d98ca459a931a126f7726fdd6ddf48519a2488655654f5fd6d"
     },
     {
       "path": "80_复盘与版本演化/2026-W47_Codex资产与待办索引.md",
-      "bytes": 2152,
-      "sha256": "23ceb5ddfdd34e57f3024d16a697622165498117e952890ea1723c2d43c52c65"
+      "bytes": 3744,
+      "sha256": "90036ea5ce40e77fd5b53ca578639c52c05a91dbc53a2cc740ad963aa92c87d2"
     },
     {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
@@ -22481,6 +22486,11 @@
       "path": "80_复盘与版本演化/dify-api-bzsj一二维度吞吐生产优化_2026-09-04.md",
       "bytes": 1134,
       "sha256": "f9f15e698a4112045a15e2e5e125d73e99e1849829f2c1c37603570d95364ae3"
+    },
+    {
+      "path": "80_复盘与版本演化/ip-storyboard-material-finder技能安装_2026-11-21.md",
+      "bytes": 1264,
+      "sha256": "b80290170458f53621a6d1d6a41ea7bbbb919e4239feb920e0deddcf86b468d4"
     },
     {
       "path": "80_复盘与版本演化/mgnt-agent-front产业链交互与直播文案生产发布_2026-09-22.md",
@@ -22743,6 +22753,11 @@
       "sha256": "31afea21cb045ebba58b910f0f059849f7e562943f0afb4fa98de048d424156b"
     },
     {
+      "path": "80_复盘与版本演化/高反差成语历史分镜素材交付与缺失核查_2026-11-21.md",
+      "bytes": 1866,
+      "sha256": "8759047aa8744854a4557476a751fcf89e4897108c3bb7d1734131e40a4e1201"
+    },
+    {
       "path": "80_复盘与版本演化/黄埔25期三季报覆盖只读审计_2026-11-02.md",
       "bytes": 1500,
       "sha256": "ea6ee34f5c99a128399677f0f4e5f4605b3b6375fe1443335c57caf729ca87cd"
@@ -22784,8 +22799,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 938,
-      "sha256": "b880641b2fd4fb1ff4be77328e1c4c07021cd2d354d97bce3ed316d26bc6f8a8"
+      "bytes": 1058,
+      "sha256": "dd7820ad0a75fd5b25c6f5b951c4e911824ae39fcf30669777b553acc6a2b4b3"
     },
     {
       "path": "_ops/external_media_manifest.csv",

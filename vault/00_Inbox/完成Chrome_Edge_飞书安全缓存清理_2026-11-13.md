@@ -2,15 +2,15 @@
 type: action
 domain: windows-storage
 project: 本机Windows应用缓存（无代码仓库）
-status: pending
+status: needs-validation
 priority: medium
 source: Codex Desktop cache audit
 source_session: 01a1d28d-f997-7a61-8da7-ba57da150e90
 artifact_path: D:\Evan\WeChat-Cache-Backup-20261114
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-22
 tags:
-  - action/pending
+  - action/needs-validation
   - windows/storage
 ---
 # 完成Chrome、Edge、飞书安全缓存清理
@@ -30,3 +30,19 @@ tags:
 - [ ] 先核实各应用当前状态，使用其官方清理入口或明确可识别的缓存范围；保留Cookies、登录态、微信聊天文件及Codex会话。
 - [ ] 分别记录清理前后应用缓存体量和C盘可用空间，确认应用可正常启动且登录状态未丢失。
 - [ ] 确认微信恢复路径与正常使用后，再决定是否保留D盘备份；不未经确认删除。
+
+## 2026-11-20 进展
+
+### 事实
+
+- 来源：session `01a1f7ff-9181-72d0-b8cb-2f35db8494e0`；项目路径：本机Windows C/D盘。PowerShell清理Chrome/Edge普通缓存1.73 GiB和飞书缓存4.88 GiB，另清传递优化缓存1.60 GiB。会话末C盘可用33.04 GiB，较该轮清理前净增7.62 GiB；无新增文件产物。
+- Windows更新组件清理因DISM权限错误`0x80070005`未完成。此结果不证明Chrome、Edge、飞书登录态已实测正常。
+
+### 推断
+
+- 上方原始待办中的缓存删除部分已完成，但应用功能与登录状态尚缺回归，故保留核验状态。
+
+### 行动项
+
+- [ ] 分别打开Chrome、Edge、飞书核对登录态和常用页面；如有问题先使用各应用官方恢复流程。
+- [ ] 组件存储只用受支持的Windows清理工具排障，不直接删除`.cat`等系统文件。
