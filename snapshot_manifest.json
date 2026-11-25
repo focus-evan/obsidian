@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T10:00:45+08:00",
+  "generated_at": "2026-11-25T09:59:10+08:00",
   "source": "D:\\Evan\\AI-KnowledgeHub",
   "destination": "D:\\Evan\\Codes\\obsidian\\vault",
-  "files": 4588,
-  "bytes": 70878660,
-  "copied_or_updated": 10,
-  "unchanged": 4578,
+  "files": 4597,
+  "bytes": 70904913,
+  "copied_or_updated": 12,
+  "unchanged": 4585,
   "removed": 0,
   "excluded_sensitive_paths": [
     ".obsidian/bookmarks.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "00_Codex工作索引.md",
-      "bytes": 15003,
-      "sha256": "416a528a959332fe7f87ceab3d882981ee406bc884f6ee9ff016d401b0ea298f"
+      "bytes": 15690,
+      "sha256": "b190a9228c17c939211966d25e3aca624570fe13268d8750a89a7dccfd873b96"
     },
     {
       "path": "00_Dashboard/00_操作台.md",
@@ -1583,6 +1583,11 @@
       "sha256": "1c45cfbbc36ac22900743279372f02a1ca4182fd3aabdf9ba51e0a424accaa93"
     },
     {
+      "path": "00_Inbox/发布黄埔期次角色与标的批次联动_2026-11-24.md",
+      "bytes": 1171,
+      "sha256": "8cbbab495e78d101d1605c735f9bcd198ae57d313b0355cb23601c42e31b8f40"
+    },
+    {
       "path": "00_Inbox/完成Chrome_Edge_飞书安全缓存清理_2026-11-13.md",
       "bytes": 2417,
       "sha256": "3d6e9c62eb37cc02ac5c66d7cd0a0381eb693ba47c15dfbea51216cea1223b7f"
@@ -1636,6 +1641,11 @@
       "path": "00_Inbox/补完中信期货席位一年回测_2026-08-23.md",
       "bytes": 1278,
       "sha256": "7e79326d8b9d8ae47a3d363369ae801c14573ca5408bf670eb11c4fcb4c27090"
+    },
+    {
+      "path": "00_Inbox/补齐ai-stock迁移增量与历史验收_2026-11-23.md",
+      "bytes": 1452,
+      "sha256": "4c4dd99b10726f11768f50428680e9b90c7749d639ce072fd28a932c7c81ac3f"
     },
     {
       "path": "00_Inbox/账号管理搜索修复待发布_2026-09-08.md",
@@ -21874,8 +21884,8 @@
     },
     {
       "path": "80_复盘与版本演化/00_MOC_复盘与版本演化.md",
-      "bytes": 14144,
-      "sha256": "799106249443c353076863928273e2203462b364d436fbb2643b2bc01ac3d81c"
+      "bytes": 14831,
+      "sha256": "d6ff223c8755dd7311e973d1324abd8bd704607b44cc69e18daffdde59b08746"
     },
     {
       "path": "80_复盘与版本演化/2026-W23_Codex会话台账.md",
@@ -22258,6 +22268,21 @@
       "sha256": "90036ea5ce40e77fd5b53ca578639c52c05a91dbc53a2cc740ad963aa92c87d2"
     },
     {
+      "path": "80_复盘与版本演化/2026-W48_Codex会话台账.md",
+      "bytes": 3612,
+      "sha256": "863d7d58f4fef951c366f000b7a58edaece070dc068ff44cddc8d7c6ebf6bfce"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W48_Codex工作周报.md",
+      "bytes": 6736,
+      "sha256": "428d2e043cebfdbb173e670666c883e91f3453aa61c208bd5ee6b6b236c9e617"
+    },
+    {
+      "path": "80_复盘与版本演化/2026-W48_Codex资产与待办索引.md",
+      "bytes": 2761,
+      "sha256": "f614c5df26224d3cdc1bb632662cc3fc9091c664db5ffc1264f034df98184a80"
+    },
+    {
       "path": "80_复盘与版本演化/AI-Stock战法审计与优化前后对比_2026-09-05.md",
       "bytes": 1277,
       "sha256": "fb8a5af93cd34f6d96ead69deb41024887d3a3240d406b801a06cb2a3764f7c7"
@@ -22448,6 +22473,11 @@
       "sha256": "6120ea54a1e8b7350c6a32e6afb10d0952c339335dd962581a9373b7458f2658"
     },
     {
+      "path": "80_复盘与版本演化/ai-stock新ECS迁移与备份_2026-11-23.md",
+      "bytes": 2138,
+      "sha256": "8e7583eb02479df15bf1397bd944c60a38656033c2057860f1d02684cd92ebcc"
+    },
+    {
       "path": "80_复盘与版本演化/ai-stock机构研报研究生产发布_2026-10-11.md",
       "bytes": 1779,
       "sha256": "04e13c976ef3ae3eb520a8b559f7de61826a4b9762f349b402c97690192b29ea"
@@ -22618,6 +22648,11 @@
       "sha256": "fd2bdeef712f5b8fdd34f9bbf98ee8a60c9cacf218f0fcc9f2fecc941a39c308"
     },
     {
+      "path": "80_复盘与版本演化/投研语料与产业智能体测试迭代_2026-11-23_to_24.md",
+      "bytes": 2545,
+      "sha256": "b92f04a0bb5b03403b8e899072b550434ddb29deae4b8d9fc180bf82f89e124b"
+    },
+    {
       "path": "80_复盘与版本演化/抖音五账号语料同步迁移_2026-10-14.md",
       "bytes": 1818,
       "sha256": "8a938a325a0c38172fc00bfa76dcfffddb507a1bb7464cfe7c69db366f4a97a7"
@@ -22643,9 +22678,19 @@
       "sha256": "45352cdfc2db84ef1aece3cb9405c406079e389b9296f50e8451e876f26f9f46"
     },
     {
+      "path": "80_复盘与版本演化/生产发布Skill迁移包与视频资产_2026-11-23_to_24.md",
+      "bytes": 1986,
+      "sha256": "a5330c4ae1890fbf585d7988f871acc59a93484d073246f6e2bb0043d9808677"
+    },
+    {
       "path": "80_复盘与版本演化/第一性原理个人成长拆解卡生产发布_2026-10-20.md",
       "bytes": 2016,
       "sha256": "20a7e6e47d1b1dc25985285e205129152a863e2598021a911725233692e94baf"
+    },
+    {
+      "path": "80_复盘与版本演化/第一性原理作业与资产配置权限发布_2026-11-23_to_24.md",
+      "bytes": 2240,
+      "sha256": "c9babd3bcf87efd2ef7948a69128a2970308f75e4e20340c81321b2dead4121b"
     },
     {
       "path": "80_复盘与版本演化/第一性原理学员工具与作业治理生产发布_2026-10-13_to_2026-10-15.md",
@@ -22799,8 +22844,8 @@
     },
     {
       "path": "_ops/codex_obsidian_sync_state.json",
-      "bytes": 1058,
-      "sha256": "dd7820ad0a75fd5b25c6f5b951c4e911824ae39fcf30669777b553acc6a2b4b3"
+      "bytes": 1296,
+      "sha256": "6a2fc7304bd1f9cfc40759833cb341abf84085472783230fa2d2ceaa63fc0235"
     },
     {
       "path": "_ops/external_media_manifest.csv",
